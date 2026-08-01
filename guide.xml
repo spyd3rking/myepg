@@ -5,6 +5,7 @@
 <channel id="HBOHits.id"><display-name>HBO Hits</display-name></channel>
 <channel id="HBOSignature.id"><display-name>HBO Signature</display-name></channel>
 <channel id="HITSNOW.id"><display-name>HITS Now</display-name></channel>
+<channel id="Cinemax.id"><display-name>Cinemax</display-name></channel>
 <channel id="ABCAustralia.au"><display-name>ABC Australia</display-name><icon src="https://i.imgur.com/qQ33TVM.png"/></channel>
 <channel id="AlJazeera.qa"><display-name>Al Jazeera English</display-name><icon src="https://upload.wikimedia.org/wikipedia/ms/thumb/f/f2/Aljazeera_eng.svg/500px-Aljazeera_eng.svg.png"/></channel>
 <channel id="AlQuranAlKareemTV.sa"><display-name>Al Quran Al Kareem</display-name><icon src="https://aloula.faulio.com/storage/mediagallery/da/6c/fullhd_7eaf7e165c4cad5b3a45eff65d2011e18be5d670.png"/></channel>
@@ -1606,6 +1607,35 @@
 <programme start="20260802141800 +0000" stop="20260802155200 +0000" channel="CinemachiXtra.uk"><title lang="id">Sinister Tales: The Haunting</title></programme>
 <programme start="20260802155200 +0000" stop="20260802172100 +0000" channel="CinemachiXtra.uk"><title lang="id">My Private Line To God</title></programme>
 <programme start="20260802155200 +0000" stop="20260802172100 +0000" channel="CinemachiXtra.uk"><title lang="id">My Private Line To God</title></programme>
+<programme start="20260731170000 +0000" stop="20260731173500 +0000" channel="Cinemax.id"><title lang="id">Alarum</title></programme>
+<programme start="20260731173500 +0000" stop="20260731192000 +0000" channel="Cinemax.id"><title lang="id">Civil War</title></programme>
+<programme start="20260731192000 +0000" stop="20260731204000 +0000" channel="Cinemax.id"><title lang="id">The Dictator</title></programme>
+<programme start="20260731204000 +0000" stop="20260731220000 +0000" channel="Cinemax.id"><title lang="id">The Gallows</title></programme>
+<programme start="20260731220000 +0000" stop="20260731232500 +0000" channel="Cinemax.id"><title lang="id">Life Support</title></programme>
+<programme start="20260731232500 +0000" stop="20260801011000 +0000" channel="Cinemax.id"><title lang="id">Caddo Lake</title></programme>
+<programme start="20260801011000 +0000" stop="20260801025000 +0000" channel="Cinemax.id"><title lang="id">Changing Lanes</title></programme>
+<programme start="20260801025000 +0000" stop="20260801044500 +0000" channel="Cinemax.id"><title lang="id">Dinner for Schmucks</title></programme>
+<programme start="20260801044500 +0000" stop="20260801062500 +0000" channel="Cinemax.id"><title lang="id">Wifelike</title></programme>
+<programme start="20260801062500 +0000" stop="20260801080500 +0000" channel="Cinemax.id"><title lang="id">Drop</title></programme>
+<programme start="20260801080500 +0000" stop="20260801083500 +0000" channel="Cinemax.id"><title lang="id">Hollywood on Set, Ep. 1180</title><episode-num system="xmltv_ns">0.1179.0/1</episode-num><episode-num system="onscreen">S01E1180</episode-num></programme>
+<programme start="20260801083500 +0000" stop="20260801101500 +0000" channel="Cinemax.id"><title lang="id">Too Big to Fail</title></programme>
+<programme start="20260801101500 +0000" stop="20260801121000 +0000" channel="Cinemax.id"><title lang="id">Recount</title></programme>
+<programme start="20260801121000 +0000" stop="20260801140000 +0000" channel="Cinemax.id"><title lang="id">Get Smart</title></programme>
+<programme start="20260801140000 +0000" stop="20260801161000 +0000" channel="Cinemax.id"><title lang="id">Shazam!</title></programme>
+<programme start="20260801161000 +0000" stop="20260801170000 +0000" channel="Cinemax.id"><title lang="id">King Kong</title></programme>
+<programme start="20260801170000 +0000" stop="20260801191000 +0000" channel="Cinemax.id"><title lang="id">King Kong</title></programme>
+<programme start="20260801191000 +0000" stop="20260801204000 +0000" channel="Cinemax.id"><title lang="id">Old Guy</title></programme>
+<programme start="20260801204000 +0000" stop="20260801221500 +0000" channel="Cinemax.id"><title lang="id">Pu-239</title></programme>
+<programme start="20260801221500 +0000" stop="20260801235000 +0000" channel="Cinemax.id"><title lang="id">Changing Lanes</title></programme>
+<programme start="20260801235000 +0000" stop="20260802014000 +0000" channel="Cinemax.id"><title lang="id">Dinner for Schmucks</title></programme>
+<programme start="20260802014000 +0000" stop="20260802031500 +0000" channel="Cinemax.id"><title lang="id">Drop</title></programme>
+<programme start="20260802031500 +0000" stop="20260802045500 +0000" channel="Cinemax.id"><title lang="id">Wifelike</title></programme>
+<programme start="20260802045500 +0000" stop="20260802080000 +0000" channel="Cinemax.id"><title lang="id">King Kong</title></programme>
+<programme start="20260802080000 +0000" stop="20260802101500 +0000" channel="Cinemax.id"><title lang="id">Shazam!</title></programme>
+<programme start="20260802101500 +0000" stop="20260802120500 +0000" channel="Cinemax.id"><title lang="id">Get Smart</title></programme>
+<programme start="20260802120500 +0000" stop="20260802140000 +0000" channel="Cinemax.id"><title lang="id">Hustle &amp; Flow</title></programme>
+<programme start="20260802140000 +0000" stop="20260802160000 +0000" channel="Cinemax.id"><title lang="id">Joker</title></programme>
+<programme start="20260802160000 +0000" stop="20260802170000 +0000" channel="Cinemax.id"><title lang="id">Old Guy</title></programme>
 <programme start="20260731170000 +0000" stop="20260731180000 +0000" channel="CNA.id"><title lang="id">Lost Plantations</title></programme>
 <programme start="20260731180000 +0000" stop="20260731190000 +0000" channel="CNA.id"><title lang="id">Singapore Tonight</title></programme>
 <programme start="20260731190000 +0000" stop="20260731200000 +0000" channel="CNA.id"><title lang="id">Let Me Tell You Story S2, Ep 3</title><episode-num system="xmltv_ns">1.2.0/1</episode-num><episode-num system="onscreen">S02E03</episode-num></programme>
