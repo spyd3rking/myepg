@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <channels>
   <channel site="tivie.id" site_id="warner" lang="id" xmltv_id="WarnerTV.id">Warner TV</channel>
-  <channel site="mncvision.id" site_id="90" lang="id" xmltv_id="">Hanacaraka TV</channel>
+  <channel site="tivie.id" site_id="hbo" lang="id" xmltv_id="HBO.id">HBO</channel>
+  <channel site="tivie.id" site_id="hbofamily" lang="id" xmltv_id="HBOFamily.id">HBO Family</channel>
+  <channel site="tivie.id" site_id="hbohits" lang="id" xmltv_id="HBOHits.id">HBO Hits</channel>
+  <channel site="tivie.id" site_id="hbosignature" lang="id" xmltv_id="HBOSignature.id">HBO Signature</channel>
   <channel site="mncvision.id" site_id="350" lang="id" xmltv_id="ABCAustralia.au">ABC Australia</channel>
   <channel site="mncvision.id" site_id="331" lang="id" xmltv_id="AlJazeera.qa@English">Al Jazeera English</channel>
   <channel site="mncvision.id" site_id="93" lang="id" xmltv_id="AlQuranAlKareemTV.sa">Al Quran Al Kareem</channel>
@@ -9,15 +12,15 @@
   <channel site="mncvision.id" site_id="115" lang="id" xmltv_id="ANTV.id">ANTV</channel>
   <channel site="mncvision.id" site_id="351" lang="id" xmltv_id="ArirangWorld.kr">Arirang</channel>
   <channel site="mncvision.id" site_id="154" lang="id" xmltv_id="AXN.id">AXN</channel>
-  <channel site="mncvision.id" site_id="200" lang="id" xmltv_id="BBCEarth.uk">BBC Earth</channel>
-  <channel site="mncvision.id" site_id="461" lang="id" xmltv_id="BBCEarth.uk">BBC Earth HD</channel>
-  <channel site="mncvision.id" site_id="332" lang="id" xmltv_id="BBCNews.uk">BBC World News</channel>
+  <channel site="mncvision.id" site_id="200" lang="id" xmltv_id="BBCEarth.uk@Asia">BBC Earth</channel>
+  <channel site="mncvision.id" site_id="461" lang="id" xmltv_id="BBCEarth.uk@AsiaHD">BBC Earth HD</channel>
+  <channel site="mncvision.id" site_id="332" lang="id" xmltv_id="BBCNews.uk@AsiaPacific">BBC World News</channel>
   <channel site="mncvision.id" site_id="309" lang="id" xmltv_id="beINSports1.qa">beIN Sports 1</channel>
-  <channel site="mncvision.id" site_id="310" lang="id" xmltv_id="beINSports2.qa">beIN Sports 2</channel>
+  <channel site="mncvision.id" site_id="310" lang="id" xmltv_id="beINSports2.qa@MENA">beIN Sports 2</channel>
   <channel site="mncvision.id" site_id="311" lang="id" xmltv_id="beINSports3.qa">beIN Sports 3</channel>
-  <channel site="mncvision.id" site_id="312" lang="id" xmltv_id="beINSports4.qa">beIN SPORTS 4</channel>
-  <channel site="mncvision.id" site_id="313" lang="id" xmltv_id="beINSports5.qa">beIN SPORTS 5</channel>
-  <channel site="mncvision.id" site_id="338" lang="id" xmltv_id="BloombergTV.id">Bloomberg</channel>
+  <channel site="mncvision.id" site_id="312" lang="id" xmltv_id="beINSports4.qa@MENA">beIN SPORTS 4</channel>
+  <channel site="mncvision.id" site_id="313" lang="id" xmltv_id="beINSports5.qa@MENA">beIN SPORTS 5</channel>
+  <channel site="mncvision.id" site_id="338" lang="id" xmltv_id="BloombergTV.id@Asia">Bloomberg</channel>
   <channel site="mncvision.id" site_id="103" lang="id" xmltv_id="BTV.id">BTV</channel>
   <channel site="mncvision.id" site_id="41" lang="id" xmltv_id="CBeebiesAsia.uk">CBeebies</channel>
   <channel site="mncvision.id" site_id="96" lang="id" xmltv_id="CelebritiesTV.id">Celebrities TV</channel>
@@ -95,11 +98,13 @@
   <channel site="mncvision.id" site_id="102" lang="id" xmltv_id="Sportstars.id">Sportstars</channel>
   <channel site="mncvision.id" site_id="308" lang="id" xmltv_id="SPOTV2.id">SPOTV 2</channel>
   <channel site="mncvision.id" site_id="307" lang="id" xmltv_id="SPOTV.id">SPOTV</channel>
-  <channel site="mncvision.id" site_id="26" lang="id" xmltv_id="StudioUniversalLatinAmerica.id">Studio Universal</channel>
+  <channel site="mncvision.id" site_id="26" lang="id" xmltv_id="StudioUniversalLatinAmerica.id@Brazil">Studio Universal</channel>
   <channel site="mncvision.id" site_id="19" lang="id" xmltv_id="Thrill.id">Thrill</channel>
   <channel site="mncvision.id" site_id="110" lang="id" xmltv_id="Trans7.id">Trans 7</channel>
   <channel site="mncvision.id" site_id="87" lang="id" xmltv_id="TransTV.id">Trans TV</channel>
+  <channel site="mncvision.id" site_id="446" lang="id" xmltv_id="tvNAsia.id">tvN HD</channel>
   <channel site="mncvision.id" site_id="158" lang="id" xmltv_id="tvNAsia.id">tvN</channel>
+  <channel site="mncvision.id" site_id="415" lang="id" xmltv_id="tvNMoviesAsia.id">tvN Movies HD</channel>
   <channel site="mncvision.id" site_id="25" lang="id" xmltv_id="tvNMoviesAsia.id">tvN Movies</channel>
   <channel site="mncvision.id" site_id="97" lang="id" xmltv_id="tvOne.id">tvOne</channel>
   <channel site="mncvision.id" site_id="118" lang="id" xmltv_id="TVRI.id">TVRI</channel>
