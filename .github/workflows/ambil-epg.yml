@@ -16,6 +16,7 @@ jobs:
         repository: 'spyd3rking/tepg'
         ref: 'master'
 
+    # Menggunakan path terpisah agar tidak tumpang tindih dengan file bawaan scraper
     - name: Ambil Data Channel Pribadi
       uses: actions/checkout@v4
       with:
@@ -23,21 +24,22 @@ jobs:
 
     - name: Sinkronisasi File
       run: |
-        # Mengubah dari custom.channels.xml menjadi channels.xml sesuai nama baru Anda
+        # Memastikan file channels.xml disalin ke lokasi yang tepat untuk dibaca skrip
         cp my-config/channels.xml ./channels.xml
         mkdir -p public
 
     - name: Setup Node.js Environment
       uses: actions/setup-node@v4
       with:
-        node-version: '20'
+        # Mengubah ke Node 24 untuk menghilangkan pesan warning deprecated
+        node-version: '24'
 
     - name: Install Dependencies
       run: npm install
 
     - name: Mulai Mengambil Data Jadwal TV
-      # Menyesuaikan perintah ke channels.xml
-      run: npm run grab -- --channels=channels.xml --output=public/guide.xml
+      # Menjalankan langsung menggunakan skrip utama agar bypass kendala versi node pada npm run
+      run: node scripts/commands/epg/grab.js --channels=channels.xml --output=public/guide.xml
 
     - name: Simpan Hasil ke Repo Private
       env:
@@ -47,6 +49,7 @@ jobs:
         git config --global user.name "Robot-EPG"
         git config --global user.email "bot@github.com"
         
+        # Menyalin hasil jadinya kembali ke dalam repositori privat Anda
         cp ../public/guide.xml ./guide.xml
         
         git add guide.xml
