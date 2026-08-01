@@ -10,37 +10,40 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-    - name: Clone EPG Script
+    # 1. Unduh repositori scraper dari fork Anda (spyd3rking/tepg)
+    - name: Clone EPG Script Base
       uses: actions/checkout@v4
       with:
         repository: 'spyd3rking/tepg'
         ref: 'master'
 
-    # Menggunakan path terpisah agar tidak tumpang tindih dengan file bawaan scraper
+    # 2. Unduh isi repositori privat Anda ke folder sementara 'my-config'
     - name: Ambil Data Channel Pribadi
       uses: actions/checkout@v4
       with:
         path: 'my-config'
 
-    - name: Sinkronisasi File
+    # 3. Pindahkan berkas channels.xml ke root kerja utama agar terbaca oleh npm
+    - name: Sinkronisasi Berkas
       run: |
-        # Memastikan file channels.xml disalin ke lokasi yang tepat untuk dibaca skrip
         cp my-config/channels.xml ./channels.xml
         mkdir -p public
 
+    # 4. Siapkan lingkungan kerja Node.js versi 24
     - name: Setup Node.js Environment
       uses: actions/setup-node@v4
       with:
-        # Mengubah ke Node 24 untuk menghilangkan pesan warning deprecated
         node-version: '24'
 
+    # 5. Pasang modul-modul pendukung aplikasi
     - name: Install Dependencies
       run: npm install
 
+    # 6. Jalankan pembuat EPG menggunakan perintah npm resmi bawaan repo
     - name: Mulai Mengambil Data Jadwal TV
-      # Menjalankan langsung menggunakan skrip utama agar bypass kendala versi node pada npm run
-      run: node scripts/commands/epg/grab.js --channels=channels.xml --output=public/guide.xml
+      run: npm run grab -- --channels=channels.xml --output=public/guide.xml
 
+    # 7. Kirim kembali berkas hasil jadi guide.xml ke dalam repositori privat Anda
     - name: Simpan Hasil ke Repo Private
       env:
         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
@@ -49,9 +52,9 @@ jobs:
         git config --global user.name "Robot-EPG"
         git config --global user.email "bot@github.com"
         
-        # Menyalin hasil jadinya kembali ke dalam repositori privat Anda
+        # Salin dari folder public luar ke dalam folder repositori privat
         cp ../public/guide.xml ./guide.xml
         
         git add guide.xml
-        git commit -m "Update EPG otomatis harian" || echo "Tidak ada perubahan data jadwal"
+        git commit -m "Update EPG otomatis harian" || echo "Tidak ada perubahan jadwal"
         git push origin HEAD:${{ github.ref }}
