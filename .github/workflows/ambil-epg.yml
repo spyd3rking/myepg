@@ -1,0 +1,58 @@
+name: Scraper EPG Otomatis 24/7
+
+on:
+  schedule:
+    # Berjalan otomatis setiap hari jam 02.00 Subuh WIB (19.00 UTC)
+    - cron: '0 19 * * *'
+  workflow_dispatch: # Memunculkan tombol manual untuk tes jalan langsung
+
+jobs:
+  grab-epg:
+    runs-on: ubuntu-latest
+
+    steps:
+    # 1. Ambil script pemroses dari repositori epg milik Anda
+    - name: Clone EPG Script
+      uses: actions/checkout@v4
+      with:
+        repository: 'spyd3rking/tepg'
+        ref: 'master'
+
+    # 2. Ambil file channels.xml Anda sendiri dari repo privat ini
+    - name: Ambil Data Channel Pribadi
+      uses: actions/checkout@v4
+      with:
+        path: 'my-config'
+
+    # 3. Pindahkan file channel Anda ke folder sistem pencarian script
+    - name: Sinkronisasi File
+      run: |
+        cp my-config/channels.xml ./channels.xml
+        mkdir -p public
+
+    # 4. Setup Node.js di server GitHub
+    - name: Setup Node.js Environment
+      uses: actions/setup-node@v4
+      with:
+        node-version: '20'
+
+    # 5. Pasang aplikasi pendukung
+    - name: Install Dependencies
+      run: npm install
+
+    # 6. Jalankan perintah unduh EPG sesuai file daftar channel Anda
+    - name: Mulai Mengambil Data Jadwal TV
+      run: npm run grab -- --channels=channels.xml --output=public/guide.xml
+
+    # 7. Simpan file hasil unduhan kembali ke dalam repositori privat Anda
+    - name: Simpan Hasil guide.xml Ke Repo Private
+      env:
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      run: |
+        cd my-config
+        cp ../public/guide.xml ./guide.xml
+        git config --global user.name "Robot-EPG"
+        git config --global user.email "bot@github.com"
+        git add guide.xml
+        git diff-index --quiet HEAD || git commit -m "Update EPG otomatis harian"
+        git push origin HEAD:${{ github.ref }}
