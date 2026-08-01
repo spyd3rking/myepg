@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <channels>
-  <channel site="tivie.id" site_id="warner" lang="id" xmltv_id="WarnerTVAsia.us@SD">Warner TV</channel
+  <channel site="tivie.id" site_id="warner" lang="id" xmltv_id="WarnerTVAsia.us@SD">Warner TV</channel>
   <channel site="mncvision.id" site_id="90" lang="id" xmltv_id="">Hanacaraka TV</channel>
   <channel site="mncvision.id" site_id="350" lang="id" xmltv_id="ABCAustralia.au@SD">ABC Australia</channel>
   <channel site="mncvision.id" site_id="331" lang="id" xmltv_id="AlJazeera.qa@English">Al Jazeera English</channel>
