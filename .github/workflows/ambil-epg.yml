@@ -38,7 +38,7 @@ jobs:
       run: npm install
 
     - name: Mulai Mengambil Data Jadwal TV
-      run: npm run grab -- --channels=channels.xml --output=public/guide.xml
+      run: npm run grab -- --channels=channels.xml --output=public/guide.xml --days=3
 
     # LANGKAH KHUSUS: Mengubah teks nama pembuat secara otomatis menggunakan perintah sed Linux
     - name: Tambahkan Nama Pembuat Kustom ke XML
