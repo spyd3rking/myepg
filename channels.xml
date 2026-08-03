@@ -110,4 +110,6 @@
   <channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_MNSYMPLUS" lang="en" xmltv_id="MoviesNowPlus.in">MN+</channel>
   <channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_MNX_HD" lang="en" xmltv_id="MNX.in">MNX - HD</channel>
   <channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_MOVIES_NOW_HD" lang="en" xmltv_id="MoviesNow.in">MOVIES NOW HD</channel>
+  <channel site="tataplay.com" site_id="273" lang="en" xmltv_id="StarMovies.in">STAR Movies</channel>
+  <channel site="tataplay.com" site_id="1069" lang="en" xmltv_id="StarMoviesSelect.in">Star Movies Select</channel>
 </channels>
