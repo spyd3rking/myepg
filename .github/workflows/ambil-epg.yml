@@ -51,14 +51,15 @@ jobs:
         sudo apt-get update && sudo apt-get install -y libxml2-utils
         xmllint --format public/guide.xml --output public/guide.xml
 
-    # Catatan: Nama langkah di bawah sengaja tetap sesuai kode awal Anda, 
-    # namun pastikan permission write di atas tetap aktif jika push gagal.
+    # PERBAIKAN: Dua baris nama langkah sebelumnya digabung di sini agar struktur YAML valid
     - name: Simpan Hasil ke Repo
       env:
         # Gunakan token bawaan GitHub Actions untuk otentikasi push
         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
       run: |
         cd my-config
+        git config --global user.name "Robot-EPG"
+        git config --global user.email "bot@github.com"
         git config --local user.name "Robot-EPG"
         git config --local user.email "bot@github.com"
         
@@ -66,9 +67,4 @@ jobs:
         
         git add guide.xml
         git commit -m "Update EPG otomatis harian" || echo "Tidak ada perubahan jadwal"
-        
-        # Menggunakan format URL ber-token agar memiliki izin Write ke repo Anda
-        git remote set-url origin https://x-access-token:${{ secrets.GITHUB_TOKEN }}@://github.com{{ github.repository }}.git
-        
-        # Ganti 'main' di bawah sesuai dengan nama branch repositori pribadi Anda (misal: main atau master)
-        git push origin HEAD:main
+        git push origin HEAD:${{ github.ref }}
