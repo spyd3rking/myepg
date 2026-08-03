@@ -362,6 +362,9 @@
     <display-name>Reformed 21</display-name>
     <icon src="https://reformed21.tv/images/logo.png"/>
   </channel>
+  <channel id="Miramax.us">
+    <display-name>Miramax Movie Channel</display-name>
+  </channel>
   <channel id="MoviesNowPlus.in">
     <display-name>MN+</display-name>
     <icon src="https://dtil.tmsimg.com/assets/s143548_ld_h15_aa.png?lock=720x540"/>
@@ -373,6 +376,14 @@
   <channel id="MoviesNow.in">
     <display-name>MOVIES NOW HD</display-name>
     <icon src="https://dtil.tmsimg.com/assets/s147571_ld_h15_aa.png?lock=720x540"/>
+  </channel>
+  <channel id="StarMovies.in">
+    <display-name>STAR Movies</display-name>
+    <icon src="https://dtil.tmsimg.com/assets/s143829_ld_h15_aa.png?lock=720x540"/>
+  </channel>
+  <channel id="StarMoviesSelect.in">
+    <display-name>Star Movies Select</display-name>
+    <icon src="https://dtil.tmsimg.com/assets/s143830_ld_h15_aa.png?lock=720x540"/>
   </channel>
   <programme start="20260802171000 +0000" stop="20260802173000 +0000" channel="ABCAustralia.au">
     <title lang="id">ABC News Overnight</title>
@@ -19131,6 +19142,474 @@
   <programme start="20260805093000 +0000" stop="20260805100000 +0000" channel="MetroTV.id">
     <title lang="id">Metro TV</title>
   </programme>
+  <programme start="20260802235817 +0000" stop="20260803013653 +0000" channel="Miramax.us">
+    <title lang="en">Red Eye</title>
+    <desc lang="en">Moments after takeoff, Lisa’s seatmate, Jackson, menacingly reveals the real reason he’s on board.</desc>
+    <date>20050610</date>
+    <category lang="en">Thriller</category>
+    <category lang="en">Mystery</category>
+    <category lang="en">Action</category>
+    <rating>
+      <value>PG-13</value>
+    </rating>
+    <image>https://metadata-static.plex.tv/c/gracenote/c1c788980d839b0aa823db367e75357c.jpg</image>
+  </programme>
+  <programme start="20260803013653 +0000" stop="20260803040856 +0000" channel="Miramax.us">
+    <title lang="en">Shutter Island</title>
+    <desc lang="en">U.S. Marshal Teddy Daniels uncovers terrifying truths about the island.</desc>
+    <date>20100218</date>
+    <category lang="en">Drama</category>
+    <category lang="en">Thriller</category>
+    <category lang="en">Mystery</category>
+    <rating>
+      <value>TV-14</value>
+    </rating>
+    <image>https://metadata-static.plex.tv/f/gracenote/f3ef53b8ef03d8a66e999e967c8e7ccc.jpg</image>
+  </programme>
+  <programme start="20260803040856 +0000" stop="20260803061033 +0000" channel="Miramax.us">
+    <title lang="en">10 Cloverfield Lane</title>
+    <desc lang="en">After a car crash, a woman wakes up in a survivalist’s bunker. He claims to have saved her</desc>
+    <date>20160310</date>
+    <category lang="en">Horror</category>
+    <category lang="en">Science Fiction</category>
+    <category lang="en">Thriller</category>
+    <category lang="en">Drama</category>
+    <rating>
+      <value>PG-13</value>
+    </rating>
+    <image>https://metadata-static.plex.tv/7/gracenote/756faf2507dc2a2bd29902bd7058759e.jpg</image>
+  </programme>
+  <programme start="20260803061033 +0000" stop="20260803082618 +0000" channel="Miramax.us">
+    <title lang="en">Eagle Eye</title>
+    <desc lang="en">Jerry and Rachel are two strangers thrown together by a phone call from a woman they have never met.</desc>
+    <date>20080925</date>
+    <category lang="en">Thriller</category>
+    <category lang="en">Mystery</category>
+    <category lang="en">Action</category>
+    <rating>
+      <value>PG-13</value>
+    </rating>
+    <image>https://metadata-static.plex.tv/5/gracenote/5a2f72dd854b8a2f68739a067adb4bdd.jpg</image>
+  </programme>
+  <programme start="20260803082618 +0000" stop="20260803102410 +0000" channel="Miramax.us">
+    <title lang="en">Universal Soldier</title>
+    <desc lang="en">A reporter discovers a Defense Department project to create androids from the bodies of Vietnam soldiers</desc>
+    <date>19920710</date>
+    <category lang="en">Action</category>
+    <category lang="en">Science Fiction</category>
+    <category lang="en">Thriller</category>
+    <category lang="en">Crime</category>
+    <rating>
+      <value>TV-14</value>
+    </rating>
+    <image>https://metadata-static.plex.tv/2/gracenote/24f731de2886f19b28c76c202a6b7df7.jpg</image>
+  </programme>
+  <programme start="20260803102410 +0000" stop="20260803123204 +0000" channel="Miramax.us">
+    <title lang="en">Sands of Iwo Jima</title>
+    <desc lang="en">Tough-as-nails career Marine Sergeant John Stryker is greatly disliked by the men of his squad.</desc>
+    <date>19491214</date>
+    <category lang="en">War</category>
+    <category lang="en">Action</category>
+    <category lang="en">Drama</category>
+    <category lang="en">Romance</category>
+    <rating>
+      <value>TV-14</value>
+    </rating>
+    <image>https://metadata-static.plex.tv/5/gracenote/54ace147509678698228d60f712dd362.jpg</image>
+  </programme>
+  <programme start="20260803123204 +0000" stop="20260803144302 +0000" channel="Miramax.us">
+    <title lang="en">We Were Soldiers</title>
+    <desc lang="en">The first major battle of the American phase of the Vietnam War and the soldiers on both sides that fought.</desc>
+    <date>20020301</date>
+    <category lang="en">War</category>
+    <category lang="en">Action</category>
+    <category lang="en">Drama</category>
+    <category lang="en">History</category>
+    <rating>
+      <value>TV-14</value>
+    </rating>
+    <image>https://metadata-static.plex.tv/6/gracenote/62bb9f9446b2e33756ac15b8177685c7.jpg</image>
+  </programme>
+  <programme start="20260803144302 +0000" stop="20260803171729 +0000" channel="Miramax.us">
+    <title lang="en">Defiance</title>
+    <desc lang="en">Defiance is a riveting adventure that showcases the extraordinary true story of the Bielski brothers.</desc>
+    <date>20081231</date>
+    <category lang="en">War</category>
+    <category lang="en">Drama</category>
+    <category lang="en">Action</category>
+    <category lang="en">History</category>
+    <category lang="en">Thriller</category>
+    <rating>
+      <value>TV-14</value>
+    </rating>
+    <image>https://metadata-static.plex.tv/6/gracenote/6349f06831452ed640469355e8ca562e.jpg</image>
+  </programme>
+  <programme start="20260803171729 +0000" stop="20260803194424 +0000" channel="Miramax.us">
+    <title lang="en">Enemy At the Gates</title>
+    <desc lang="en">Two Russian and German snipers play a game of cat-and-mouse during the Battle of Stalingrad.</desc>
+    <date>20010314</date>
+    <category lang="en">War</category>
+    <category lang="en">Drama</category>
+    <category lang="en">Action</category>
+    <category lang="en">History</category>
+    <category lang="en">Romance</category>
+    <rating>
+      <value>TV-14</value>
+    </rating>
+    <image>https://metadata-static.plex.tv/f/gracenote/fd8dbc38428852cda45ea155a99345f4.jpg</image>
+  </programme>
+  <programme start="20260803194424 +0000" stop="20260803220009 +0000" channel="Miramax.us">
+    <title lang="en">Eagle Eye</title>
+    <desc lang="en">Jerry and Rachel are two strangers thrown together by a phone call from a woman they have never met.</desc>
+    <date>20080925</date>
+    <category lang="en">Thriller</category>
+    <category lang="en">Mystery</category>
+    <category lang="en">Action</category>
+    <rating>
+      <value>PG-13</value>
+    </rating>
+    <image>https://metadata-static.plex.tv/5/gracenote/5a2f72dd854b8a2f68739a067adb4bdd.jpg</image>
+  </programme>
+  <programme start="20260803220009 +0000" stop="20260803235801 +0000" channel="Miramax.us">
+    <title lang="en">Universal Soldier</title>
+    <desc lang="en">A reporter discovers a Defense Department project to create androids from the bodies of Vietnam soldiers</desc>
+    <date>19920710</date>
+    <category lang="en">Action</category>
+    <category lang="en">Science Fiction</category>
+    <category lang="en">Thriller</category>
+    <category lang="en">Crime</category>
+    <rating>
+      <value>TV-14</value>
+    </rating>
+    <image>https://metadata-static.plex.tv/2/gracenote/24f731de2886f19b28c76c202a6b7df7.jpg</image>
+  </programme>
+  <programme start="20260803235801 +0000" stop="20260804020555 +0000" channel="Miramax.us">
+    <title lang="en">Sands of Iwo Jima</title>
+    <desc lang="en">Tough-as-nails career Marine Sergeant John Stryker is greatly disliked by the men of his squad.</desc>
+    <date>19491214</date>
+    <category lang="en">War</category>
+    <category lang="en">Action</category>
+    <category lang="en">Drama</category>
+    <category lang="en">Romance</category>
+    <rating>
+      <value>TV-14</value>
+    </rating>
+    <image>https://metadata-static.plex.tv/5/gracenote/54ace147509678698228d60f712dd362.jpg</image>
+  </programme>
+  <programme start="20260803235801 +0000" stop="20260804020555 +0000" channel="Miramax.us">
+    <title lang="en">Sands of Iwo Jima</title>
+    <desc lang="en">Tough-as-nails career Marine Sergeant John Stryker is greatly disliked by the men of his squad.</desc>
+    <date>19491214</date>
+    <category lang="en">War</category>
+    <category lang="en">Action</category>
+    <category lang="en">Drama</category>
+    <category lang="en">Romance</category>
+    <rating>
+      <value>TV-14</value>
+    </rating>
+    <image>https://metadata-static.plex.tv/5/gracenote/54ace147509678698228d60f712dd362.jpg</image>
+  </programme>
+  <programme start="20260804020555 +0000" stop="20260804041653 +0000" channel="Miramax.us">
+    <title lang="en">We Were Soldiers</title>
+    <desc lang="en">The first major battle of the American phase of the Vietnam War and the soldiers on both sides that fought.</desc>
+    <date>20020301</date>
+    <category lang="en">War</category>
+    <category lang="en">Action</category>
+    <category lang="en">Drama</category>
+    <category lang="en">History</category>
+    <rating>
+      <value>TV-14</value>
+    </rating>
+    <image>https://metadata-static.plex.tv/6/gracenote/62bb9f9446b2e33756ac15b8177685c7.jpg</image>
+  </programme>
+  <programme start="20260804041653 +0000" stop="20260804065120 +0000" channel="Miramax.us">
+    <title lang="en">Defiance</title>
+    <desc lang="en">Defiance is a riveting adventure that showcases the extraordinary true story of the Bielski brothers.</desc>
+    <date>20081231</date>
+    <category lang="en">War</category>
+    <category lang="en">Drama</category>
+    <category lang="en">Action</category>
+    <category lang="en">History</category>
+    <category lang="en">Thriller</category>
+    <rating>
+      <value>TV-14</value>
+    </rating>
+    <image>https://metadata-static.plex.tv/6/gracenote/6349f06831452ed640469355e8ca562e.jpg</image>
+  </programme>
+  <programme start="20260804065120 +0000" stop="20260804085608 +0000" channel="Miramax.us">
+    <title lang="en">Congo</title>
+    <desc lang="en">When an explorer’s quest for a diamond mine ends tragically, Dr. Karen Ross is sent to continue the hunt.</desc>
+    <date>19950609</date>
+    <category lang="en">Action</category>
+    <category lang="en">Adventure</category>
+    <category lang="en">Mystery</category>
+    <category lang="en">Science Fiction</category>
+    <rating>
+      <value>PG-13</value>
+    </rating>
+    <image>https://image.tmdb.org/t/p/original/hPNSToNIIpRO6y5Rh973leqQqNr.jpg</image>
+  </programme>
+  <programme start="20260804085608 +0000" stop="20260804112024 +0000" channel="Miramax.us">
+    <title lang="en">Walking Tall</title>
+    <desc lang="en">Based on the life of Tennessee sheriff Buford Pusser whom almost single-handily cleaned up his small town</desc>
+    <date>19730222</date>
+    <category lang="en">Action</category>
+    <category lang="en">Drama</category>
+    <category lang="en">Crime</category>
+    <category lang="en">Biography</category>
+    <category lang="en">Thriller</category>
+    <rating>
+      <value>TV-14</value>
+    </rating>
+    <image>https://metadata-static.plex.tv/7/gracenote/768c2e2a3a1d6b6381bb31398c2085b0.jpg</image>
+  </programme>
+  <programme start="20260804112024 +0000" stop="20260804130643 +0000" channel="Miramax.us">
+    <title lang="en">The Hunted</title>
+    <desc lang="en">The FBI's tracker is on the trail of a villain who murders people in order to become the subject of a manhunt.</desc>
+    <date>20240118</date>
+    <category lang="en">Horror</category>
+    <category lang="en">Thriller</category>
+    <rating>
+      <value>TV-14</value>
+    </rating>
+    <image>https://metadata-static.plex.tv/e/gracenote/eb7b30c4bd72a27889199edf6540892d.jpg</image>
+  </programme>
+  <programme start="20260804130643 +0000" stop="20260804145124 +0000" channel="Miramax.us">
+    <title lang="en">The Time Machine</title>
+    <desc lang="en">Hoping to alter the events of the past, a 19th century inventor instead travels 800,000 years into the future</desc>
+    <date>20020307</date>
+    <category lang="en">Science Fiction</category>
+    <category lang="en">Action</category>
+    <category lang="en">Adventure</category>
+    <rating>
+      <value>PG-13</value>
+    </rating>
+    <image>https://metadata-static.plex.tv/7/gracenote/7c4c063a508dda2f3fb78c7777951bcc.jpg</image>
+  </programme>
+  <programme start="20260804145124 +0000" stop="20260804163922 +0000" channel="Miramax.us">
+    <title lang="en">Collateral</title>
+    <desc lang="en">Vincent is a cool, calculating contract killer at the top of his game. Max is a cabbie with big dreams.</desc>
+    <date>20040805</date>
+    <category lang="en">Thriller</category>
+    <category lang="en">Crime</category>
+    <category lang="en">Action</category>
+    <category lang="en">Drama</category>
+    <rating>
+      <value>TV-14</value>
+    </rating>
+    <image>https://metadata-static.plex.tv/6/gracenote/689657bddcae31805a2969a8c2ba8d54.jpg</image>
+  </programme>
+  <programme start="20260804163922 +0000" stop="20260804183845 +0000" channel="Miramax.us">
+    <title lang="en">Double Jeopardy</title>
+    <desc lang="en">While on parole, Libby skips town to find her husband who framed her. Parole officer Lehman is on her trail.</desc>
+    <date>19990924</date>
+    <category lang="en">Drama</category>
+    <category lang="en">Thriller</category>
+    <category lang="en">Crime</category>
+    <category lang="en">Mystery</category>
+    <rating>
+      <value>TV-14</value>
+    </rating>
+    <image>https://metadata-static.plex.tv/c/gracenote/c9f4e4b416eed8db0df67d9834da7717.jpg</image>
+  </programme>
+  <programme start="20260804183845 +0000" stop="20260804204333 +0000" channel="Miramax.us">
+    <title lang="en">Congo</title>
+    <desc lang="en">When an explorer’s quest for a diamond mine ends tragically, Dr. Karen Ross is sent to continue the hunt.</desc>
+    <date>19950609</date>
+    <category lang="en">Action</category>
+    <category lang="en">Adventure</category>
+    <category lang="en">Mystery</category>
+    <category lang="en">Science Fiction</category>
+    <rating>
+      <value>PG-13</value>
+    </rating>
+    <image>https://image.tmdb.org/t/p/original/hPNSToNIIpRO6y5Rh973leqQqNr.jpg</image>
+  </programme>
+  <programme start="20260804204333 +0000" stop="20260804230749 +0000" channel="Miramax.us">
+    <title lang="en">Walking Tall</title>
+    <desc lang="en">Based on the life of Tennessee sheriff Buford Pusser whom almost single-handily cleaned up his small town</desc>
+    <date>19730222</date>
+    <category lang="en">Action</category>
+    <category lang="en">Drama</category>
+    <category lang="en">Crime</category>
+    <category lang="en">Biography</category>
+    <category lang="en">Thriller</category>
+    <rating>
+      <value>TV-14</value>
+    </rating>
+    <image>https://metadata-static.plex.tv/7/gracenote/768c2e2a3a1d6b6381bb31398c2085b0.jpg</image>
+  </programme>
+  <programme start="20260804230749 +0000" stop="20260805005408 +0000" channel="Miramax.us">
+    <title lang="en">The Hunted</title>
+    <desc lang="en">The FBI's tracker is on the trail of a villain who murders people in order to become the subject of a manhunt.</desc>
+    <date>20240118</date>
+    <category lang="en">Horror</category>
+    <category lang="en">Thriller</category>
+    <rating>
+      <value>TV-14</value>
+    </rating>
+    <image>https://metadata-static.plex.tv/e/gracenote/eb7b30c4bd72a27889199edf6540892d.jpg</image>
+  </programme>
+  <programme start="20260804230749 +0000" stop="20260805005408 +0000" channel="Miramax.us">
+    <title lang="en">The Hunted</title>
+    <desc lang="en">The FBI's tracker is on the trail of a villain who murders people in order to become the subject of a manhunt.</desc>
+    <date>20240118</date>
+    <category lang="en">Horror</category>
+    <category lang="en">Thriller</category>
+    <rating>
+      <value>TV-14</value>
+    </rating>
+    <image>https://metadata-static.plex.tv/e/gracenote/eb7b30c4bd72a27889199edf6540892d.jpg</image>
+  </programme>
+  <programme start="20260805005408 +0000" stop="20260805023849 +0000" channel="Miramax.us">
+    <title lang="en">The Time Machine</title>
+    <desc lang="en">Hoping to alter the events of the past, a 19th century inventor instead travels 800,000 years into the future</desc>
+    <date>20020307</date>
+    <category lang="en">Science Fiction</category>
+    <category lang="en">Action</category>
+    <category lang="en">Adventure</category>
+    <rating>
+      <value>PG-13</value>
+    </rating>
+    <image>https://metadata-static.plex.tv/7/gracenote/7c4c063a508dda2f3fb78c7777951bcc.jpg</image>
+  </programme>
+  <programme start="20260805023849 +0000" stop="20260805042647 +0000" channel="Miramax.us">
+    <title lang="en">Collateral</title>
+    <desc lang="en">Vincent is a cool, calculating contract killer at the top of his game. Max is a cabbie with big dreams.</desc>
+    <date>20040805</date>
+    <category lang="en">Thriller</category>
+    <category lang="en">Crime</category>
+    <category lang="en">Action</category>
+    <category lang="en">Drama</category>
+    <rating>
+      <value>TV-14</value>
+    </rating>
+    <image>https://metadata-static.plex.tv/6/gracenote/689657bddcae31805a2969a8c2ba8d54.jpg</image>
+  </programme>
+  <programme start="20260805042647 +0000" stop="20260805062610 +0000" channel="Miramax.us">
+    <title lang="en">Double Jeopardy</title>
+    <desc lang="en">While on parole, Libby skips town to find her husband who framed her. Parole officer Lehman is on her trail.</desc>
+    <date>19990924</date>
+    <category lang="en">Drama</category>
+    <category lang="en">Thriller</category>
+    <category lang="en">Crime</category>
+    <category lang="en">Mystery</category>
+    <rating>
+      <value>TV-14</value>
+    </rating>
+    <image>https://metadata-static.plex.tv/c/gracenote/c9f4e4b416eed8db0df67d9834da7717.jpg</image>
+  </programme>
+  <programme start="20260805062610 +0000" stop="20260805082803 +0000" channel="Miramax.us">
+    <title lang="en">Four Brothers</title>
+    <desc lang="en">At a funeral, four adopted brothers discover the woman who raised them was murdered and they seek revenge.</desc>
+    <date>20050701</date>
+    <category lang="en">Action</category>
+    <category lang="en">Drama</category>
+    <category lang="en">Crime</category>
+    <category lang="en">Mystery</category>
+    <category lang="en">Thriller</category>
+    <rating>
+      <value>TV-14</value>
+    </rating>
+    <image>https://metadata-static.plex.tv/a/gracenote/a1f5aef7ea9f73251662f199556c0a0a.jpg</image>
+  </programme>
+  <programme start="20260805082803 +0000" stop="20260805103601 +0000" channel="Miramax.us">
+    <title lang="en">What's Eating Gilbert Grape</title>
+    <desc lang="en">A young man struggles to care for his mentally-disabled younger brother and morbidly obese mother</desc>
+    <date>19931225</date>
+    <category lang="en">Romance</category>
+    <category lang="en">Drama</category>
+    <category lang="en">Comedy</category>
+    <rating>
+      <value>PG-13</value>
+    </rating>
+    <image>https://image.tmdb.org/t/p/original/7Y6VUbo1FWROa3vcr6R8cLKELAB.jpg</image>
+  </programme>
+  <programme start="20260805103601 +0000" stop="20260805122038 +0000" channel="Miramax.us">
+    <title lang="en">Hardball</title>
+    <desc lang="en">An aimless young man agrees to coach a Little League team as a condition of getting a loan from a friend.</desc>
+    <date>20010914</date>
+    <category lang="en">Drama</category>
+    <category lang="en">Comedy</category>
+    <category lang="en">Sport</category>
+    <rating>
+      <value>PG-13</value>
+    </rating>
+    <image>https://metadata-static.plex.tv/f/gracenote/f41f59a9664a3bc747fb29d558ec635d.jpg</image>
+  </programme>
+  <programme start="20260805122038 +0000" stop="20260805141401 +0000" channel="Miramax.us">
+    <title lang="en">Shaft (2000)</title>
+    <desc lang="en">To stop a racist killer, Shaft’s got to track down the only eyewitness that can put him behind bars.</desc>
+    <date>20000616</date>
+    <category lang="en">Action</category>
+    <category lang="en">Adventure</category>
+    <category lang="en">Crime</category>
+    <category lang="en">Thriller</category>
+    <rating>
+      <value>TV-14</value>
+    </rating>
+    <image>https://metadata-static.plex.tv/7/gracenote/7b565ba600a3d5719476775108be0d75.jpg</image>
+  </programme>
+  <programme start="20260805141401 +0000" stop="20260805160338 +0000" channel="Miramax.us">
+    <title lang="en">The Warriors</title>
+    <desc lang="en">The armies of the night number 100,000; they outnumber the police 5 to 1; tonight they’re after the Warriors.</desc>
+    <date>20260601</date>
+    <category lang="en">Movies</category>
+    <rating>
+      <value>TV-14</value>
+    </rating>
+    <image>https://provider-static.plex.tv/epg/cms/production/a87dfcd4-21d3-4cf1-b1fb-5739adbcd3f3/MIRAMAX_VERTICAL_DEFAULT_ARTWORK__1__-_Gabe_Evans.jpg</image>
+  </programme>
+  <programme start="20260805160338 +0000" stop="20260805191153 +0000" channel="Miramax.us">
+    <title lang="en">Gangs of New York</title>
+    <desc lang="en">A young Irish immigrant (Leonardo DiCaprio) seeks revenge against the rival gang leader who killed his father.</desc>
+    <date>20021220</date>
+    <category lang="en">Crime</category>
+    <category lang="en">Drama</category>
+    <category lang="en">History</category>
+    <rating>
+      <value>TV-14</value>
+    </rating>
+    <image>https://metadata-static.plex.tv/e/gracenote/ea5f5f8a531206d7256edf0d31091a9e.jpg</image>
+  </programme>
+  <programme start="20260805191153 +0000" stop="20260805211346 +0000" channel="Miramax.us">
+    <title lang="en">Four Brothers</title>
+    <desc lang="en">At a funeral, four adopted brothers discover the woman who raised them was murdered and they seek revenge.</desc>
+    <date>20050701</date>
+    <category lang="en">Action</category>
+    <category lang="en">Drama</category>
+    <category lang="en">Crime</category>
+    <category lang="en">Mystery</category>
+    <category lang="en">Thriller</category>
+    <rating>
+      <value>TV-14</value>
+    </rating>
+    <image>https://metadata-static.plex.tv/a/gracenote/a1f5aef7ea9f73251662f199556c0a0a.jpg</image>
+  </programme>
+  <programme start="20260805211346 +0000" stop="20260805232144 +0000" channel="Miramax.us">
+    <title lang="en">What's Eating Gilbert Grape</title>
+    <desc lang="en">A young man struggles to care for his mentally-disabled younger brother and morbidly obese mother</desc>
+    <date>19931225</date>
+    <category lang="en">Romance</category>
+    <category lang="en">Drama</category>
+    <category lang="en">Comedy</category>
+    <rating>
+      <value>PG-13</value>
+    </rating>
+    <image>https://image.tmdb.org/t/p/original/7Y6VUbo1FWROa3vcr6R8cLKELAB.jpg</image>
+  </programme>
+  <programme start="20260805232144 +0000" stop="20260806010621 +0000" channel="Miramax.us">
+    <title lang="en">Hardball</title>
+    <desc lang="en">An aimless young man agrees to coach a Little League team as a condition of getting a loan from a friend.</desc>
+    <date>20010914</date>
+    <category lang="en">Drama</category>
+    <category lang="en">Comedy</category>
+    <category lang="en">Sport</category>
+    <rating>
+      <value>PG-13</value>
+    </rating>
+    <image>https://metadata-static.plex.tv/f/gracenote/f41f59a9664a3bc747fb29d558ec635d.jpg</image>
+  </programme>
   <programme start="20260802170000 +0000" stop="20260802190000 +0000" channel="MNCTV.id">
     <title lang="id">Suparman Reborn</title>
   </programme>
@@ -19293,11 +19772,6 @@
   <programme start="20260805160000 +0000" stop="20260805190000 +0000" channel="MNCTV.id">
     <title lang="id">Suparman Reborn</title>
   </programme>
-  <programme start="20260803172700 +0000" stop="20260803192300 +0000" channel="MNX.in">
-    <title lang="en">Justice League</title>
-    <desc lang="en">Iconic superheroes unite to fight evil forces threatening Earth, showcasing courage, teamwork, and sacrifice in an epic battle between light and darkness.</desc>
-    <image>https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/PROGRAM/LIVETV_PROGRAM_MNX_HD_1948452_03AUG225700_04AUG005300/images/LANDSCAPE_169/1757676847000_MNXHD_JusticeLeague_1948452.jpg</image>
-  </programme>
   <programme start="20260803192300 +0000" stop="20260803212400 +0000" channel="MNX.in">
     <title lang="en">Suicide Squad</title>
     <desc lang="en">Harley Quinn, Bloodsport, Peacemaker, and others from Belle Reve join Task Force X as they are dropped on dangerous enemy filled island of Corto Maltese together.</desc>
@@ -19368,10 +19842,10 @@
     <desc lang="en">Arthur Doyle's legendary detective joined by his loyal partner Dr. Watson tries to stop an occult-dabbling criminal who has returned from the dead.</desc>
     <image>https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/PROGRAM/LIVETV_PROGRAM_MNX_HD_425358_04AUG231500_05AUG012000/images/LANDSCAPE_169/1756684870000_MNXHD_SherlockHolmes_425358.jpg</image>
   </programme>
-  <programme start="20260804174500 +0000" stop="20260804195000 +0000" channel="MNX.in">
-    <title lang="en">Sherlock Holmes</title>
-    <desc lang="en">Arthur Doyle's legendary detective joined by his loyal partner Dr. Watson tries to stop an occult-dabbling criminal who has returned from the dead.</desc>
-    <image>https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/PROGRAM/LIVETV_PROGRAM_MNX_HD_425358_04AUG231500_05AUG012000/images/LANDSCAPE_169/1756684870000_MNXHD_SherlockHolmes_425358.jpg</image>
+  <programme start="20260804195000 +0000" stop="20260804212000 +0000" channel="MNX.in">
+    <title lang="en">Lady Bloodfight</title>
+    <desc lang="en">Upon arriving in Hong Kong, an American woman is beaten up and mugged by thugs. She's taken in by a martial arts master who trains her for a formidable fight competition known as the Kumite.</desc>
+    <image>https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/PROGRAM/LIVETV_PROGRAM_MNX_HD_1815232_05AUG012000_05AUG025000/images/LANDSCAPE_169/1739649735000_MNXHD_LadyBloodfight_1815232.jpg</image>
   </programme>
   <programme start="20260804195000 +0000" stop="20260804212000 +0000" channel="MNX.in">
     <title lang="en">Lady Bloodfight</title>
@@ -19507,6 +19981,11 @@
     <title lang="en">Mission: Impossible II</title>
     <desc lang="en">IMF agent Ethan Hunt is sent to Sydney to find and destroy a genetically modified disease called 'Chimera'.</desc>
     <image>https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/PROGRAM/LIVETV_PROGRAM_MNX_HD_2054066_06AUG231500_07AUG011500/images/LANDSCAPE_169/1774310628000_MNXHD_MissionImpossibleII_2054066.jpg</image>
+  </programme>
+  <programme start="20260806194500 +0000" stop="20260806215100 +0000" channel="MNX.in">
+    <title lang="en">Blue Beetle</title>
+    <desc lang="en">Jaime Reyes gains the Scarab, an ancient alien relic that bonds with him as its host, granting a powerful suit of armor with unpredictable abilities, transforming him into Blue Beetle.</desc>
+    <image>https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/PROGRAM/LIVETV_PROGRAM_MNX_HD_1970684_07AUG011500_07AUG032100/images/LANDSCAPE_169/1760866605000_MNXHD_BlueBeetle_1970684.jpg</image>
   </programme>
   <programme start="20260802170800 +0000" stop="20260802174400 +0000" channel="MoonbugKids.uk">
     <title lang="id">Oddbods</title>
@@ -20121,6 +20600,12 @@
     <image>https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/PROGRAM/LIVETV_PROGRAM_MOVIES_NOW_HD_2077058_06AUG021000_06AUG034100/images/LANDSCAPE_169_HD/MOVIESNOWHD_Freelancers_2077058.jpg</image>
     <icon src="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/PROGRAM/LIVETV_PROGRAM_MOVIES_NOW_HD_2077058_06AUG021000_06AUG034100/images/LOGO/MOVIESNOWHD_Freelancers_2077058.png"/>
   </programme>
+  <programme start="20260805204000 +0000" stop="20260805221100 +0000" channel="MoviesNow.in">
+    <title lang="en">Freelancers</title>
+    <desc lang="en">The son of a slain NYPD officer joins the force, where he falls in with his father's former partner and a team of rogue cops.</desc>
+    <image>https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/PROGRAM/LIVETV_PROGRAM_MOVIES_NOW_HD_2077058_06AUG021000_06AUG034100/images/LANDSCAPE_169_HD/MOVIESNOWHD_Freelancers_2077058.jpg</image>
+    <icon src="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/PROGRAM/LIVETV_PROGRAM_MOVIES_NOW_HD_2077058_06AUG021000_06AUG034100/images/LOGO/MOVIESNOWHD_Freelancers_2077058.png"/>
+  </programme>
   <programme start="20260805221100 +0000" stop="20260805222500 +0000" channel="MoviesNow.in">
     <title lang="en">LLL S03_BENNY DAYAL 03</title>
     <desc lang="en">The host engages in a candid conversation with celebrity guests who share intimate details about their personal and professional lives.</desc>
@@ -20197,6 +20682,12 @@
     <desc lang="en">While on a tour of the White House with his young daughter, a Capitol policeman springs into action to save his child and protect the president from a heavily armed group of paramilitary invaders.</desc>
     <image>https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/PROGRAM/LIVETV_PROGRAM_MOVIES_NOW_HD_2020401_07AUG000500_07AUG021000/images/LANDSCAPE_169_HD/MOVIESNOWHD_WhiteHouseDown_2020401.jpg</image>
     <icon src="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/PROGRAM/LIVETV_PROGRAM_MOVIES_NOW_HD_2020401_07AUG000500_07AUG021000/images/LOGO/MOVIESNOWHD_WhiteHouseDown_2020401.png"/>
+  </programme>
+  <programme start="20260806204000 +0000" stop="20260806224000 +0000" channel="MoviesNow.in">
+    <title lang="en">Sherlock Holmes: A Game Of Shadows</title>
+    <desc lang="en">Sherlock Holmes: A Game Of Shadows</desc>
+    <image>https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/PROGRAM/LIVETV_PROGRAM_MOVIES_NOW_HD_512124_07AUG021000_07AUG041000/images/LANDSCAPE_169_HD/MOVIESNOWHD_SherlockHolmesAGameOfShadows_512124.jpg</image>
+    <icon src="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/PROGRAM/LIVETV_PROGRAM_MOVIES_NOW_HD_512124_07AUG021000_07AUG041000/images/LOGO/MOVIESNOWHD_SherlockHolmesAGameOfShadows_512124.png"/>
   </programme>
   <programme start="20260803190800 +0000" stop="20260803204900 +0000" channel="MoviesNowPlus.in">
     <title lang="en">Wild For The Night</title>
@@ -20338,10 +20829,10 @@
     <desc lang="en">A detective investigates the death of the patriarch of an eccentric, combative family.</desc>
     <image>https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/PROGRAM/LIVETV_PROGRAM_MNSYMPLUS_1430095_05AUG234000_06AUG015000/images/LANDSCAPE_169/1756684870000_MOVIESNOW_KnivesOut_1387051.jpg</image>
   </programme>
-  <programme start="20260805181000 +0000" stop="20260805202000 +0000" channel="MoviesNowPlus.in">
-    <title lang="en">Knives Out</title>
-    <desc lang="en">A detective investigates the death of the patriarch of an eccentric, combative family.</desc>
-    <image>https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/PROGRAM/LIVETV_PROGRAM_MNSYMPLUS_1430095_05AUG234000_06AUG015000/images/LANDSCAPE_169/1756684870000_MOVIESNOW_KnivesOut_1387051.jpg</image>
+  <programme start="20260805202000 +0000" stop="20260805220000 +0000" channel="MoviesNowPlus.in">
+    <title lang="en">Serena</title>
+    <desc lang="en">In Depression-era North Carolina, the future of George Pemberton's timber empire becomes complicated when he marries Serena.</desc>
+    <image>https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/PROGRAM/LIVETV_PROGRAM_MNSYMPLUS_1949440_06AUG015000_06AUG033000/images/LANDSCAPE_169/1769098794000_MNplusHD_Serena_1949440.jpg</image>
   </programme>
   <programme start="20260805202000 +0000" stop="20260805220000 +0000" channel="MoviesNowPlus.in">
     <title lang="en">Serena</title>
@@ -20397,6 +20888,11 @@
     <title lang="en">Julie &amp; Julia</title>
     <desc lang="en">Julia Child's story of her start in the cooking profession is intertwined with blogger Julie Powell's 2002 challenge to cook all the recipes in Child's first book.</desc>
     <image>https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/PROGRAM/LIVETV_PROGRAM_MNSYMPLUS_1271347_06AUG225500_07AUG005500/images/LANDSCAPE_169/1756684870000_MNplusHD_JulieJulia_1271347.jpg</image>
+  </programme>
+  <programme start="20260806192500 +0000" stop="20260806205500 +0000" channel="MoviesNowPlus.in">
+    <title lang="en">Lost River</title>
+    <desc lang="en">A single mother is swept into a dark underworld, while her teenage son discovers a road that leads him to a secret underwater town.</desc>
+    <image>https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/PROGRAM/LIVETV_PROGRAM_MNSYMPLUS_1994074_07AUG005500_07AUG022500/images/LANDSCAPE_169/1764923313000_MNplusHD_LostRiver_1994074.jpg</image>
   </programme>
   <programme start="20260802190000 +0000" stop="20260802213000 +0000" channel="MusicTV.id">
     <title lang="id">DMD Panggung Rezeki</title>
@@ -25225,6 +25721,381 @@
   </programme>
   <programme start="20260805164500 +0000" stop="20260805173000 +0000" channel="SPOTV.id">
     <title lang="id">GOTF 2026: MOBA PC Dota 2 (L)</title>
+  </programme>
+  <programme start="20260802185600 +0000" stop="20260802205800 +0000" channel="StarMovies.in">
+    <title lang="en">John Carter</title>
+    <desc lang="en">John Carter finds himself on Mars and learns about his superhuman capabilities.</desc>
+    <icon src="http://ttpl.tmsimg.com/assets/p8726110_v_h10_ai.jpg?lock=1280x720"/>
+  </programme>
+  <programme start="20260802205800 +0000" stop="20260802212000 +0000" channel="StarMovies.in">
+    <title lang="en">Filler</title>
+    <desc lang="en">Bringing the best in television.</desc>
+    <icon src="http://ttpl.tmsimg.com/assets/p9162875_b_h8_ai.jpg?lock=1280x720"/>
+  </programme>
+  <programme start="20260802212000 +0000" stop="20260802233800 +0000" channel="StarMovies.in">
+    <title lang="en">Emergency Declaration</title>
+    <desc lang="en">A captain and crew take extreme measures to keep passengers safe from a terror threat.</desc>
+    <icon src="http://ttpl.tmsimg.com/assets/p20618136_v_h10_ad.jpg?lock=1280x720"/>
+  </programme>
+  <programme start="20260802233800 +0000" stop="20260803000600 +0000" channel="StarMovies.in">
+    <title lang="en">Filler</title>
+    <desc lang="en">Bringing the best in television.</desc>
+    <icon src="http://ttpl.tmsimg.com/assets/p9162875_b_h8_ai.jpg?lock=1280x720"/>
+  </programme>
+  <programme start="20260803000600 +0000" stop="20260803014300 +0000" channel="StarMovies.in">
+    <title lang="en">The Secret Kingdom</title>
+    <desc lang="en">The Secret Kingdom</desc>
+    <icon src="http://ttpl.tmsimg.com/assets/p24506769_v_h8_ab.jpg?lock=1280x720"/>
+  </programme>
+  <programme start="20260803014300 +0000" stop="20260803035400 +0000" channel="StarMovies.in">
+    <title lang="en">Die Hard</title>
+    <desc lang="en">A NYC cop tries to save hostages who have been trapped by terrorists.</desc>
+    <icon src="http://ttpl.tmsimg.com/assets/p10255_v_h10_an.jpg?lock=1280x720"/>
+  </programme>
+  <programme start="20260803035400 +0000" stop="20260803052400 +0000" channel="StarMovies.in">
+    <title lang="en">Lake Placid: Legacy</title>
+    <desc lang="en">A team of explorers is dragged into a battle for their lives with a deadly predator.</desc>
+    <icon src="http://ttpl.tmsimg.com/assets/p15376808_v_h10_aa.jpg?lock=1280x720"/>
+  </programme>
+  <programme start="20260803052400 +0000" stop="20260803072800 +0000" channel="StarMovies.in">
+    <title lang="en">Ride On</title>
+    <desc lang="en">Lao Luo, a bankrupt, washed-up stuntman finds fame after his fight at a bar goes viral.</desc>
+    <icon src="http://ttpl.tmsimg.com/assets/p24383371_v_h8_af.jpg?lock=1280x720"/>
+  </programme>
+  <programme start="20260803072800 +0000" stop="20260803095200 +0000" channel="StarMovies.in">
+    <title lang="en">Avengers: Infinity War</title>
+    <desc lang="en">The Avengers and their allies must stop Thanos from the Infinity Stones.</desc>
+    <icon src="http://ttpl.tmsimg.com/assets/p12863030_v_h10_af.jpg?lock=1280x720"/>
+  </programme>
+  <programme start="20260803095200 +0000" stop="20260803113500 +0000" channel="StarMovies.in">
+    <title lang="en">Ratatouille</title>
+    <desc lang="en">A talented rat teams up with a young chef in Paris to form a culinary union.</desc>
+    <icon src="http://ttpl.tmsimg.com/assets/p165058_v_h8_aa.jpg?lock=1280x720"/>
+  </programme>
+  <programme start="20260803113500 +0000" stop="20260803133500 +0000" channel="StarMovies.in">
+    <title lang="en">Alita: Battle Angel</title>
+    <desc lang="en">Alita, a cyborg, sets out to learn about her past and find her true identity.</desc>
+    <icon src="http://ttpl.tmsimg.com/assets/p14939189_v_h8_ac.jpg?lock=1280x720"/>
+  </programme>
+  <programme start="20260803133500 +0000" stop="20260803151500 +0000" channel="StarMovies.in">
+    <title lang="en">Rise of the Planet of the Apes</title>
+    <desc lang="en">Caesar, a chimpanzee, is empowered to think like humans and revolts against injustice.</desc>
+    <icon src="http://ttpl.tmsimg.com/assets/p8338079_v_h10_ac.jpg?lock=1280x720"/>
+  </programme>
+  <programme start="20260803151500 +0000" stop="20260803171800 +0000" channel="StarMovies.in">
+    <title lang="en">Dawn of the Planet of the Apes</title>
+    <desc lang="en">The genetically evolved apes led by Caesar engage in a horrific battle with humans.</desc>
+    <icon src="http://ttpl.tmsimg.com/assets/p10063629_v_h10_au.jpg?lock=1280x720"/>
+  </programme>
+  <programme start="20260803171800 +0000" stop="20260803193500 +0000" channel="StarMovies.in">
+    <title lang="en">War for the Planet of the Apes</title>
+    <desc lang="en">Caesar sets out to avenge the death of his wife and son after they are killed by humans.</desc>
+    <icon src="http://ttpl.tmsimg.com/assets/p12126545_v_h10_ab.jpg?lock=1280x720"/>
+  </programme>
+  <programme start="20260803193500 +0000" stop="20260803211300 +0000" channel="StarMovies.in">
+    <title lang="en">Cars 2</title>
+    <desc lang="en">Lightning McQueen and Mater go overseas for the World Grand Prix.</desc>
+    <icon src="http://ttpl.tmsimg.com/assets/p8367177_v_h8_af.jpg?lock=1280x720"/>
+  </programme>
+  <programme start="20260803211300 +0000" stop="20260803220600 +0000" channel="StarMovies.in">
+    <title lang="en">Filler</title>
+    <desc lang="en">Bringing the best in television.</desc>
+    <icon src="http://ttpl.tmsimg.com/assets/p9162875_b_h8_ai.jpg?lock=1280x720"/>
+  </programme>
+  <programme start="20260803220600 +0000" stop="20260803235900 +0000" channel="StarMovies.in">
+    <title lang="en">Cosmoball</title>
+    <desc lang="en">A massive spaceship named 'Cosmoball' hovers ominously above the planet after a huge war.</desc>
+    <icon src="http://ttpl.tmsimg.com/assets/p19261999_v_h8_ab.jpg?lock=1280x720"/>
+  </programme>
+  <programme start="20260803235900 +0000" stop="20260804002900 +0000" channel="StarMovies.in">
+    <title lang="en">Filler</title>
+    <desc lang="en">Bringing the best in television.</desc>
+    <icon src="http://ttpl.tmsimg.com/assets/p9162875_b_h8_ai.jpg?lock=1280x720"/>
+  </programme>
+  <programme start="20260804002900 +0000" stop="20260804020400 +0000" channel="StarMovies.in">
+    <title lang="en">Spies in Disguise</title>
+    <desc lang="en">A spy, who is turned into a pigeon, seeks help from his associate to stop a dangerous foe.</desc>
+    <icon src="http://ttpl.tmsimg.com/assets/p16207756_v_h8_ab.jpg?lock=1280x720"/>
+  </programme>
+  <programme start="20260804020400 +0000" stop="20260804034700 +0000" channel="StarMovies.in">
+    <title lang="en">Elysium</title>
+    <desc lang="en">In 2154, a former criminal goes on a mission to restore equality in a polarised world.</desc>
+    <icon src="http://ttpl.tmsimg.com/assets/p9360879_v_h8_af.jpg?lock=1280x720"/>
+  </programme>
+  <programme start="20260804034700 +0000" stop="20260804054900 +0000" channel="StarMovies.in">
+    <title lang="en">Iron Man 3</title>
+    <desc lang="en">Tony embarks on a journey and has to overcome his failure to defeat the powerful Mandarin.</desc>
+    <icon src="http://ttpl.tmsimg.com/assets/p9259486_v_h10_ab.jpg?lock=1280x720"/>
+  </programme>
+  <programme start="20260804054900 +0000" stop="20260804075400 +0000" channel="StarMovies.in">
+    <title lang="en">Kingsman: The Secret Service</title>
+    <desc lang="en">Eggsy, an unemployed young man, gets recruited into a secret spy organisation.</desc>
+    <icon src="http://ttpl.tmsimg.com/assets/p10672282_v_h8_an.jpg?lock=1280x720"/>
+  </programme>
+  <programme start="20260804075400 +0000" stop="20260804093000 +0000" channel="StarMovies.in">
+    <title lang="en">Elemental</title>
+    <desc lang="en">A fiery Ember meets the heart-on-his-sleeve Wade, and their differences bring them closer.</desc>
+    <icon src="http://ttpl.tmsimg.com/assets/p22972827_v_h8_af.jpg?lock=1280x720"/>
+  </programme>
+  <programme start="20260804093000 +0000" stop="20260804113200 +0000" channel="StarMovies.in">
+    <title lang="en">Red Sparrow</title>
+    <desc lang="en">A Russian ballerina becomes a deadly spy following a career-ending injury.</desc>
+    <icon src="http://ttpl.tmsimg.com/assets/p14080689_v_h10_bc.jpg?lock=1280x720"/>
+  </programme>
+  <programme start="20260804113200 +0000" stop="20260804130300 +0000" channel="StarMovies.in">
+    <title lang="en">Alien vs. Predator</title>
+    <desc lang="en">The archaeology team from Weyland Industries finds itself trapped between two alien species.</desc>
+    <icon src="http://ttpl.tmsimg.com/assets/p34715_v_h10_aa.jpg?lock=1280x720"/>
+  </programme>
+  <programme start="20260804130300 +0000" stop="20260804151500 +0000" channel="StarMovies.in">
+    <title lang="en">Black Panther</title>
+    <desc lang="en">T'Challa, the prince of Wakanda, faces a challenger when he returns home to become king.</desc>
+    <icon src="http://ttpl.tmsimg.com/assets/p12878741_v_h10_an.jpg?lock=1280x720"/>
+  </programme>
+  <programme start="20260804151500 +0000" stop="20260804174700 +0000" channel="StarMovies.in">
+    <title lang="en">Black Panther: Wakanda Forever</title>
+    <desc lang="en">The citizens of Wakanda try to protect their kingdom after the death of King T'Challa.</desc>
+    <icon src="http://ttpl.tmsimg.com/assets/p18958283_v_h8_az.jpg?lock=1280x720"/>
+  </programme>
+  <programme start="20260804174700 +0000" stop="20260804193500 +0000" channel="StarMovies.in">
+    <title lang="en">The Incredibles</title>
+    <desc lang="en">A family of superheroes living normal lives is forced into action to protect the city.</desc>
+    <icon src="http://ttpl.tmsimg.com/assets/p35032_v_h8_ac.jpg?lock=1280x720"/>
+  </programme>
+  <programme start="20260804183000 +0000" stop="20260804213000 +0000" channel="StarMovies.in">
+    <title lang="en">Movie</title>
+    <desc lang="en">Bringing the best in television.</desc>
+    <icon src="http://ttpl.tmsimg.com/assets/p809737_b_h8_bq.jpg?lock=1280x720"/>
+  </programme>
+  <programme start="20260804213000 +0000" stop="20260805003000 +0000" channel="StarMovies.in">
+    <title lang="en">Movie</title>
+    <desc lang="en">Bringing the best in television.</desc>
+    <icon src="http://ttpl.tmsimg.com/assets/p809737_b_h8_bq.jpg?lock=1280x720"/>
+  </programme>
+  <programme start="20260805003000 +0000" stop="20260805033000 +0000" channel="StarMovies.in">
+    <title lang="en">Movie</title>
+    <desc lang="en">Bringing the best in television.</desc>
+    <icon src="http://ttpl.tmsimg.com/assets/p809737_b_h8_bq.jpg?lock=1280x720"/>
+  </programme>
+  <programme start="20260805033000 +0000" stop="20260805063000 +0000" channel="StarMovies.in">
+    <title lang="en">Movie</title>
+    <desc lang="en">Bringing the best in television.</desc>
+    <icon src="http://ttpl.tmsimg.com/assets/p809737_b_h8_bq.jpg?lock=1280x720"/>
+  </programme>
+  <programme start="20260805063000 +0000" stop="20260805093000 +0000" channel="StarMovies.in">
+    <title lang="en">Movie</title>
+    <desc lang="en">Bringing the best in television.</desc>
+    <icon src="http://ttpl.tmsimg.com/assets/p809737_b_h8_bq.jpg?lock=1280x720"/>
+  </programme>
+  <programme start="20260805093000 +0000" stop="20260805123000 +0000" channel="StarMovies.in">
+    <title lang="en">Movie</title>
+    <desc lang="en">Bringing the best in television.</desc>
+    <icon src="http://ttpl.tmsimg.com/assets/p809737_b_h8_bq.jpg?lock=1280x720"/>
+  </programme>
+  <programme start="20260805123000 +0000" stop="20260805153000 +0000" channel="StarMovies.in">
+    <title lang="en">Movie</title>
+    <desc lang="en">Bringing the best in television.</desc>
+    <icon src="http://ttpl.tmsimg.com/assets/p809737_b_h8_bq.jpg?lock=1280x720"/>
+  </programme>
+  <programme start="20260805153000 +0000" stop="20260805183000 +0000" channel="StarMovies.in">
+    <title lang="en">Movie</title>
+    <desc lang="en">Bringing the best in television.</desc>
+    <icon src="http://ttpl.tmsimg.com/assets/p809737_b_h8_bq.jpg?lock=1280x720"/>
+  </programme>
+  <programme start="20260802194600 +0000" stop="20260802211500 +0000" channel="StarMoviesSelect.in">
+    <title lang="en">Monsters, Inc.</title>
+    <desc lang="en">Monsters Sulley and Mike get in trouble when a human girl enters their world.</desc>
+    <icon src="http://ttpl.tmsimg.com/assets/p27462_v_h8_ag.jpg?lock=1280x720"/>
+  </programme>
+  <programme start="20260802211500 +0000" stop="20260802222700 +0000" channel="StarMoviesSelect.in">
+    <title lang="en">Mutant Python</title>
+    <desc lang="en">A python is determined to exact revenge after its altar is desecrated by a dead snake.</desc>
+    <icon src="http://ttpl.tmsimg.com/assets/p24088619_v_h10_aa.jpg?lock=1280x720"/>
+  </programme>
+  <programme start="20260802222700 +0000" stop="20260802223200 +0000" channel="StarMoviesSelect.in">
+    <title lang="en">Filler</title>
+    <desc lang="en">Bringing the best in television.</desc>
+    <icon src="http://ttpl.tmsimg.com/assets/p28139681_b_h8_aa.jpg?lock=1280x720"/>
+  </programme>
+  <programme start="20260802223200 +0000" stop="20260802235100 +0000" channel="StarMoviesSelect.in">
+    <title lang="en">Detective Di Skeleton General</title>
+    <desc lang="en">When a village community is left reeling from serial killings, a renowned detective investigates.</desc>
+    <icon src="http://ttpl.tmsimg.com/assets/p24790955_b_h10_ac.jpg?lock=1280x720"/>
+  </programme>
+  <programme start="20260802235100 +0000" stop="20260803001100 +0000" channel="StarMoviesSelect.in">
+    <title lang="en">Filler</title>
+    <desc lang="en">Bringing the best in television.</desc>
+    <icon src="http://ttpl.tmsimg.com/assets/p26697972_b_h8_aa.jpg?lock=1280x720"/>
+  </programme>
+  <programme start="20260803001100 +0000" stop="20260803015300 +0000" channel="StarMoviesSelect.in">
+    <title lang="en">A Knight's War</title>
+    <desc lang="en">A courageous knight embarks on a perilous mission to save a woman's soul.</desc>
+    <icon src="http://ttpl.tmsimg.com/assets/p29263988_v_h8_af.jpg?lock=1280x720"/>
+  </programme>
+  <programme start="20260803015300 +0000" stop="20260803032500 +0000" channel="StarMoviesSelect.in">
+    <title lang="en">Unbending Mr. Fang</title>
+    <desc lang="en">A martial artist exacts revenge on the corrupt officials who frame him for corruption.</desc>
+    <icon src="http://ttpl.tmsimg.com/assets/p20799725_v_h10_ab.jpg?lock=1280x720"/>
+  </programme>
+  <programme start="20260803032500 +0000" stop="20260803045800 +0000" channel="StarMoviesSelect.in">
+    <title lang="en">G-Force</title>
+    <desc lang="en">A guinea pig and his team of trained rodents are sent on a mission to save the world.</desc>
+    <icon src="http://ttpl.tmsimg.com/assets/p193508_v_h10_aa.jpg?lock=1280x720"/>
+  </programme>
+  <programme start="20260803045800 +0000" stop="20260803062400 +0000" channel="StarMoviesSelect.in">
+    <title lang="en">BraveStorm</title>
+    <desc lang="en">Two families equipped with robots fight extraterrestrial aliens to try to save mankind.</desc>
+    <icon src="http://ttpl.tmsimg.com/assets/p14782072_v_h10_aa.jpg?lock=1280x720"/>
+  </programme>
+  <programme start="20260803062400 +0000" stop="20260803084100 +0000" channel="StarMoviesSelect.in">
+    <title lang="en">Cruella</title>
+    <desc lang="en">Grifter Estella becomes vengeful Cruella after meeting a famous fashion designer.</desc>
+    <icon src="http://ttpl.tmsimg.com/assets/p18828861_v_h11_al.jpg?lock=1280x720"/>
+  </programme>
+  <programme start="20260803084100 +0000" stop="20260803102000 +0000" channel="StarMoviesSelect.in">
+    <title lang="en">Bolt</title>
+    <desc lang="en">Bolt plays the titular role in a TV series and starts believing that he is a superhero.</desc>
+    <icon src="http://ttpl.tmsimg.com/assets/p171577_v_h10_aa.jpg?lock=1280x720"/>
+  </programme>
+  <programme start="20260803102000 +0000" stop="20260803115400 +0000" channel="StarMoviesSelect.in">
+    <title lang="en">Guardians The Superheroes</title>
+    <desc lang="en">A group of superheroes must assemble to defeat an evil scientist and his robot army.</desc>
+    <icon src="http://ttpl.tmsimg.com/assets/p28476973_v_h8_ab.jpg?lock=1280x720"/>
+  </programme>
+  <programme start="20260803115400 +0000" stop="20260803135900 +0000" channel="StarMoviesSelect.in">
+    <title lang="en">The Namesake</title>
+    <desc lang="en">Torn between two worlds, an immigrant Bengali family strives to adjust to life in America.</desc>
+    <icon src="http://ttpl.tmsimg.com/assets/p162466_v_h10_aa.jpg?lock=1280x720"/>
+  </programme>
+  <programme start="20260803135900 +0000" stop="20260803153000 +0000" channel="StarMoviesSelect.in">
+    <title lang="en">The Simpsons Movie</title>
+    <desc lang="en">When Homer taints Springfield's water, the Simpsons are forced to flee town as outlaws.</desc>
+    <icon src="http://ttpl.tmsimg.com/assets/p166206_v_h10_aa.jpg?lock=1280x720"/>
+  </programme>
+  <programme start="20260803153000 +0000" stop="20260803172600 +0000" channel="StarMoviesSelect.in">
+    <title lang="en">Alice in Wonderland</title>
+    <desc lang="en">Alice teams up with the Mad Hatter and friends to overthrow the evil queen and her dragon.</desc>
+    <icon src="http://ttpl.tmsimg.com/assets/p3546062_v_h10_ak.jpg?lock=1280x720"/>
+  </programme>
+  <programme start="20260803172600 +0000" stop="20260803175000 +0000" channel="StarMoviesSelect.in">
+    <title lang="en">Abracadavers</title>
+    <desc lang="en">Chris gets very obsessed with the hair chair that killed his mother. S01 E01.</desc>
+    <icon src="http://ttpl.tmsimg.com/assets/p25541501_b_h10_aa.jpg?lock=1280x720"/>
+  </programme>
+  <programme start="20260803175000 +0000" stop="20260803181100 +0000" channel="StarMoviesSelect.in">
+    <title lang="en">Abracadavers</title>
+    <desc lang="en">Maria seems to be glowing, while something is not right with Paul. S01 E04.</desc>
+    <icon src="http://ttpl.tmsimg.com/assets/p25541501_b_h10_aa.jpg?lock=1280x720"/>
+  </programme>
+  <programme start="20260803181100 +0000" stop="20260803183300 +0000" channel="StarMoviesSelect.in">
+    <title lang="en">Abracadavers</title>
+    <desc lang="en">Gabriel has some concerns and voices them, while Maria reaches her breaking point. S01 E05.</desc>
+    <icon src="http://ttpl.tmsimg.com/assets/p25541501_b_h10_aa.jpg?lock=1280x720"/>
+  </programme>
+  <programme start="20260803183300 +0000" stop="20260803185900 +0000" channel="StarMoviesSelect.in">
+    <title lang="en">Abracadavers</title>
+    <desc lang="en">The gang moves towards their destination, and later Gabriel shares some wisdom. S01 E08.</desc>
+    <icon src="http://ttpl.tmsimg.com/assets/p25541501_b_h10_aa.jpg?lock=1280x720"/>
+  </programme>
+  <programme start="20260803185900 +0000" stop="20260803201800 +0000" channel="StarMoviesSelect.in">
+    <title lang="en">Seven Swords</title>
+    <desc lang="en">Fu Qingzhu leads six warriors to protect a village from General Fire-Wind's tyranny.</desc>
+    <icon src="http://ttpl.tmsimg.com/assets/p166546_v_h10_af.jpg?lock=1280x720"/>
+  </programme>
+  <programme start="20260803201800 +0000" stop="20260803221400 +0000" channel="StarMoviesSelect.in">
+    <title lang="en">Cosmoball</title>
+    <desc lang="en">A massive spaceship named 'Cosmoball' hovers ominously above the planet after a huge war.</desc>
+    <icon src="http://ttpl.tmsimg.com/assets/p19261999_v_h8_ab.jpg?lock=1280x720"/>
+  </programme>
+  <programme start="20260803221400 +0000" stop="20260803230400 +0000" channel="StarMoviesSelect.in">
+    <title lang="en">Filler</title>
+    <desc lang="en">Bringing the best in television.</desc>
+    <icon src="http://ttpl.tmsimg.com/assets/p28139681_b_h8_aa.jpg?lock=1280x720"/>
+  </programme>
+  <programme start="20260803230400 +0000" stop="20260804003000 +0000" channel="StarMoviesSelect.in">
+    <title lang="en">Ooops! Noah Is Gone ...</title>
+    <desc lang="en">During an apocalyptic flood, a couple of animals must join other creatures on Noah's Ark.</desc>
+    <icon src="http://ttpl.tmsimg.com/assets/p11732388_v_h8_al.jpg?lock=1280x720"/>
+  </programme>
+  <programme start="20260804003000 +0000" stop="20260804033000 +0000" channel="StarMoviesSelect.in">
+    <title lang="en">Movie</title>
+    <desc lang="en">Bringing the best in television.</desc>
+    <icon src="http://ttpl.tmsimg.com/assets/p809737_b_h8_bq.jpg?lock=1280x720"/>
+  </programme>
+  <programme start="20260804033000 +0000" stop="20260804063000 +0000" channel="StarMoviesSelect.in">
+    <title lang="en">Movie</title>
+    <desc lang="en">Bringing the best in television.</desc>
+    <icon src="http://ttpl.tmsimg.com/assets/p809737_b_h8_bq.jpg?lock=1280x720"/>
+  </programme>
+  <programme start="20260804063000 +0000" stop="20260804093000 +0000" channel="StarMoviesSelect.in">
+    <title lang="en">Movie</title>
+    <desc lang="en">Bringing the best in television.</desc>
+    <icon src="http://ttpl.tmsimg.com/assets/p809737_b_h8_bq.jpg?lock=1280x720"/>
+  </programme>
+  <programme start="20260804093000 +0000" stop="20260804123000 +0000" channel="StarMoviesSelect.in">
+    <title lang="en">Movie</title>
+    <desc lang="en">Bringing the best in television.</desc>
+    <icon src="http://ttpl.tmsimg.com/assets/p809737_b_h8_bq.jpg?lock=1280x720"/>
+  </programme>
+  <programme start="20260804123000 +0000" stop="20260804153000 +0000" channel="StarMoviesSelect.in">
+    <title lang="en">Movie</title>
+    <desc lang="en">Bringing the best in television.</desc>
+    <icon src="http://ttpl.tmsimg.com/assets/p809737_b_h8_bq.jpg?lock=1280x720"/>
+  </programme>
+  <programme start="20260804153000 +0000" stop="20260804185900 +0000" channel="StarMoviesSelect.in">
+    <title lang="en">Movie</title>
+    <desc lang="en">Bringing the best in television.</desc>
+    <icon src="http://ttpl.tmsimg.com/assets/p809737_b_h8_bq.jpg?lock=1280x720"/>
+  </programme>
+  <programme start="20260804185900 +0000" stop="20260804203100 +0000" channel="StarMoviesSelect.in">
+    <title lang="en">Movie</title>
+    <desc lang="en">Bringing the best in television.</desc>
+    <icon src="http://ttpl.tmsimg.com/assets/p809737_b_h8_bq.jpg?lock=1280x720"/>
+  </programme>
+  <programme start="20260804203100 +0000" stop="20260804221200 +0000" channel="StarMoviesSelect.in">
+    <title lang="en">Movie</title>
+    <desc lang="en">Bringing the best in television.</desc>
+    <icon src="http://ttpl.tmsimg.com/assets/p809737_b_h8_bq.jpg?lock=1280x720"/>
+  </programme>
+  <programme start="20260804221200 +0000" stop="20260804223900 +0000" channel="StarMoviesSelect.in">
+    <title lang="en">Filler</title>
+    <desc lang="en">Bringing the best in television.</desc>
+    <icon src="http://ttpl.tmsimg.com/assets/p28139681_b_h8_aa.jpg?lock=1280x720"/>
+  </programme>
+  <programme start="20260804223900 +0000" stop="20260805003000 +0000" channel="StarMoviesSelect.in">
+    <title lang="en">Movie</title>
+    <desc lang="en">Bringing the best in television.</desc>
+    <icon src="http://ttpl.tmsimg.com/assets/p809737_b_h8_bq.jpg?lock=1280x720"/>
+  </programme>
+  <programme start="20260805003000 +0000" stop="20260805033000 +0000" channel="StarMoviesSelect.in">
+    <title lang="en">Movie</title>
+    <desc lang="en">Bringing the best in television.</desc>
+    <icon src="http://ttpl.tmsimg.com/assets/p809737_b_h8_bq.jpg?lock=1280x720"/>
+  </programme>
+  <programme start="20260805033000 +0000" stop="20260805063000 +0000" channel="StarMoviesSelect.in">
+    <title lang="en">Movie</title>
+    <desc lang="en">Bringing the best in television.</desc>
+    <icon src="http://ttpl.tmsimg.com/assets/p809737_b_h8_bq.jpg?lock=1280x720"/>
+  </programme>
+  <programme start="20260805063000 +0000" stop="20260805093000 +0000" channel="StarMoviesSelect.in">
+    <title lang="en">Movie</title>
+    <desc lang="en">Bringing the best in television.</desc>
+    <icon src="http://ttpl.tmsimg.com/assets/p809737_b_h8_bq.jpg?lock=1280x720"/>
+  </programme>
+  <programme start="20260805093000 +0000" stop="20260805123000 +0000" channel="StarMoviesSelect.in">
+    <title lang="en">Movie</title>
+    <desc lang="en">Bringing the best in television.</desc>
+    <icon src="http://ttpl.tmsimg.com/assets/p809737_b_h8_bq.jpg?lock=1280x720"/>
+  </programme>
+  <programme start="20260805123000 +0000" stop="20260805153000 +0000" channel="StarMoviesSelect.in">
+    <title lang="en">Movie</title>
+    <desc lang="en">Bringing the best in television.</desc>
+    <icon src="http://ttpl.tmsimg.com/assets/p809737_b_h8_bq.jpg?lock=1280x720"/>
+  </programme>
+  <programme start="20260805153000 +0000" stop="20260805183000 +0000" channel="StarMoviesSelect.in">
+    <title lang="en">Movie</title>
+    <desc lang="en">Bringing the best in television.</desc>
+    <icon src="http://ttpl.tmsimg.com/assets/p809737_b_h8_bq.jpg?lock=1280x720"/>
   </programme>
   <programme start="20260802170000 +0000" stop="20260802184500 +0000" channel="StudioUniversal.id">
     <title lang="id">Us</title>
