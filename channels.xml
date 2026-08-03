@@ -106,4 +106,7 @@
   <channel site="mncvision.id" site_id="23" lang="id" xmltv_id="ZeeBioskop.id">Zee Bioskop</channel>
   <channel site="mncvision.id" site_id="39" lang="id" xmltv_id="ZooMoo.id">Zoomoo</channel>
   <channel site="visionplus.id" site_id="00000000000000000139" lang="id" xmltv_id="Reformed21.id">Reformed 21</channel>
+  <channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_MNSYMPLUS" lang="en" xmltv_id="MoviesNowPlus.in">MN+</channel>
+  <channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_MNX_HD" lang="en" xmltv_id="MNX.in">MNX - HD</channel>
+  <channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_MOVIES_NOW_HD" lang="en" xmltv_id="MoviesNow.in">MOVIES NOW HD</channel>
 </channels>
