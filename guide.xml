@@ -12,7 +12,7 @@
   <channel id="HBOHits.id">
     <display-name>HBO Hits</display-name>
   </channel>
-  <channel id="HBOSignatures.id">
+  <channel id="HBOSignature.id">
     <display-name>HBO Signature</display-name>
   </channel>
   <channel id="HITSNOW.id">
@@ -14069,158 +14069,158 @@
   <programme start="20260804150000 +0000" stop="20260804170000 +0000" channel="HBOHits.id">
     <title lang="id">Anemone</title>
   </programme>
-  <programme start="20260801170000 +0000" stop="20260801180500 +0000" channel="HBOSignatures.id">
+  <programme start="20260801170000 +0000" stop="20260801180500 +0000" channel="HBOSignature.id">
     <title lang="id">Splitsville</title>
   </programme>
-  <programme start="20260801180500 +0000" stop="20260801195500 +0000" channel="HBOSignatures.id">
+  <programme start="20260801180500 +0000" stop="20260801195500 +0000" channel="HBOSignature.id">
     <title lang="id">Final Destination: Bloodlines</title>
   </programme>
-  <programme start="20260801195500 +0000" stop="20260801220000 +0000" channel="HBOSignatures.id">
+  <programme start="20260801195500 +0000" stop="20260801220000 +0000" channel="HBOSignature.id">
     <title lang="id">He's Just Not That Into You</title>
   </programme>
-  <programme start="20260801220000 +0000" stop="20260802000500 +0000" channel="HBOSignatures.id">
+  <programme start="20260801220000 +0000" stop="20260802000500 +0000" channel="HBOSignature.id">
     <title lang="id">Jurassic Park</title>
   </programme>
-  <programme start="20260802000500 +0000" stop="20260802021500 +0000" channel="HBOSignatures.id">
+  <programme start="20260802000500 +0000" stop="20260802021500 +0000" channel="HBOSignature.id">
     <title lang="id">Jane Fonda in Five Acts</title>
   </programme>
-  <programme start="20260802021500 +0000" stop="20260802035500 +0000" channel="HBOSignatures.id">
+  <programme start="20260802021500 +0000" stop="20260802035500 +0000" channel="HBOSignature.id">
     <title lang="id">Paterno</title>
   </programme>
-  <programme start="20260802035500 +0000" stop="20260802054500 +0000" channel="HBOSignatures.id">
+  <programme start="20260802035500 +0000" stop="20260802054500 +0000" channel="HBOSignature.id">
     <title lang="id">American Made</title>
   </programme>
-  <programme start="20260802054500 +0000" stop="20260802073000 +0000" channel="HBOSignatures.id">
+  <programme start="20260802054500 +0000" stop="20260802073000 +0000" channel="HBOSignature.id">
     <title lang="id">Splitsville</title>
   </programme>
-  <programme start="20260802073000 +0000" stop="20260802090500 +0000" channel="HBOSignatures.id">
+  <programme start="20260802073000 +0000" stop="20260802090500 +0000" channel="HBOSignature.id">
     <title lang="id">The Stepford Wives</title>
   </programme>
-  <programme start="20260802090500 +0000" stop="20260802104000 +0000" channel="HBOSignatures.id">
+  <programme start="20260802090500 +0000" stop="20260802104000 +0000" channel="HBOSignature.id">
     <title lang="id">Atomic Homefront</title>
   </programme>
-  <programme start="20260802104000 +0000" stop="20260802122000 +0000" channel="HBOSignatures.id">
+  <programme start="20260802104000 +0000" stop="20260802122000 +0000" channel="HBOSignature.id">
     <title lang="id">Grey Gardens</title>
   </programme>
-  <programme start="20260802122000 +0000" stop="20260802140000 +0000" channel="HBOSignatures.id">
+  <programme start="20260802122000 +0000" stop="20260802140000 +0000" channel="HBOSignature.id">
     <title lang="id">The First Wives Club</title>
   </programme>
-  <programme start="20260802140000 +0000" stop="20260802144500 +0000" channel="HBOSignatures.id">
+  <programme start="20260802140000 +0000" stop="20260802144500 +0000" channel="HBOSignature.id">
     <title lang="id">Law &amp; Order ('21) S1, Ep. 1</title>
     <episode-num system="xmltv_ns">0.0.0/1</episode-num>
     <episode-num system="onscreen">S01E01</episode-num>
   </programme>
-  <programme start="20260802144500 +0000" stop="20260802163000 +0000" channel="HBOSignatures.id">
+  <programme start="20260802144500 +0000" stop="20260802163000 +0000" channel="HBOSignature.id">
     <title lang="id">Final Destination: Bloodlines</title>
   </programme>
-  <programme start="20260802163000 +0000" stop="20260802170000 +0000" channel="HBOSignatures.id">
+  <programme start="20260802163000 +0000" stop="20260802170000 +0000" channel="HBOSignature.id">
     <title lang="id">He's Just Not That Into You</title>
   </programme>
-  <programme start="20260802170000 +0000" stop="20260802184000 +0000" channel="HBOSignatures.id">
+  <programme start="20260802170000 +0000" stop="20260802184000 +0000" channel="HBOSignature.id">
     <title lang="id">He's Just Not That Into You</title>
   </programme>
-  <programme start="20260802184000 +0000" stop="20260802204000 +0000" channel="HBOSignatures.id">
+  <programme start="20260802184000 +0000" stop="20260802204000 +0000" channel="HBOSignature.id">
     <title lang="id">The Alabama Solution</title>
   </programme>
-  <programme start="20260802204000 +0000" stop="20260802224500 +0000" channel="HBOSignatures.id">
+  <programme start="20260802204000 +0000" stop="20260802224500 +0000" channel="HBOSignature.id">
     <title lang="id">Chocolat</title>
   </programme>
-  <programme start="20260802224500 +0000" stop="20260802231500 +0000" channel="HBOSignatures.id">
+  <programme start="20260802224500 +0000" stop="20260802231500 +0000" channel="HBOSignature.id">
     <title lang="id">Hollywood on Set, Ep. 1178</title>
     <episode-num system="xmltv_ns">0.1177.0/1</episode-num>
     <episode-num system="onscreen">S01E1178</episode-num>
   </programme>
-  <programme start="20260802231500 +0000" stop="20260803010500 +0000" channel="HBOSignatures.id">
+  <programme start="20260802231500 +0000" stop="20260803010500 +0000" channel="HBOSignature.id">
     <title lang="id">Paterno</title>
   </programme>
-  <programme start="20260803010500 +0000" stop="20260803020000 +0000" channel="HBOSignatures.id">
+  <programme start="20260803010500 +0000" stop="20260803020000 +0000" channel="HBOSignature.id">
     <title lang="id">DTF St. Louis, Ep. 1</title>
     <episode-num system="xmltv_ns">0.0.0/1</episode-num>
     <episode-num system="onscreen">S01E01</episode-num>
   </programme>
-  <programme start="20260803020000 +0000" stop="20260803042500 +0000" channel="HBOSignatures.id">
+  <programme start="20260803020000 +0000" stop="20260803042500 +0000" channel="HBOSignature.id">
     <title lang="id">Blood Diamond</title>
   </programme>
-  <programme start="20260803042500 +0000" stop="20260803061500 +0000" channel="HBOSignatures.id">
+  <programme start="20260803042500 +0000" stop="20260803061500 +0000" channel="HBOSignature.id">
     <title lang="id">Grey Gardens</title>
   </programme>
-  <programme start="20260803061500 +0000" stop="20260803080500 +0000" channel="HBOSignatures.id">
+  <programme start="20260803061500 +0000" stop="20260803080500 +0000" channel="HBOSignature.id">
     <title lang="id">The Rhythm Section</title>
   </programme>
-  <programme start="20260803080500 +0000" stop="20260803091000 +0000" channel="HBOSignatures.id">
+  <programme start="20260803080500 +0000" stop="20260803091000 +0000" channel="HBOSignature.id">
     <title lang="id">Women of Troy</title>
   </programme>
-  <programme start="20260803091000 +0000" stop="20260803110000 +0000" channel="HBOSignatures.id">
+  <programme start="20260803091000 +0000" stop="20260803110000 +0000" channel="HBOSignature.id">
     <title lang="id">The First Wives Club</title>
   </programme>
-  <programme start="20260803110000 +0000" stop="20260803121500 +0000" channel="HBOSignatures.id">
+  <programme start="20260803110000 +0000" stop="20260803121500 +0000" channel="HBOSignature.id">
     <title lang="id">Becoming Mike Nichols</title>
   </programme>
-  <programme start="20260803121500 +0000" stop="20260803140000 +0000" channel="HBOSignatures.id">
+  <programme start="20260803121500 +0000" stop="20260803140000 +0000" channel="HBOSignature.id">
     <title lang="id">Ghost Town</title>
   </programme>
-  <programme start="20260803140000 +0000" stop="20260803160500 +0000" channel="HBOSignatures.id">
+  <programme start="20260803140000 +0000" stop="20260803160500 +0000" channel="HBOSignature.id">
     <title lang="id">Chocolat</title>
   </programme>
-  <programme start="20260803160500 +0000" stop="20260803170000 +0000" channel="HBOSignatures.id">
+  <programme start="20260803160500 +0000" stop="20260803170000 +0000" channel="HBOSignature.id">
     <title lang="id">Savior Complex, Ep. 1</title>
     <episode-num system="xmltv_ns">0.0.0/1</episode-num>
     <episode-num system="onscreen">S01E01</episode-num>
   </programme>
-  <programme start="20260803170000 +0000" stop="20260803171000 +0000" channel="HBOSignatures.id">
+  <programme start="20260803170000 +0000" stop="20260803171000 +0000" channel="HBOSignature.id">
     <title lang="id">Savior Complex, Ep. 1</title>
     <episode-num system="xmltv_ns">0.0.0/1</episode-num>
     <episode-num system="onscreen">S01E01</episode-num>
   </programme>
-  <programme start="20260803171000 +0000" stop="20260803191000 +0000" channel="HBOSignatures.id">
+  <programme start="20260803171000 +0000" stop="20260803191000 +0000" channel="HBOSignature.id">
     <title lang="id">Rob Peace</title>
   </programme>
-  <programme start="20260803191000 +0000" stop="20260803200500 +0000" channel="HBOSignatures.id">
+  <programme start="20260803191000 +0000" stop="20260803200500 +0000" channel="HBOSignature.id">
     <title lang="id">DTF St. Louis</title>
   </programme>
-  <programme start="20260803200500 +0000" stop="20260803221500 +0000" channel="HBOSignatures.id">
+  <programme start="20260803200500 +0000" stop="20260803221500 +0000" channel="HBOSignature.id">
     <title lang="id">As You Like It</title>
   </programme>
-  <programme start="20260803221500 +0000" stop="20260804004000 +0000" channel="HBOSignatures.id">
+  <programme start="20260803221500 +0000" stop="20260804004000 +0000" channel="HBOSignature.id">
     <title lang="id">Blood Diamond</title>
   </programme>
-  <programme start="20260804004000 +0000" stop="20260804014000 +0000" channel="HBOSignatures.id">
+  <programme start="20260804004000 +0000" stop="20260804014000 +0000" channel="HBOSignature.id">
     <title lang="id">DTF St. Louis, Ep. 2</title>
     <episode-num system="xmltv_ns">0.1.0/1</episode-num>
     <episode-num system="onscreen">S01E02</episode-num>
   </programme>
-  <programme start="20260804014000 +0000" stop="20260804032500 +0000" channel="HBOSignatures.id">
+  <programme start="20260804014000 +0000" stop="20260804032500 +0000" channel="HBOSignature.id">
     <title lang="id">Ghost Town</title>
   </programme>
-  <programme start="20260804032500 +0000" stop="20260804043000 +0000" channel="HBOSignatures.id">
+  <programme start="20260804032500 +0000" stop="20260804043000 +0000" channel="HBOSignature.id">
     <title lang="id">Women of Troy</title>
   </programme>
-  <programme start="20260804043000 +0000" stop="20260804062500 +0000" channel="HBOSignatures.id">
+  <programme start="20260804043000 +0000" stop="20260804062500 +0000" channel="HBOSignature.id">
     <title lang="id">The Rhythm Section</title>
   </programme>
-  <programme start="20260804062500 +0000" stop="20260804083500 +0000" channel="HBOSignatures.id">
+  <programme start="20260804062500 +0000" stop="20260804083500 +0000" channel="HBOSignature.id">
     <title lang="id">As You Like It</title>
   </programme>
-  <programme start="20260804083500 +0000" stop="20260804090500 +0000" channel="HBOSignatures.id">
+  <programme start="20260804083500 +0000" stop="20260804090500 +0000" channel="HBOSignature.id">
     <title lang="id">Hollywood on Set, Ep. 1178</title>
     <episode-num system="xmltv_ns">0.1177.0/1</episode-num>
     <episode-num system="onscreen">S01E1178</episode-num>
   </programme>
-  <programme start="20260804090500 +0000" stop="20260804105000 +0000" channel="HBOSignatures.id">
+  <programme start="20260804090500 +0000" stop="20260804105000 +0000" channel="HBOSignature.id">
     <title lang="id">Very Ralph</title>
   </programme>
-  <programme start="20260804105000 +0000" stop="20260804122500 +0000" channel="HBOSignatures.id">
+  <programme start="20260804105000 +0000" stop="20260804122500 +0000" channel="HBOSignature.id">
     <title lang="id">Margot at the Wedding</title>
   </programme>
-  <programme start="20260804122500 +0000" stop="20260804140000 +0000" channel="HBOSignatures.id">
+  <programme start="20260804122500 +0000" stop="20260804140000 +0000" channel="HBOSignature.id">
     <title lang="id">The Immortal Life of Henrietta Lacks</title>
   </programme>
-  <programme start="20260804140000 +0000" stop="20260804150000 +0000" channel="HBOSignatures.id">
+  <programme start="20260804140000 +0000" stop="20260804150000 +0000" channel="HBOSignature.id">
     <title lang="id">House of the Dragon S3, Ep. 7</title>
     <episode-num system="xmltv_ns">2.6.0/1</episode-num>
     <episode-num system="onscreen">S03E07</episode-num>
   </programme>
-  <programme start="20260804150000 +0000" stop="20260804170000 +0000" channel="HBOSignatures.id">
+  <programme start="20260804150000 +0000" stop="20260804170000 +0000" channel="HBOSignature.id">
     <title lang="id">Rob Peace</title>
   </programme>
   <programme start="20260801173500 +0000" stop="20260801183000 +0000" channel="History.id">
