@@ -369,7 +369,7 @@
   <channel id="Miramax.us">
     <display-name>Miramax Movie Channel</display-name>
   </channel>
-  <channel id="MoviesNowPlus.in">
+  <channel id="MNplus.in">
     <display-name>MN+</display-name>
     <icon src="https://dtil.tmsimg.com/assets/s143548_ld_h15_aa.png?lock=720x540"/>
   </channel>
@@ -21055,202 +21055,202 @@
     <image>https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/PROGRAM/LIVETV_PROGRAM_MOVIES_NOW_HD_2016175_07AUG223000_08AUG003500/images/LANDSCAPE_169_HD/MOVIESNOWHD_GodzillaKingOfTheMonsters_2016175.jpg</image>
     <icon src="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/PROGRAM/LIVETV_PROGRAM_MOVIES_NOW_HD_2016175_07AUG223000_08AUG003500/images/LOGO/MOVIESNOWHD_GodzillaKingOfTheMonsters_2016175.png"/>
   </programme>
-  <programme start="20260804181000 +0000" stop="20260804204500 +0000" channel="MoviesNowPlus.in">
+  <programme start="20260804181000 +0000" stop="20260804204500 +0000" channel="MNplus.in">
     <title lang="en">Gangs of New York</title>
     <desc lang="en">In 1863, Amsterdam Vallon returns to the Five Points area of New York City seeking revenge against Bill the Butcher, his father's killer.</desc>
     <image>https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/PROGRAM/LIVETV_PROGRAM_MNSYMPLUS_310158_04AUG234000_05AUG021500/images/LANDSCAPE_169/1762004883000_MoviesNow2_GangsOfNewYork_406734.jpg</image>
   </programme>
-  <programme start="20260804204500 +0000" stop="20260804221600 +0000" channel="MoviesNowPlus.in">
+  <programme start="20260804204500 +0000" stop="20260804221600 +0000" channel="MNplus.in">
     <title lang="en">Lost River</title>
     <desc lang="en">A single mother is swept into a dark underworld, while her teenage son discovers a road that leads him to a secret underwater town.</desc>
     <image>https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/PROGRAM/LIVETV_PROGRAM_MNSYMPLUS_1994074_05AUG021500_05AUG034600/images/LANDSCAPE_169/1764923313000_MNplusHD_LostRiver_1994074.jpg</image>
   </programme>
-  <programme start="20260804221600 +0000" stop="20260804223000 +0000" channel="MoviesNowPlus.in">
+  <programme start="20260804221600 +0000" stop="20260804223000 +0000" channel="MNplus.in">
     <title lang="en">LLL S03_BENNY DAYAL 03</title>
     <desc lang="en">The host engages in a candid conversation with celebrity guests who share intimate details about their personal and professional lives.</desc>
     <image>https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/PROGRAM/LIVETV_PROGRAM_MNSYMPLUS_2074014_05AUG034600_05AUG040000/images/LANDSCAPE_169/1777746929000_MNplusHD_LLLS03_BENNYDAYAL03_2074014.jpg</image>
   </programme>
-  <programme start="20260804223000 +0000" stop="20260805000000 +0000" channel="MoviesNowPlus.in">
+  <programme start="20260804223000 +0000" stop="20260805000000 +0000" channel="MNplus.in">
     <title lang="en">Big Eyes</title>
     <desc lang="en">The awakening of painter Margaret Keane, her phenomenal success in the 1950s, and the subsequent legal difficulties she had with her husband, who claimed credit for her works in the 1960s.</desc>
     <image>https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/PROGRAM/LIVETV_PROGRAM_MNSYMPLUS_1716969_05AUG040000_05AUG053000/images/LANDSCAPE_169/1726905474000_MNplusHD_BigEyes_1716969.jpg</image>
   </programme>
-  <programme start="20260805000000 +0000" stop="20260805014000 +0000" channel="MoviesNowPlus.in">
+  <programme start="20260805000000 +0000" stop="20260805014000 +0000" channel="MNplus.in">
     <title lang="en">Wild For The Night</title>
     <desc lang="en">A loner in hunted by both sides of the law when he returns home to investigate his sister's murder.</desc>
     <image>https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/PROGRAM/LIVETV_PROGRAM_MNSYMPLUS_996671_05AUG053000_05AUG071000/images/LANDSCAPE_169/1722968236000_MNplusHD_WildForTheNight_996671.jpg</image>
   </programme>
-  <programme start="20260805014000 +0000" stop="20260805034500 +0000" channel="MoviesNowPlus.in">
+  <programme start="20260805014000 +0000" stop="20260805034500 +0000" channel="MNplus.in">
     <title lang="en">The Perks of Being a Wallflower</title>
     <desc lang="en">An introvert freshman is taken under the wings of two seniors who welcome him to the real world.</desc>
     <image>https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/PROGRAM/LIVETV_PROGRAM_MNSYMPLUS_2004728_05AUG071000_05AUG091500/images/LANDSCAPE_169/1767120917000_MNplusHD_PerksOfBeingAWallFlower_2004728.jpg</image>
   </programme>
-  <programme start="20260805034500 +0000" stop="20260805061500 +0000" channel="MoviesNowPlus.in">
+  <programme start="20260805034500 +0000" stop="20260805061500 +0000" channel="MNplus.in">
     <title lang="en">The Prestige</title>
     <desc lang="en">Two stage magicians engage in competitive one-upmanship in an attempt to create the ultimate stage illusion</desc>
     <image>https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/PROGRAM/LIVETV_PROGRAM_MNSYMPLUS_344976_05AUG091500_05AUG114500/images/LANDSCAPE_169/1767121080000_MNplusHD_ThePrestige_344976.jpg</image>
   </programme>
-  <programme start="20260805061500 +0000" stop="20260805075000 +0000" channel="MoviesNowPlus.in">
+  <programme start="20260805061500 +0000" stop="20260805075000 +0000" channel="MNplus.in">
     <title lang="en">Moneyball</title>
     <desc lang="en">A washed-up superhero actor attempts to revive his fading career by writing, directing, and starring in a Broadway production.</desc>
     <image>https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/PROGRAM/LIVETV_PROGRAM_MNSYMPLUS_323992_05AUG114500_05AUG132000/images/LANDSCAPE_169/1756684870000_MoviesNowPlus_Moneyball_323992.jpg</image>
   </programme>
-  <programme start="20260805075000 +0000" stop="20260805095000 +0000" channel="MoviesNowPlus.in">
+  <programme start="20260805075000 +0000" stop="20260805095000 +0000" channel="MNplus.in">
     <title lang="en">The Fugitive</title>
     <desc lang="en">Dr. Richard Kimble, unjustly accused of murdering his wife, must find the real killer while being the target of a nationwide manhunt.</desc>
     <image>https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/PROGRAM/LIVETV_PROGRAM_MNSYMPLUS_257953_05AUG132000_05AUG152000/images/LANDSCAPE_169/1760964166000_MNplusHD_TheFugitive_257953.jpg</image>
   </programme>
-  <programme start="20260805095000 +0000" stop="20260805114000 +0000" channel="MoviesNowPlus.in">
+  <programme start="20260805095000 +0000" stop="20260805114000 +0000" channel="MNplus.in">
     <title lang="en">Spotlight (2015)</title>
     <desc lang="en">The true story of how the Boston Globe uncovered the massive scandal of child molestation and cover-up within the local Catholic Archdiocese, shaking the entire Catholic Church to its core.</desc>
     <image>https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/PROGRAM/LIVETV_PROGRAM_MNSYMPLUS_2049868_05AUG152000_05AUG171000/images/LANDSCAPE_169/1773504785000_MNplusHD_Spotlight2015_2049868.jpg</image>
   </programme>
-  <programme start="20260805114000 +0000" stop="20260805132500 +0000" channel="MoviesNowPlus.in">
+  <programme start="20260805114000 +0000" stop="20260805132500 +0000" channel="MNplus.in">
     <title lang="en">Poseidon</title>
     <desc lang="en">On New Year's Eve, the luxury ocean liner, Poseidon, capsizes after being swamped by a rogue wave. The survivors are left to fight for survival as they attempt to escape the sinking ship</desc>
     <image>https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/PROGRAM/LIVETV_PROGRAM_MNSYMPLUS_224589_05AUG171000_05AUG185500/images/LANDSCAPE_169/1768142318000_MoviesNowPlus_Poseidon_224589.jpg</image>
   </programme>
-  <programme start="20260805132500 +0000" stop="20260805153000 +0000" channel="MoviesNowPlus.in">
+  <programme start="20260805132500 +0000" stop="20260805153000 +0000" channel="MNplus.in">
     <title lang="en">Kill Bill: Volume 2</title>
     <desc lang="en">The Bride continues her quest of vengeance against her former boss and lover Bill, the reclusive bouncer Budd, and the treacherous, one-eyed Elle.</desc>
     <image>https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/PROGRAM/LIVETV_PROGRAM_MNSYMPLUS_1990531_05AUG185500_05AUG210000/images/LANDSCAPE_169/1764492479000_MNplusHD_KillBillVolume2_1990531.jpg</image>
   </programme>
-  <programme start="20260805153000 +0000" stop="20260805181000 +0000" channel="MoviesNowPlus.in">
+  <programme start="20260805153000 +0000" stop="20260805181000 +0000" channel="MNplus.in">
     <title lang="en">Passengers</title>
     <desc lang="en">A malfunction in a sleeping pod on a spacecraft traveling to a distant colony planet wakes one passenger 90 years early.</desc>
     <image>https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/PROGRAM/LIVETV_PROGRAM_MNSYMPLUS_1903651_05AUG210000_05AUG234000/images/LANDSCAPE_169/1751131430000_MNplusHD_Passengers_1903651.jpg</image>
   </programme>
-  <programme start="20260805181000 +0000" stop="20260805202000 +0000" channel="MoviesNowPlus.in">
+  <programme start="20260805181000 +0000" stop="20260805202000 +0000" channel="MNplus.in">
     <title lang="en">Knives Out</title>
     <desc lang="en">A detective investigates the death of the patriarch of an eccentric, combative family.</desc>
     <image>https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/PROGRAM/LIVETV_PROGRAM_MNSYMPLUS_1430095_05AUG234000_06AUG015000/images/LANDSCAPE_169/1756684870000_MOVIESNOW_KnivesOut_1387051.jpg</image>
   </programme>
-  <programme start="20260805181000 +0000" stop="20260805202000 +0000" channel="MoviesNowPlus.in">
+  <programme start="20260805181000 +0000" stop="20260805202000 +0000" channel="MNplus.in">
     <title lang="en">Knives Out</title>
     <desc lang="en">A detective investigates the death of the patriarch of an eccentric, combative family.</desc>
     <image>https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/PROGRAM/LIVETV_PROGRAM_MNSYMPLUS_1430095_05AUG234000_06AUG015000/images/LANDSCAPE_169/1756684870000_MOVIESNOW_KnivesOut_1387051.jpg</image>
   </programme>
-  <programme start="20260805202000 +0000" stop="20260805220000 +0000" channel="MoviesNowPlus.in">
+  <programme start="20260805202000 +0000" stop="20260805220000 +0000" channel="MNplus.in">
     <title lang="en">Serena</title>
     <desc lang="en">In Depression-era North Carolina, the future of George Pemberton's timber empire becomes complicated when he marries Serena.</desc>
     <image>https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/PROGRAM/LIVETV_PROGRAM_MNSYMPLUS_1949440_06AUG015000_06AUG033000/images/LANDSCAPE_169/1769098794000_MNplusHD_Serena_1949440.jpg</image>
   </programme>
-  <programme start="20260805220000 +0000" stop="20260805234000 +0000" channel="MoviesNowPlus.in">
+  <programme start="20260805220000 +0000" stop="20260805234000 +0000" channel="MNplus.in">
     <title lang="en">The Woman In Gold</title>
     <desc lang="en">Elderly Maria battles Austria to reclaim her family's stolen artwork. It's personal!</desc>
     <image>https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/PROGRAM/LIVETV_PROGRAM_MNSYMPLUS_1716641_06AUG033000_06AUG051000/images/LANDSCAPE_169/1726749566000_MNplusHD_TheWomanInGold_1716641.jpg</image>
   </programme>
-  <programme start="20260805234000 +0000" stop="20260806022000 +0000" channel="MoviesNowPlus.in">
+  <programme start="20260805234000 +0000" stop="20260806022000 +0000" channel="MNplus.in">
     <title lang="en">The Aviator</title>
     <desc lang="en">A biopic depicting the early years of legendary director and aviator Howard Hughes' career from the late 1920s to the mid-1940s</desc>
     <image>https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/PROGRAM/LIVETV_PROGRAM_MNSYMPLUS_507630_06AUG051000_06AUG075000/images/LANDSCAPE_169/1759264591000_MoviesNowPlus_TheAviator_507630.jpg</image>
   </programme>
-  <programme start="20260806022000 +0000" stop="20260806045000 +0000" channel="MoviesNowPlus.in">
+  <programme start="20260806022000 +0000" stop="20260806045000 +0000" channel="MNplus.in">
     <title lang="en">Ali</title>
     <desc lang="en">A biography of sports legend, Muhammad Ali, from his early days to his days in the ring.</desc>
     <image>https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/PROGRAM/LIVETV_PROGRAM_MNSYMPLUS_520246_06AUG075000_06AUG102000/images/LANDSCAPE_169/1759450200000_MoviesNowPlus_Ali_520246.jpg</image>
   </programme>
-  <programme start="20260806045000 +0000" stop="20260806072000 +0000" channel="MoviesNowPlus.in">
+  <programme start="20260806045000 +0000" stop="20260806072000 +0000" channel="MNplus.in">
     <title lang="en">Gangs of New York</title>
     <desc lang="en">In 1863, Amsterdam Vallon returns to the Five Points area of New York City seeking revenge against Bill the Butcher, his father's killer.</desc>
     <image>https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/PROGRAM/LIVETV_PROGRAM_MNSYMPLUS_310158_06AUG102000_06AUG125000/images/LANDSCAPE_169/1762004883000_MoviesNow2_GangsOfNewYork_406734.jpg</image>
   </programme>
-  <programme start="20260806072000 +0000" stop="20260806091500 +0000" channel="MoviesNowPlus.in">
+  <programme start="20260806072000 +0000" stop="20260806091500 +0000" channel="MNplus.in">
     <title lang="en">Nightcrawler</title>
     <desc lang="en">A petty thief desperate for work muscles into the world of crime journalism and becomes the star of his own story as he blurs the line between observer and participant.</desc>
     <image>https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/PROGRAM/LIVETV_PROGRAM_MNSYMPLUS_2071387_06AUG125000_06AUG144500/images/LANDSCAPE_169/1777489954000_MNplusHD_Nightcrawler_2071387.jpg</image>
   </programme>
-  <programme start="20260806091500 +0000" stop="20260806114000 +0000" channel="MoviesNowPlus.in">
+  <programme start="20260806091500 +0000" stop="20260806114000 +0000" channel="MNplus.in">
     <title lang="en">The Pianist</title>
     <desc lang="en">During WWII, acclaimed Polish musician Wladyslaw faces various struggles as he loses contact with his family. As the situation worsens, he hides in the ruins of Warsaw in order to survive.</desc>
     <image>https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/PROGRAM/LIVETV_PROGRAM_MNSYMPLUS_2048876_06AUG144500_06AUG171000/images/LANDSCAPE_169/1773133586000_MNplusHD_ThePianist_2048876.jpg</image>
   </programme>
-  <programme start="20260806114000 +0000" stop="20260806132000 +0000" channel="MoviesNowPlus.in">
+  <programme start="20260806114000 +0000" stop="20260806132000 +0000" channel="MNplus.in">
     <title lang="en">Kill Bill: Volume 1</title>
     <desc lang="en">After awakening from a four-year coma, a former assassin wreaks vengeance on the team of assassins who betrayed her.</desc>
     <image>https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/PROGRAM/LIVETV_PROGRAM_MNSYMPLUS_1990530_06AUG171000_06AUG185000/images/LANDSCAPE_169/1764357635000_MNplusHD_KillBillVolume1_1990530.jpg</image>
   </programme>
-  <programme start="20260806132000 +0000" stop="20260806153000 +0000" channel="MoviesNowPlus.in">
+  <programme start="20260806132000 +0000" stop="20260806153000 +0000" channel="MNplus.in">
     <title lang="en">The Great Gatsby</title>
     <desc lang="en">A Midwestern war veteran finds himself drawn to the past and lifestyle of his millionaire neighbor.</desc>
     <image>https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/PROGRAM/LIVETV_PROGRAM_MNSYMPLUS_266409_06AUG185000_06AUG210000/images/LANDSCAPE_169/1769883134000_MNplusHD_TheGreatGatsby_266409.jpg</image>
   </programme>
-  <programme start="20260806153000 +0000" stop="20260806172500 +0000" channel="MoviesNowPlus.in">
+  <programme start="20260806153000 +0000" stop="20260806172500 +0000" channel="MNplus.in">
     <title lang="en">Silver Linings Playbook</title>
     <desc lang="en">After a stint at a mental institution, Pat tries to reconcile with his ex-wife. Things get complicated when he meets the mysterious Tiffany.</desc>
     <image>https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/PROGRAM/LIVETV_PROGRAM_MNSYMPLUS_523939_06AUG210000_06AUG225500/images/LANDSCAPE_169/1759395118000_MNplusHD_SilverLiningsPlaybook_523939.jpg</image>
   </programme>
-  <programme start="20260806172500 +0000" stop="20260806192500 +0000" channel="MoviesNowPlus.in">
+  <programme start="20260806172500 +0000" stop="20260806192500 +0000" channel="MNplus.in">
     <title lang="en">Julie &amp; Julia</title>
     <desc lang="en">Julia Child's story of her start in the cooking profession is intertwined with blogger Julie Powell's 2002 challenge to cook all the recipes in Child's first book.</desc>
     <image>https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/PROGRAM/LIVETV_PROGRAM_MNSYMPLUS_1271347_06AUG225500_07AUG005500/images/LANDSCAPE_169/1756684870000_MNplusHD_JulieJulia_1271347.jpg</image>
   </programme>
-  <programme start="20260806172500 +0000" stop="20260806192500 +0000" channel="MoviesNowPlus.in">
+  <programme start="20260806172500 +0000" stop="20260806192500 +0000" channel="MNplus.in">
     <title lang="en">Julie &amp; Julia</title>
     <desc lang="en">Julia Child's story of her start in the cooking profession is intertwined with blogger Julie Powell's 2002 challenge to cook all the recipes in Child's first book.</desc>
     <image>https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/PROGRAM/LIVETV_PROGRAM_MNSYMPLUS_1271347_06AUG225500_07AUG005500/images/LANDSCAPE_169/1756684870000_MNplusHD_JulieJulia_1271347.jpg</image>
   </programme>
-  <programme start="20260806192500 +0000" stop="20260806205500 +0000" channel="MoviesNowPlus.in">
+  <programme start="20260806192500 +0000" stop="20260806205500 +0000" channel="MNplus.in">
     <title lang="en">Lost River</title>
     <desc lang="en">A single mother is swept into a dark underworld, while her teenage son discovers a road that leads him to a secret underwater town.</desc>
     <image>https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/PROGRAM/LIVETV_PROGRAM_MNSYMPLUS_1994074_07AUG005500_07AUG022500/images/LANDSCAPE_169/1764923313000_MNplusHD_LostRiver_1994074.jpg</image>
   </programme>
-  <programme start="20260806205500 +0000" stop="20260806222000 +0000" channel="MoviesNowPlus.in">
+  <programme start="20260806205500 +0000" stop="20260806222000 +0000" channel="MNplus.in">
     <title lang="en">Fallen</title>
     <desc lang="en">Homicide detective John Hobbes witnesses the execution of serial killer Edgar Reese. Soon after the execution, the killings start again, and they are very similar to Reese's style.</desc>
     <image>https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/PROGRAM/LIVETV_PROGRAM_MNSYMPLUS_1099979_07AUG022500_07AUG035000/images/LANDSCAPE_169/1714768073000_MNplusHD_Fallen_1099979.jpg</image>
   </programme>
-  <programme start="20260806222000 +0000" stop="20260806235500 +0000" channel="MoviesNowPlus.in">
+  <programme start="20260806222000 +0000" stop="20260806235500 +0000" channel="MNplus.in">
     <title lang="en">Stand Up Guys</title>
     <desc lang="en">After serving a 28-year sentence, a gangster reunites with his former partners. As the three reminisce crimes gone by, one, who has been assigned to kill another, must overcome his dilemma.</desc>
     <image>https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/PROGRAM/LIVETV_PROGRAM_MNSYMPLUS_2044102_07AUG035000_07AUG052500/images/LANDSCAPE_169/1772372515000_MNplusHD_StandUpGuys_2044102.jpg</image>
   </programme>
-  <programme start="20260806235500 +0000" stop="20260807013500 +0000" channel="MoviesNowPlus.in">
+  <programme start="20260806235500 +0000" stop="20260807013500 +0000" channel="MNplus.in">
     <title lang="en">Wild For The Night</title>
     <desc lang="en">A loner in hunted by both sides of the law when he returns home to investigate his sister's murder.</desc>
     <image>https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/PROGRAM/LIVETV_PROGRAM_MNSYMPLUS_996671_07AUG052500_07AUG070500/images/LANDSCAPE_169/1722968236000_MNplusHD_WildForTheNight_996671.jpg</image>
   </programme>
-  <programme start="20260807013500 +0000" stop="20260807034000 +0000" channel="MoviesNowPlus.in">
+  <programme start="20260807013500 +0000" stop="20260807034000 +0000" channel="MNplus.in">
     <title lang="en">Knives Out</title>
     <desc lang="en">A detective investigates the death of the patriarch of an eccentric, combative family.</desc>
     <image>https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/PROGRAM/LIVETV_PROGRAM_MNSYMPLUS_1430095_07AUG070500_07AUG091000/images/LANDSCAPE_169/1756684870000_MOVIESNOW_KnivesOut_1387051.jpg</image>
   </programme>
-  <programme start="20260807034000 +0000" stop="20260807053000 +0000" channel="MoviesNowPlus.in">
+  <programme start="20260807034000 +0000" stop="20260807053000 +0000" channel="MNplus.in">
     <title lang="en">Passengers</title>
     <desc lang="en">A malfunction in a sleeping pod on a spacecraft traveling to a distant colony planet wakes one passenger 90 years early.</desc>
     <image>https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/PROGRAM/LIVETV_PROGRAM_MNSYMPLUS_1903651_07AUG091000_07AUG110000/images/LANDSCAPE_169/1751131430000_MNplusHD_Passengers_1903651.jpg</image>
   </programme>
-  <programme start="20260807053000 +0000" stop="20260807080000 +0000" channel="MoviesNowPlus.in">
+  <programme start="20260807053000 +0000" stop="20260807080000 +0000" channel="MNplus.in">
     <title lang="en">Once Upon A Time In Hollywood</title>
     <desc lang="en">Rick, a washed-out actor, and Cliff, his stunt double, struggle to recapture fame in Los Angeles. Meanwhile, living next door to Rick is Sharon Tate and her husband Roman Polanski.</desc>
     <image>https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/PROGRAM/LIVETV_PROGRAM_MNSYMPLUS_1216478_07AUG110000_07AUG133000/images/LANDSCAPE_169/1756684870000_AndPriveHD_OnceUponaTimeInHollywood_914658.jpg</image>
   </programme>
-  <programme start="20260807080000 +0000" stop="20260807095500 +0000" channel="MoviesNowPlus.in">
+  <programme start="20260807080000 +0000" stop="20260807095500 +0000" channel="MNplus.in">
     <title lang="en">Rocketman</title>
     <desc lang="en">A musical fantasy about the fantastical human story of Elton John's breakthrough years.</desc>
     <image>https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/PROGRAM/LIVETV_PROGRAM_MNSYMPLUS_1585441_07AUG133000_07AUG152500/images/LANDSCAPE_169/1715863099000_MNplusHD_Rocketman_1585441.jpg</image>
   </programme>
-  <programme start="20260807095500 +0000" stop="20260807113500 +0000" channel="MoviesNowPlus.in">
+  <programme start="20260807095500 +0000" stop="20260807113500 +0000" channel="MNplus.in">
     <title lang="en">The Perks of Being a Wallflower</title>
     <desc lang="en">An introvert freshman is taken under the wings of two seniors who welcome him to the real world.</desc>
     <image>https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/PROGRAM/LIVETV_PROGRAM_MNSYMPLUS_2004728_07AUG152500_07AUG170500/images/LANDSCAPE_169/1767120917000_MNplusHD_PerksOfBeingAWallFlower_2004728.jpg</image>
   </programme>
-  <programme start="20260807113500 +0000" stop="20260807132000 +0000" channel="MoviesNowPlus.in">
+  <programme start="20260807113500 +0000" stop="20260807132000 +0000" channel="MNplus.in">
     <title lang="en">A Beautiful Day In The Neighborhood</title>
     <desc lang="en">Lloyd Vogel, a cynical journalist, gets acquainted with a kind-hearted television host Fred Rogers while writing an article on him. With time, they strike an unlikely friendship</desc>
     <image>https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/PROGRAM/LIVETV_PROGRAM_MNSYMPLUS_2092354_07AUG170500_07AUG185000/images/LANDSCAPE_169/1781380272000_MNplusHD_ABeautifulDayInTheNeighborhood_2092354.jpg</image>
   </programme>
-  <programme start="20260807132000 +0000" stop="20260807153000 +0000" channel="MoviesNowPlus.in">
+  <programme start="20260807132000 +0000" stop="20260807153000 +0000" channel="MNplus.in">
     <title lang="en">Moneyball</title>
     <desc lang="en">A washed-up superhero actor attempts to revive his fading career by writing, directing, and starring in a Broadway production.</desc>
     <image>https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/PROGRAM/LIVETV_PROGRAM_MNSYMPLUS_323992_07AUG185000_07AUG210000/images/LANDSCAPE_169/1756684870000_MoviesNowPlus_Moneyball_323992.jpg</image>
   </programme>
-  <programme start="20260807153000 +0000" stop="20260807172500 +0000" channel="MoviesNowPlus.in">
+  <programme start="20260807153000 +0000" stop="20260807172500 +0000" channel="MNplus.in">
     <title lang="en">The Social Network</title>
     <desc lang="en">Mark Zuckerberg creates the social networking site that would become known as FB, he's sued by the twins who claimed he stole their idea and by the co-founder who was later squeezed out of the business.</desc>
     <image>https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/PROGRAM/LIVETV_PROGRAM_MNSYMPLUS_189089_07AUG210000_07AUG225500/images/LANDSCAPE_169/1756684870000_MNplusHD_TheSocialNetwork_189089.jpg</image>
   </programme>
-  <programme start="20260807172500 +0000" stop="20260807193000 +0000" channel="MoviesNowPlus.in">
+  <programme start="20260807172500 +0000" stop="20260807193000 +0000" channel="MNplus.in">
     <title lang="en">Kill Bill: Volume 2</title>
     <desc lang="en">The Bride continues her quest of vengeance against her former boss and lover Bill, the reclusive bouncer Budd, and the treacherous, one-eyed Elle.</desc>
     <image>https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/PROGRAM/LIVETV_PROGRAM_MNSYMPLUS_1990531_07AUG225500_08AUG010000/images/LANDSCAPE_169/1764492479000_MNplusHD_KillBillVolume2_1990531.jpg</image>
