@@ -26,8 +26,8 @@
   <channel site="mncvision.id" site_id="103" lang="id" xmltv_id="BTV.id">BTV</channel>
   <channel site="mncvision.id" site_id="41" lang="id" xmltv_id="CBeebiesAsia.uk">CBeebies</channel>
   <channel site="mncvision.id" site_id="96" lang="id" xmltv_id="CelebritiesTV.id">Celebrities TV</channel>
-  <channel site="mncvision.id" site_id="22" lang="id" xmltv_id="CelestialClassicMovies.id">CCM</channel>
-  <channel site="mncvision.id" site_id="20" lang="id" xmltv_id="CelestialMoviesIndonesia.id">Celestial Movies</channel>
+  <channel site="mncvision.id" site_id="22" lang="id" xmltv_id="CCM.id">CCM</channel>
+  <channel site="mncvision.id" site_id="20" lang="id" xmltv_id="CelestialMovies.id">Celestial Movies</channel>
   <channel site="mncvision.id" site_id="353" lang="id" xmltv_id="CGTN.cn">CGTN</channel>
   <channel site="mncvision.id" site_id="205" lang="id" xmltv_id="CGTNDocumentary.cn">CGTN Documentary</channel>
   <channel site="mncvision.id" site_id="401" lang="id" xmltv_id="Cinemachi.uk">ORIGINALS HD</channel>
