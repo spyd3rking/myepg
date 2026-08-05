@@ -89,11 +89,11 @@
     <display-name>Celebrities TV</display-name>
     <icon src="https://i.postimg.cc/bNmq98dK/225px-Celebrities-TV.png"/>
   </channel>
-  <channel id="CelestialClassicMovies.id">
+  <channel id="CCM.id">
     <display-name>CCM</display-name>
     <icon src="https://i.imgur.com/X7OZ3w5.png"/>
   </channel>
-  <channel id="CelestialMoviesIndonesia.id">
+  <channel id="CelestialMovies.id">
     <display-name>Celestial Movies</display-name>
     <icon src="https://i.imgur.com/KYP1xXZ.png"/>
   </channel>
@@ -6075,262 +6075,262 @@
   <programme start="20260807163000 +0000" stop="20260807180000 +0000" channel="CelebritiesTV.id">
     <title lang="id">From Pizza With Love</title>
   </programme>
-  <programme start="20260804182500 +0000" stop="20260804204000 +0000" channel="CelestialClassicMovies.id">
+  <programme start="20260804182500 +0000" stop="20260804204000 +0000" channel="CCM.id">
     <title lang="id">Hong Kong Nocturne</title>
   </programme>
-  <programme start="20260804204000 +0000" stop="20260804221500 +0000" channel="CelestialClassicMovies.id">
+  <programme start="20260804204000 +0000" stop="20260804221500 +0000" channel="CCM.id">
     <title lang="id">The Champion</title>
   </programme>
-  <programme start="20260804221500 +0000" stop="20260804235500 +0000" channel="CelestialClassicMovies.id">
+  <programme start="20260804221500 +0000" stop="20260804235500 +0000" channel="CCM.id">
     <title lang="id">Clan Of Amazons</title>
   </programme>
-  <programme start="20260804235500 +0000" stop="20260805014500 +0000" channel="CelestialClassicMovies.id">
+  <programme start="20260804235500 +0000" stop="20260805014500 +0000" channel="CCM.id">
     <title lang="id">Lady General Hua Mu-Lan</title>
   </programme>
-  <programme start="20260805014500 +0000" stop="20260805032000 +0000" channel="CelestialClassicMovies.id">
+  <programme start="20260805014500 +0000" stop="20260805032000 +0000" channel="CCM.id">
     <title lang="id">The Avenging Eagle</title>
   </programme>
-  <programme start="20260805032000 +0000" stop="20260805044500 +0000" channel="CelestialClassicMovies.id">
+  <programme start="20260805032000 +0000" stop="20260805044500 +0000" channel="CCM.id">
     <title lang="id">Gang Master</title>
   </programme>
-  <programme start="20260805044500 +0000" stop="20260805062500 +0000" channel="CelestialClassicMovies.id">
+  <programme start="20260805044500 +0000" stop="20260805062500 +0000" channel="CCM.id">
     <title lang="id">The Brave Archer 3</title>
   </programme>
-  <programme start="20260805062500 +0000" stop="20260805080500 +0000" channel="CelestialClassicMovies.id">
+  <programme start="20260805062500 +0000" stop="20260805080500 +0000" channel="CCM.id">
     <title lang="id">My Son</title>
   </programme>
-  <programme start="20260805080500 +0000" stop="20260805095000 +0000" channel="CelestialClassicMovies.id">
+  <programme start="20260805080500 +0000" stop="20260805095000 +0000" channel="CCM.id">
     <title lang="id">Full Moon Scimitar</title>
   </programme>
-  <programme start="20260805095000 +0000" stop="20260805113000 +0000" channel="CelestialClassicMovies.id">
+  <programme start="20260805095000 +0000" stop="20260805113000 +0000" channel="CCM.id">
     <title lang="id">Rose, Be My Love</title>
   </programme>
-  <programme start="20260805113000 +0000" stop="20260805130000 +0000" channel="CelestialClassicMovies.id">
+  <programme start="20260805113000 +0000" stop="20260805130000 +0000" channel="CCM.id">
     <title lang="id">The Gambling Syndicate</title>
   </programme>
-  <programme start="20260805130000 +0000" stop="20260805152500 +0000" channel="CelestialClassicMovies.id">
+  <programme start="20260805130000 +0000" stop="20260805152500 +0000" channel="CCM.id">
     <title lang="id">Boxer Rebellion</title>
   </programme>
-  <programme start="20260805152500 +0000" stop="20260805170500 +0000" channel="CelestialClassicMovies.id">
+  <programme start="20260805152500 +0000" stop="20260805170500 +0000" channel="CCM.id">
     <title lang="id">Killers On Wheels</title>
   </programme>
-  <programme start="20260805170500 +0000" stop="20260805183500 +0000" channel="CelestialClassicMovies.id">
+  <programme start="20260805170500 +0000" stop="20260805183500 +0000" channel="CCM.id">
     <title lang="id">Intimate Confessions Of A...</title>
   </programme>
-  <programme start="20260805183500 +0000" stop="20260805202500 +0000" channel="CelestialClassicMovies.id">
+  <programme start="20260805183500 +0000" stop="20260805202500 +0000" channel="CCM.id">
     <title lang="id">Legend Of The Bat</title>
   </programme>
-  <programme start="20260805202500 +0000" stop="20260805220500 +0000" channel="CelestialClassicMovies.id">
+  <programme start="20260805202500 +0000" stop="20260805220500 +0000" channel="CCM.id">
     <title lang="id">Sex, Love And Hate</title>
   </programme>
-  <programme start="20260805220500 +0000" stop="20260805234500 +0000" channel="CelestialClassicMovies.id">
+  <programme start="20260805220500 +0000" stop="20260805234500 +0000" channel="CCM.id">
     <title lang="id">Mercenaries From Hong Kong</title>
   </programme>
-  <programme start="20260805234500 +0000" stop="20260806012000 +0000" channel="CelestialClassicMovies.id">
+  <programme start="20260805234500 +0000" stop="20260806012000 +0000" channel="CCM.id">
     <title lang="id">Crazy Shaolin Disciples</title>
   </programme>
-  <programme start="20260806012000 +0000" stop="20260806030000 +0000" channel="CelestialClassicMovies.id">
+  <programme start="20260806012000 +0000" stop="20260806030000 +0000" channel="CCM.id">
     <title lang="id">Long Road To Gallantry</title>
   </programme>
-  <programme start="20260806030000 +0000" stop="20260806044500 +0000" channel="CelestialClassicMovies.id">
+  <programme start="20260806030000 +0000" stop="20260806044500 +0000" channel="CCM.id">
     <title lang="id">The Mermaid</title>
   </programme>
-  <programme start="20260806044500 +0000" stop="20260806062500 +0000" channel="CelestialClassicMovies.id">
+  <programme start="20260806044500 +0000" stop="20260806062500 +0000" channel="CCM.id">
     <title lang="id">Cat Vs Rat</title>
   </programme>
-  <programme start="20260806062500 +0000" stop="20260806080500 +0000" channel="CelestialClassicMovies.id">
+  <programme start="20260806062500 +0000" stop="20260806080500 +0000" channel="CCM.id">
     <title lang="id">Summer Heat</title>
   </programme>
-  <programme start="20260806080500 +0000" stop="20260806095500 +0000" channel="CelestialClassicMovies.id">
+  <programme start="20260806080500 +0000" stop="20260806095500 +0000" channel="CCM.id">
     <title lang="id">Heaven Sword &amp; Dragon Sabre</title>
   </programme>
-  <programme start="20260806095500 +0000" stop="20260806113000 +0000" channel="CelestialClassicMovies.id">
+  <programme start="20260806095500 +0000" stop="20260806113000 +0000" channel="CCM.id">
     <title lang="id">The Younger Generation</title>
   </programme>
-  <programme start="20260806113000 +0000" stop="20260806130000 +0000" channel="CelestialClassicMovies.id">
+  <programme start="20260806113000 +0000" stop="20260806130000 +0000" channel="CCM.id">
     <title lang="id">The Villains</title>
   </programme>
-  <programme start="20260806130000 +0000" stop="20260806142500 +0000" channel="CelestialClassicMovies.id">
+  <programme start="20260806130000 +0000" stop="20260806142500 +0000" channel="CCM.id">
     <title lang="id">The Crimson Palm</title>
   </programme>
-  <programme start="20260806142500 +0000" stop="20260806160000 +0000" channel="CelestialClassicMovies.id">
+  <programme start="20260806142500 +0000" stop="20260806160000 +0000" channel="CCM.id">
     <title lang="id">Heaven And Hell</title>
   </programme>
-  <programme start="20260806160000 +0000" stop="20260806174000 +0000" channel="CelestialClassicMovies.id">
+  <programme start="20260806160000 +0000" stop="20260806174000 +0000" channel="CCM.id">
     <title lang="id">Moods Of Love</title>
   </programme>
-  <programme start="20260806174000 +0000" stop="20260806192500 +0000" channel="CelestialClassicMovies.id">
+  <programme start="20260806174000 +0000" stop="20260806192500 +0000" channel="CCM.id">
     <title lang="id">The New Shaolin Boxers</title>
   </programme>
-  <programme start="20260806192500 +0000" stop="20260806211000 +0000" channel="CelestialClassicMovies.id">
+  <programme start="20260806192500 +0000" stop="20260806211000 +0000" channel="CCM.id">
     <title lang="id">Killer Clans</title>
   </programme>
-  <programme start="20260806211000 +0000" stop="20260806225500 +0000" channel="CelestialClassicMovies.id">
+  <programme start="20260806211000 +0000" stop="20260806225500 +0000" channel="CCM.id">
     <title lang="id">Life Gamble</title>
   </programme>
-  <programme start="20260806225500 +0000" stop="20260807004000 +0000" channel="CelestialClassicMovies.id">
+  <programme start="20260806225500 +0000" stop="20260807004000 +0000" channel="CCM.id">
     <title lang="id">The Magic Blade</title>
   </programme>
-  <programme start="20260807004000 +0000" stop="20260807023000 +0000" channel="CelestialClassicMovies.id">
+  <programme start="20260807004000 +0000" stop="20260807023000 +0000" channel="CCM.id">
     <title lang="id">Dead End</title>
   </programme>
-  <programme start="20260807023000 +0000" stop="20260807042500 +0000" channel="CelestialClassicMovies.id">
+  <programme start="20260807023000 +0000" stop="20260807042500 +0000" channel="CCM.id">
     <title lang="id">The Sword Of Swords</title>
   </programme>
-  <programme start="20260807042500 +0000" stop="20260807060500 +0000" channel="CelestialClassicMovies.id">
+  <programme start="20260807042500 +0000" stop="20260807060500 +0000" channel="CCM.id">
     <title lang="id">Tiger Killer</title>
   </programme>
-  <programme start="20260807060500 +0000" stop="20260807080500 +0000" channel="CelestialClassicMovies.id">
+  <programme start="20260807060500 +0000" stop="20260807080500 +0000" channel="CCM.id">
     <title lang="id">The Brave Archer 2</title>
   </programme>
-  <programme start="20260807080500 +0000" stop="20260807093000 +0000" channel="CelestialClassicMovies.id">
+  <programme start="20260807080500 +0000" stop="20260807093000 +0000" channel="CCM.id">
     <title lang="id">Tales Of Larceny</title>
   </programme>
-  <programme start="20260807093000 +0000" stop="20260807112000 +0000" channel="CelestialClassicMovies.id">
+  <programme start="20260807093000 +0000" stop="20260807112000 +0000" channel="CCM.id">
     <title lang="id">Invincible Shaolin</title>
   </programme>
-  <programme start="20260807112000 +0000" stop="20260807130000 +0000" channel="CelestialClassicMovies.id">
+  <programme start="20260807112000 +0000" stop="20260807130000 +0000" channel="CCM.id">
     <title lang="id">The Comedy Of Mismatches</title>
   </programme>
-  <programme start="20260807130000 +0000" stop="20260807145000 +0000" channel="CelestialClassicMovies.id">
+  <programme start="20260807130000 +0000" stop="20260807145000 +0000" channel="CCM.id">
     <title lang="id">Demon Of The Lute</title>
   </programme>
-  <programme start="20260807145000 +0000" stop="20260807163500 +0000" channel="CelestialClassicMovies.id">
+  <programme start="20260807145000 +0000" stop="20260807163500 +0000" channel="CCM.id">
     <title lang="id">The Delinquent</title>
   </programme>
-  <programme start="20260807163500 +0000" stop="20260807180500 +0000" channel="CelestialClassicMovies.id">
+  <programme start="20260807163500 +0000" stop="20260807180500 +0000" channel="CCM.id">
     <title lang="id">The Rescue</title>
   </programme>
-  <programme start="20260804174500 +0000" stop="20260804192500 +0000" channel="CelestialMoviesIndonesia.id">
+  <programme start="20260804174500 +0000" stop="20260804192500 +0000" channel="CelestialMovies.id">
     <title lang="id">The Magnificent Scoundrels</title>
   </programme>
-  <programme start="20260804192500 +0000" stop="20260804205500 +0000" channel="CelestialMoviesIndonesia.id">
+  <programme start="20260804192500 +0000" stop="20260804205500 +0000" channel="CelestialMovies.id">
     <title lang="id">Kowloon Walled City</title>
   </programme>
-  <programme start="20260804205500 +0000" stop="20260804222500 +0000" channel="CelestialMoviesIndonesia.id">
+  <programme start="20260804205500 +0000" stop="20260804222500 +0000" channel="CelestialMovies.id">
     <title lang="id">The Mad Monk</title>
   </programme>
-  <programme start="20260804222500 +0000" stop="20260805001500 +0000" channel="CelestialMoviesIndonesia.id">
+  <programme start="20260804222500 +0000" stop="20260805001500 +0000" channel="CelestialMovies.id">
     <title lang="id">Whisper Of Silent Body</title>
   </programme>
-  <programme start="20260805001500 +0000" stop="20260805021000 +0000" channel="CelestialMoviesIndonesia.id">
+  <programme start="20260805001500 +0000" stop="20260805021000 +0000" channel="CelestialMovies.id">
     <title lang="id">Initial D</title>
   </programme>
-  <programme start="20260805021000 +0000" stop="20260805033500 +0000" channel="CelestialMoviesIndonesia.id">
+  <programme start="20260805021000 +0000" stop="20260805033500 +0000" channel="CelestialMovies.id">
     <title lang="id">The Mighty Peking Man</title>
   </programme>
-  <programme start="20260805033500 +0000" stop="20260805050500 +0000" channel="CelestialMoviesIndonesia.id">
+  <programme start="20260805033500 +0000" stop="20260805050500 +0000" channel="CelestialMovies.id">
     <title lang="id">Teenage Dreamers</title>
   </programme>
-  <programme start="20260805050500 +0000" stop="20260805064000 +0000" channel="CelestialMoviesIndonesia.id">
+  <programme start="20260805050500 +0000" stop="20260805064000 +0000" channel="CelestialMovies.id">
     <title lang="id">Iron Kung Fu Fist</title>
   </programme>
-  <programme start="20260805064000 +0000" stop="20260805081000 +0000" channel="CelestialMoviesIndonesia.id">
+  <programme start="20260805064000 +0000" stop="20260805081000 +0000" channel="CelestialMovies.id">
     <title lang="id">Maybe It's Love</title>
   </programme>
-  <programme start="20260805081000 +0000" stop="20260805093500 +0000" channel="CelestialMoviesIndonesia.id">
+  <programme start="20260805081000 +0000" stop="20260805093500 +0000" channel="CelestialMovies.id">
     <title lang="id">Out Of The Dark</title>
   </programme>
-  <programme start="20260805093500 +0000" stop="20260805112500 +0000" channel="CelestialMoviesIndonesia.id">
+  <programme start="20260805093500 +0000" stop="20260805112500 +0000" channel="CelestialMovies.id">
     <title lang="id">Drunken Master</title>
   </programme>
-  <programme start="20260805112500 +0000" stop="20260805130000 +0000" channel="CelestialMoviesIndonesia.id">
+  <programme start="20260805112500 +0000" stop="20260805130000 +0000" channel="CelestialMovies.id">
     <title lang="id">Cop Shop Babes</title>
   </programme>
-  <programme start="20260805130000 +0000" stop="20260805144500 +0000" channel="CelestialMoviesIndonesia.id">
+  <programme start="20260805130000 +0000" stop="20260805144500 +0000" channel="CelestialMovies.id">
     <title lang="id">The Sorcerer &amp; The White Snake</title>
   </programme>
-  <programme start="20260805144500 +0000" stop="20260805163000 +0000" channel="CelestialMoviesIndonesia.id">
+  <programme start="20260805144500 +0000" stop="20260805163000 +0000" channel="CelestialMovies.id">
     <title lang="id">Legend Of The Fist: Chen Zhen</title>
   </programme>
-  <programme start="20260805163000 +0000" stop="20260805180500 +0000" channel="CelestialMoviesIndonesia.id">
+  <programme start="20260805163000 +0000" stop="20260805180500 +0000" channel="CelestialMovies.id">
     <title lang="id">Faithfully Yours</title>
   </programme>
-  <programme start="20260805180500 +0000" stop="20260805193000 +0000" channel="CelestialMoviesIndonesia.id">
+  <programme start="20260805180500 +0000" stop="20260805193000 +0000" channel="CelestialMovies.id">
     <title lang="id">Loving You</title>
   </programme>
-  <programme start="20260805193000 +0000" stop="20260805205000 +0000" channel="CelestialMoviesIndonesia.id">
+  <programme start="20260805193000 +0000" stop="20260805205000 +0000" channel="CelestialMovies.id">
     <title lang="id">Seeding Of A Ghost</title>
   </programme>
-  <programme start="20260805205000 +0000" stop="20260805223000 +0000" channel="CelestialMoviesIndonesia.id">
+  <programme start="20260805205000 +0000" stop="20260805223000 +0000" channel="CelestialMovies.id">
     <title lang="id">Cruel War</title>
   </programme>
-  <programme start="20260805223000 +0000" stop="20260806000500 +0000" channel="CelestialMoviesIndonesia.id">
+  <programme start="20260805223000 +0000" stop="20260806000500 +0000" channel="CelestialMovies.id">
     <title lang="id">When Fortune Smiles</title>
   </programme>
-  <programme start="20260806000500 +0000" stop="20260806014000 +0000" channel="CelestialMoviesIndonesia.id">
+  <programme start="20260806000500 +0000" stop="20260806014000 +0000" channel="CelestialMovies.id">
     <title lang="id">Mid-Night Two</title>
   </programme>
-  <programme start="20260806014000 +0000" stop="20260806032500 +0000" channel="CelestialMoviesIndonesia.id">
+  <programme start="20260806014000 +0000" stop="20260806032500 +0000" channel="CelestialMovies.id">
     <title lang="id">Seoul Raiders</title>
   </programme>
-  <programme start="20260806032500 +0000" stop="20260806050500 +0000" channel="CelestialMoviesIndonesia.id">
+  <programme start="20260806032500 +0000" stop="20260806050500 +0000" channel="CelestialMovies.id">
     <title lang="id">Kungfu Stuntmen</title>
   </programme>
-  <programme start="20260806050500 +0000" stop="20260806063500 +0000" channel="CelestialMoviesIndonesia.id">
+  <programme start="20260806050500 +0000" stop="20260806063500 +0000" channel="CelestialMovies.id">
     <title lang="id">Sixty Million Dollar Man</title>
   </programme>
-  <programme start="20260806063500 +0000" stop="20260806081000 +0000" channel="CelestialMoviesIndonesia.id">
+  <programme start="20260806063500 +0000" stop="20260806081000 +0000" channel="CelestialMovies.id">
     <title lang="id">The Fate Of Reunion</title>
   </programme>
-  <programme start="20260806081000 +0000" stop="20260806094500 +0000" channel="CelestialMoviesIndonesia.id">
+  <programme start="20260806081000 +0000" stop="20260806094500 +0000" channel="CelestialMovies.id">
     <title lang="id">Gangster, The Cop, The Devil</title>
   </programme>
-  <programme start="20260806094500 +0000" stop="20260806112500 +0000" channel="CelestialMoviesIndonesia.id">
+  <programme start="20260806094500 +0000" stop="20260806112500 +0000" channel="CelestialMovies.id">
     <title lang="id">Fight Back To School 2</title>
   </programme>
-  <programme start="20260806112500 +0000" stop="20260806130000 +0000" channel="CelestialMoviesIndonesia.id">
+  <programme start="20260806112500 +0000" stop="20260806130000 +0000" channel="CelestialMovies.id">
     <title lang="id">My School Mate, The Barbarian</title>
   </programme>
-  <programme start="20260806130000 +0000" stop="20260806143000 +0000" channel="CelestialMoviesIndonesia.id">
+  <programme start="20260806130000 +0000" stop="20260806143000 +0000" channel="CelestialMovies.id">
     <title lang="id">Look Out, Officer!</title>
   </programme>
-  <programme start="20260806143000 +0000" stop="20260806160000 +0000" channel="CelestialMoviesIndonesia.id">
+  <programme start="20260806143000 +0000" stop="20260806160000 +0000" channel="CelestialMovies.id">
     <title lang="id">Mr. Vampire 2</title>
   </programme>
-  <programme start="20260806160000 +0000" stop="20260806175000 +0000" channel="CelestialMoviesIndonesia.id">
+  <programme start="20260806160000 +0000" stop="20260806175000 +0000" channel="CelestialMovies.id">
     <title lang="id">Nezha</title>
   </programme>
-  <programme start="20260806175000 +0000" stop="20260806191500 +0000" channel="CelestialMoviesIndonesia.id">
+  <programme start="20260806175000 +0000" stop="20260806191500 +0000" channel="CelestialMovies.id">
     <title lang="id">Oily Maniac</title>
   </programme>
-  <programme start="20260806191500 +0000" stop="20260806205500 +0000" channel="CelestialMoviesIndonesia.id">
+  <programme start="20260806191500 +0000" stop="20260806205500 +0000" channel="CelestialMovies.id">
     <title lang="id">36 Secrets Of Courtship</title>
   </programme>
-  <programme start="20260806205500 +0000" stop="20260806223000 +0000" channel="CelestialMoviesIndonesia.id">
+  <programme start="20260806205500 +0000" stop="20260806223000 +0000" channel="CelestialMovies.id">
     <title lang="id">OpenThe Coffin</title>
   </programme>
-  <programme start="20260806223000 +0000" stop="20260807003000 +0000" channel="CelestialMoviesIndonesia.id">
+  <programme start="20260806223000 +0000" stop="20260807003000 +0000" channel="CelestialMovies.id">
     <title lang="id">The Last Tycoon</title>
   </programme>
-  <programme start="20260807003000 +0000" stop="20260807024000 +0000" channel="CelestialMoviesIndonesia.id">
+  <programme start="20260807003000 +0000" stop="20260807024000 +0000" channel="CelestialMovies.id">
     <title lang="id">The Great Magician</title>
   </programme>
-  <programme start="20260807024000 +0000" stop="20260807041500 +0000" channel="CelestialMoviesIndonesia.id">
+  <programme start="20260807024000 +0000" stop="20260807041500 +0000" channel="CelestialMovies.id">
     <title lang="id">Face To Face</title>
   </programme>
-  <programme start="20260807041500 +0000" stop="20260807062000 +0000" channel="CelestialMoviesIndonesia.id">
+  <programme start="20260807041500 +0000" stop="20260807062000 +0000" channel="CelestialMovies.id">
     <title lang="id">Unbeatable</title>
   </programme>
-  <programme start="20260807062000 +0000" stop="20260807075500 +0000" channel="CelestialMoviesIndonesia.id">
+  <programme start="20260807062000 +0000" stop="20260807075500 +0000" channel="CelestialMovies.id">
     <title lang="id">Mother Vs Mother</title>
   </programme>
-  <programme start="20260807075500 +0000" stop="20260807093500 +0000" channel="CelestialMoviesIndonesia.id">
+  <programme start="20260807075500 +0000" stop="20260807093500 +0000" channel="CelestialMovies.id">
     <title lang="id">Let's Make Laugh</title>
   </programme>
-  <programme start="20260807093500 +0000" stop="20260807111000 +0000" channel="CelestialMoviesIndonesia.id">
+  <programme start="20260807093500 +0000" stop="20260807111000 +0000" channel="CelestialMovies.id">
     <title lang="id">Young Heroes Of Chaotic Times</title>
   </programme>
-  <programme start="20260807111000 +0000" stop="20260807130000 +0000" channel="CelestialMoviesIndonesia.id">
+  <programme start="20260807111000 +0000" stop="20260807130000 +0000" channel="CelestialMovies.id">
     <title lang="id">Royal Tramp</title>
   </programme>
-  <programme start="20260807130000 +0000" stop="20260807143000 +0000" channel="CelestialMoviesIndonesia.id">
+  <programme start="20260807130000 +0000" stop="20260807143000 +0000" channel="CelestialMovies.id">
     <title lang="id">Cherie</title>
   </programme>
-  <programme start="20260807143000 +0000" stop="20260807160500 +0000" channel="CelestialMoviesIndonesia.id">
+  <programme start="20260807143000 +0000" stop="20260807160500 +0000" channel="CelestialMovies.id">
     <title lang="id">Hero</title>
   </programme>
-  <programme start="20260807160500 +0000" stop="20260807174500 +0000" channel="CelestialMoviesIndonesia.id">
+  <programme start="20260807160500 +0000" stop="20260807174500 +0000" channel="CelestialMovies.id">
     <title lang="id">Mr. Possessed</title>
   </programme>
   <programme start="20260804170000 +0000" stop="20260804180000 +0000" channel="CGTN.cn">
