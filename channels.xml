@@ -109,9 +109,9 @@
   <channel site="visionplus.id" site_id="00000000000000000139" lang="id" xmltv_id="Reformed21.id">Reformed 21</channel>
   <channel site="plex.tv" site_id="661fca34414d94009d1206ec" lang="en" xmltv_id="Miramax.us">Miramax Movie Channel</channel>
   <channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_MNSYMPLUS" lang="en" xmltv_id="MNplus.in">MN+</channel>
-  <channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_MNX_HD" lang="en" xmltv_id="MNX.in">MNX - HD</channel>
-  <channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_MOVIES_NOW_HD" lang="en" xmltv_id="MoviesNow.in">MOVIES NOW HD</channel>
+  <channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_MNX_HD" lang="en" xmltv_id="MNX.in">MNX</channel>
+  <channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_MOVIES_NOW_HD" lang="en" xmltv_id="MoviesNow.in">MOVIES NOW</channel>
+  <channel site="dens.tv" site_id="92" lang="id" xmltv_id="MyCinemaEurope.id">My Cinema Europe</channel>
   <channel site="tataplay.com" site_id="273" lang="en" xmltv_id="StarMovies.in">STAR Movies</channel>
-  <channel site="dens.tv" site_id="92" lang="id" xmltv_id="MyCinemaEurope.id">My Cinema Europe HD</channel>
   <channel site="tataplay.com" site_id="1069" lang="en" xmltv_id="StarMoviesSelect.in">Star Movies Select</channel>
 </channels>
