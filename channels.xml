@@ -113,5 +113,6 @@
   <channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_MOVIES_NOW_HD" lang="en" xmltv_id="MoviesNow.in">MOVIES NOW</channel>
   <channel site="dens.tv" site_id="92" lang="id" xmltv_id="MyCinemaEurope.id">My Cinema Europe</channel>
   <channel site="tataplay.com" site_id="273" lang="en" xmltv_id="StarMovies.in">STAR Movies</channel>
+  <channel site="tataplay.com" site_id="174" lang="en" xmltv_id="RomedyNow.in">Romedy Now</channel>
   <channel site="tataplay.com" site_id="1069" lang="en" xmltv_id="StarMoviesSelect.in">Star Movies Select</channel>
 </channels>
