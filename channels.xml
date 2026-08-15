@@ -117,4 +117,5 @@
   <channel site="tataplay.com" site_id="1069" lang="en" xmltv_id="StarMoviesSelect.in">Star Movies Select</channel>
   <channel site="vidio.com" site_id="6898" lang="id" xmltv_id="UChannel.id">U-Channel TV</channel>
   <channel site="dens.tv" site_id="78" lang="id" xmltv_id="TBN.id">TBN</channel>
+  <channel site="visionplus.id" site_id="00000000000000000154" lang="id" xmltv_id="EWTN.id">EWTN</channel>
 </channels>
