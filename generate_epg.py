@@ -2,26 +2,26 @@ import datetime
 import os
 
 def generate_xmltv():
-    # Daftar susunan acara asli milik Anda
+    # PERBAIKAN: Karakter '&' wajib diubah menjadi '&amp;' agar valid secara XML
     daily_slots = [
         (0, 0, 2, "Menara Doa Malam", "Saat teduh dan doa malam bersama GMS Church."),
-        (2, 0, 3, "Pujian & Penyembahan", "Lagu-lagu pujian dan penyembahan non-stop GMS Worship."),
+        (2, 0, 3, "Pujian &amp; Penyembahan", "Lagu-lagu pujian dan penyembahan non-stop GMS Worship."),
         (5, 0, 1, "Saat Teduh Fajar", "Renungan firman Tuhan dan doa memulai hari."),
-        (6, 0, 2, "Eagle Kidz & Voltage", "Ibadah dan pengajaran firman kreatif untuk anak-anak dan remaja."),
+        (6, 0, 2, "Eagle Kidz &amp; Voltage", "Ibadah dan pengajaran firman kreatif untuk anak-anak dan remaja."),
         (8, 0, 2, "GMS Sunday Service (Replay)", "Siaran ulang ibadah umum mingguan Gereja Mawar Sharon."),
         (10, 0, 2, "Khotbah Ps. Philip Mantofa", "Seri pengajaran Alkitab dan pesan rohani mendalam oleh Pastor Philip Mantofa."),
         (12, 0, 2, "GMS Worship Session", "Dokumenter, klip musik, dan kesaksian di balik lagu-lagu GMS Worship."),
         (14, 0, 2, "Army of God Youth", "Ibadah pemuda dan remaja dengan pesan yang relevan bagi generasi muda."),
         (16, 0, 2, "GMS Sunday Service (Replay)", "Siaran ulang ibadah umum mingguan Gereja Mawar Sharon."),
         (18, 0, 2, "Khotbah Ps. Philip Mantofa", "Seri pengajaran Alkitab dan pesan rohani mendalam oleh Pastor Philip Mantofa."),
-        (20, 0, 2, "Talkshow & Conference Snippets", "Bincang-bincang rohani dan cuplikan seminar/konferensi GMS."),
+        (20, 0, 2, "Talkshow &amp; Conference Snippets", "Bincang-bincang rohani dan cuplikan seminar/konferensi GMS."),
         (22, 0, 2, "Menara Doa Malam", "Saat teduh dan doa malam bersama GMS Church.")
     ]
     
     # 1. Deteksi otomatis lokasi file guide.xml hasil grab Node.js
     xml_path = 'public/guide.xml'
     if not os.path.exists(xml_path):
-        xml_path = '../public/guide.xml'  # Keluar satu folder jika dijalankan dari my-config
+        xml_path = '../public/guide.xml'
 
     if not os.path.exists(xml_path):
         print(f"Error: Berkas target guide.xml tidak ditemukan!")
@@ -51,15 +51,17 @@ def generate_xmltv():
             start_str = start_dt.strftime("%Y%m%d%H%M%S") + " +0700"
             end_str = end_dt.strftime("%Y%m%d%H%M%S") + " +0700"
             
-            gms_lines.append(f'  <programme start="{start_str}" stop="{end_str}" channel="GMS.Channel.TV">')
-            gms_lines.append(f'    <title lang="id">{title}</title>')
-            gms_lines.append(f'    <desc lang="id">{desc}</desc>')
-            gms_lines.append('  </programme>')
+            xml_lines_prog = []
+            xml_lines_prog.append(f'  <programme start="{start_str}" stop="{end_str}" channel="GMS.Channel.TV">')
+            xml_lines_prog.append(f'    <title lang="id">{title}</title>')
+            xml_lines_prog.append(f'    <desc lang="id">{desc}</desc>')
+            xml_lines_prog.append('  </programme>')
+            
+            gms_lines.extend(xml_lines_prog)
 
     # 4. Cari posisi tag penutup </tv> lalu sisipkan jadwal GMS tepat sebelum tag tersebut
     gms_injection_text = "\n".join(gms_lines) + "\n"
     if "</tv>" in xml_content:
-        # Ganti tag penutup </tv> dengan gabungan teks jadwal baru + tag penutup kembali
         updated_xml_content = xml_content.replace("</tv>", gms_injection_text + "</tv>")
     else:
         print("Error: Tag penutup </tv> tidak ditemukan di berkas asli!")
