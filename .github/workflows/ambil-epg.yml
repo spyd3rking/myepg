@@ -2,7 +2,7 @@ name: Scraper EPG Otomatis 24/7
 
 on:
   schedule:
-    - cron: '0 17 * * *' # Berjalan setiap hari jam 00:05 WIB (17:05 UTC)
+    - cron: '0 0 * * *' # Berjalan setiap hari jam 07:00 WIB
   workflow_dispatch:
 
 jobs:
