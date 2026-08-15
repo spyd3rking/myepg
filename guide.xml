@@ -27321,4 +27321,151 @@
     <episode-num system="xmltv_ns">3.9.0/1</episode-num>
     <episode-num system="onscreen">S04E10</episode-num>
   </programme>
+  <channel id="GMS.Channel.TV">
+    <display-name lang="id">GMS Channel TV</display-name>
+  </channel>
+  <programme start="20260815000000 +0700" stop="20260815020000 +0700" channel="GMS.Channel.TV">
+    <title lang="id">Menara Doa Malam</title>
+    <desc lang="id">Saat teduh dan doa malam bersama GMS Church.</desc>
+  </programme>
+  <programme start="20260815020000 +0700" stop="20260815050000 +0700" channel="GMS.Channel.TV">
+    <title lang="id">Pujian &amp; Penyembahan</title>
+    <desc lang="id">Lagu-lagu pujian dan penyembahan non-stop GMS Worship.</desc>
+  </programme>
+  <programme start="20260815050000 +0700" stop="20260815060000 +0700" channel="GMS.Channel.TV">
+    <title lang="id">Saat Teduh Fajar</title>
+    <desc lang="id">Renungan firman Tuhan dan doa memulai hari.</desc>
+  </programme>
+  <programme start="20260815060000 +0700" stop="20260815080000 +0700" channel="GMS.Channel.TV">
+    <title lang="id">Eagle Kidz &amp; Voltage</title>
+    <desc lang="id">Ibadah dan pengajaran firman kreatif untuk anak-anak dan remaja.</desc>
+  </programme>
+  <programme start="20260815080000 +0700" stop="20260815100000 +0700" channel="GMS.Channel.TV">
+    <title lang="id">GMS Sunday Service (Replay)</title>
+    <desc lang="id">Siaran ulang ibadah umum mingguan Gereja Mawar Sharon.</desc>
+  </programme>
+  <programme start="20260815100000 +0700" stop="20260815120000 +0700" channel="GMS.Channel.TV">
+    <title lang="id">Khotbah Ps. Philip Mantofa</title>
+    <desc lang="id">Seri pengajaran Alkitab dan pesan rohani mendalam oleh Pastor Philip Mantofa.</desc>
+  </programme>
+  <programme start="20260815120000 +0700" stop="20260815140000 +0700" channel="GMS.Channel.TV">
+    <title lang="id">GMS Worship Session</title>
+    <desc lang="id">Dokumenter, klip musik, dan kesaksian di balik lagu-lagu GMS Worship.</desc>
+  </programme>
+  <programme start="20260815140000 +0700" stop="20260815160000 +0700" channel="GMS.Channel.TV">
+    <title lang="id">Army of God Youth</title>
+    <desc lang="id">Ibadah pemuda dan remaja dengan pesan yang relevan bagi generasi muda.</desc>
+  </programme>
+  <programme start="20260815160000 +0700" stop="20260815180000 +0700" channel="GMS.Channel.TV">
+    <title lang="id">GMS Sunday Service (Replay)</title>
+    <desc lang="id">Siaran ulang ibadah umum mingguan Gereja Mawar Sharon.</desc>
+  </programme>
+  <programme start="20260815180000 +0700" stop="20260815200000 +0700" channel="GMS.Channel.TV">
+    <title lang="id">Khotbah Ps. Philip Mantofa</title>
+    <desc lang="id">Seri pengajaran Alkitab dan pesan rohani mendalam oleh Pastor Philip Mantofa.</desc>
+  </programme>
+  <programme start="20260815200000 +0700" stop="20260815220000 +0700" channel="GMS.Channel.TV">
+    <title lang="id">Talkshow &amp; Conference Snippets</title>
+    <desc lang="id">Bincang-bincang rohani dan cuplikan seminar/konferensi GMS.</desc>
+  </programme>
+  <programme start="20260815220000 +0700" stop="20260816000000 +0700" channel="GMS.Channel.TV">
+    <title lang="id">Menara Doa Malam</title>
+    <desc lang="id">Saat teduh dan doa malam bersama GMS Church.</desc>
+  </programme>
+  <programme start="20260816000000 +0700" stop="20260816020000 +0700" channel="GMS.Channel.TV">
+    <title lang="id">Menara Doa Malam</title>
+    <desc lang="id">Saat teduh dan doa malam bersama GMS Church.</desc>
+  </programme>
+  <programme start="20260816020000 +0700" stop="20260816050000 +0700" channel="GMS.Channel.TV">
+    <title lang="id">Pujian &amp; Penyembahan</title>
+    <desc lang="id">Lagu-lagu pujian dan penyembahan non-stop GMS Worship.</desc>
+  </programme>
+  <programme start="20260816050000 +0700" stop="20260816060000 +0700" channel="GMS.Channel.TV">
+    <title lang="id">Saat Teduh Fajar</title>
+    <desc lang="id">Renungan firman Tuhan dan doa memulai hari.</desc>
+  </programme>
+  <programme start="20260816060000 +0700" stop="20260816080000 +0700" channel="GMS.Channel.TV">
+    <title lang="id">Eagle Kidz &amp; Voltage</title>
+    <desc lang="id">Ibadah dan pengajaran firman kreatif untuk anak-anak dan remaja.</desc>
+  </programme>
+  <programme start="20260816080000 +0700" stop="20260816100000 +0700" channel="GMS.Channel.TV">
+    <title lang="id">GMS Sunday Service (Replay)</title>
+    <desc lang="id">Siaran ulang ibadah umum mingguan Gereja Mawar Sharon.</desc>
+  </programme>
+  <programme start="20260816100000 +0700" stop="20260816120000 +0700" channel="GMS.Channel.TV">
+    <title lang="id">Khotbah Ps. Philip Mantofa</title>
+    <desc lang="id">Seri pengajaran Alkitab dan pesan rohani mendalam oleh Pastor Philip Mantofa.</desc>
+  </programme>
+  <programme start="20260816120000 +0700" stop="20260816140000 +0700" channel="GMS.Channel.TV">
+    <title lang="id">GMS Worship Session</title>
+    <desc lang="id">Dokumenter, klip musik, dan kesaksian di balik lagu-lagu GMS Worship.</desc>
+  </programme>
+  <programme start="20260816140000 +0700" stop="20260816160000 +0700" channel="GMS.Channel.TV">
+    <title lang="id">Army of God Youth</title>
+    <desc lang="id">Ibadah pemuda dan remaja dengan pesan yang relevan bagi generasi muda.</desc>
+  </programme>
+  <programme start="20260816160000 +0700" stop="20260816180000 +0700" channel="GMS.Channel.TV">
+    <title lang="id">GMS Sunday Service (Replay)</title>
+    <desc lang="id">Siaran ulang ibadah umum mingguan Gereja Mawar Sharon.</desc>
+  </programme>
+  <programme start="20260816180000 +0700" stop="20260816200000 +0700" channel="GMS.Channel.TV">
+    <title lang="id">Khotbah Ps. Philip Mantofa</title>
+    <desc lang="id">Seri pengajaran Alkitab dan pesan rohani mendalam oleh Pastor Philip Mantofa.</desc>
+  </programme>
+  <programme start="20260816200000 +0700" stop="20260816220000 +0700" channel="GMS.Channel.TV">
+    <title lang="id">Talkshow &amp; Conference Snippets</title>
+    <desc lang="id">Bincang-bincang rohani dan cuplikan seminar/konferensi GMS.</desc>
+  </programme>
+  <programme start="20260816220000 +0700" stop="20260817000000 +0700" channel="GMS.Channel.TV">
+    <title lang="id">Menara Doa Malam</title>
+    <desc lang="id">Saat teduh dan doa malam bersama GMS Church.</desc>
+  </programme>
+  <programme start="20260817000000 +0700" stop="20260817020000 +0700" channel="GMS.Channel.TV">
+    <title lang="id">Menara Doa Malam</title>
+    <desc lang="id">Saat teduh dan doa malam bersama GMS Church.</desc>
+  </programme>
+  <programme start="20260817020000 +0700" stop="20260817050000 +0700" channel="GMS.Channel.TV">
+    <title lang="id">Pujian &amp; Penyembahan</title>
+    <desc lang="id">Lagu-lagu pujian dan penyembahan non-stop GMS Worship.</desc>
+  </programme>
+  <programme start="20260817050000 +0700" stop="20260817060000 +0700" channel="GMS.Channel.TV">
+    <title lang="id">Saat Teduh Fajar</title>
+    <desc lang="id">Renungan firman Tuhan dan doa memulai hari.</desc>
+  </programme>
+  <programme start="20260817060000 +0700" stop="20260817080000 +0700" channel="GMS.Channel.TV">
+    <title lang="id">Eagle Kidz &amp; Voltage</title>
+    <desc lang="id">Ibadah dan pengajaran firman kreatif untuk anak-anak dan remaja.</desc>
+  </programme>
+  <programme start="20260817080000 +0700" stop="20260817100000 +0700" channel="GMS.Channel.TV">
+    <title lang="id">GMS Sunday Service (Replay)</title>
+    <desc lang="id">Siaran ulang ibadah umum mingguan Gereja Mawar Sharon.</desc>
+  </programme>
+  <programme start="20260817100000 +0700" stop="20260817120000 +0700" channel="GMS.Channel.TV">
+    <title lang="id">Khotbah Ps. Philip Mantofa</title>
+    <desc lang="id">Seri pengajaran Alkitab dan pesan rohani mendalam oleh Pastor Philip Mantofa.</desc>
+  </programme>
+  <programme start="20260817120000 +0700" stop="20260817140000 +0700" channel="GMS.Channel.TV">
+    <title lang="id">GMS Worship Session</title>
+    <desc lang="id">Dokumenter, klip musik, dan kesaksian di balik lagu-lagu GMS Worship.</desc>
+  </programme>
+  <programme start="20260817140000 +0700" stop="20260817160000 +0700" channel="GMS.Channel.TV">
+    <title lang="id">Army of God Youth</title>
+    <desc lang="id">Ibadah pemuda dan remaja dengan pesan yang relevan bagi generasi muda.</desc>
+  </programme>
+  <programme start="20260817160000 +0700" stop="20260817180000 +0700" channel="GMS.Channel.TV">
+    <title lang="id">GMS Sunday Service (Replay)</title>
+    <desc lang="id">Siaran ulang ibadah umum mingguan Gereja Mawar Sharon.</desc>
+  </programme>
+  <programme start="20260817180000 +0700" stop="20260817200000 +0700" channel="GMS.Channel.TV">
+    <title lang="id">Khotbah Ps. Philip Mantofa</title>
+    <desc lang="id">Seri pengajaran Alkitab dan pesan rohani mendalam oleh Pastor Philip Mantofa.</desc>
+  </programme>
+  <programme start="20260817200000 +0700" stop="20260817220000 +0700" channel="GMS.Channel.TV">
+    <title lang="id">Talkshow &amp; Conference Snippets</title>
+    <desc lang="id">Bincang-bincang rohani dan cuplikan seminar/konferensi GMS.</desc>
+  </programme>
+  <programme start="20260817220000 +0700" stop="20260818000000 +0700" channel="GMS.Channel.TV">
+    <title lang="id">Menara Doa Malam</title>
+    <desc lang="id">Saat teduh dan doa malam bersama GMS Church.</desc>
+  </programme>
 </tv>
