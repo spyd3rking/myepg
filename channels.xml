@@ -116,4 +116,5 @@
   <channel site="tataplay.com" site_id="174" lang="en" xmltv_id="RomedyNow.in">Romedy Now</channel>
   <channel site="tataplay.com" site_id="1069" lang="en" xmltv_id="StarMoviesSelect.in">Star Movies Select</channel>
   <channel site="vidio.com" site_id="6898" lang="id" xmltv_id="UChannel.id">U-Channel TV</channel>
+  <channel site="dens.tv" site_id="78" lang="id" xmltv_id="TBN.id">TBN</channel>
 </channels>
