@@ -40,17 +40,64 @@ jobs:
       - name: Mulai Mengambil Data Jadwal TV
         run: npm run grab -- --channels=channels.xml --output=public/guide.xml --days=3
 
-      # ==========================================
-      # PROSES BARU: INTEGRASI JADWAL GMS CHANNEL
-      # ==========================================
+      # =======================================================
+      # PROSES BARU: UNDUH & FILTER JADWAL HBO SAJA DARI STARHUB
+      # =======================================================
       
-      # 1. Siapkan Python untuk menjalankan skrip pembuat EPG GMS
       - name: Setup Python Environment
         uses: actions/setup-python@v5
         with:
           python-version: '3.11'
 
-      # 2. Jalankan skrip Python untuk menyisipkan jadwal GMS ke public/guide.xml yang sudah ada
+      - name: Unduh dan Sisipkan Saluran HBO Pilihan
+        run: |
+          python -c '
+          import urllib.request
+          import xml.etree.ElementTree as ET
+          import os
+
+          # 1. Unduh file master StarHub EPG yang berukuran besar ke memori sementara
+          print("Mengunduh database StarHub...")
+          url = "https://githubusercontent.com"
+          urllib.request.urlretrieve(url, "starhub_temp.xml")
+
+          # 2. Daftar ID Saluran HBO & Cinemax yang ingin diselamatkan/diambil
+          target_channels = ["601", "603", "604", "605", "611"]
+
+          # 3. Parse file utama guide.xml Anda dan file database StarHub
+          guide_path = "public/guide.xml"
+          if not os.path.exists(guide_path):
+              # Jika file guide.xml belum terbentuk dari npm run grab, buat struktur XML dasar kosong
+              root_guide = ET.Element("tv")
+          else:
+              tree_guide = ET.parse(guide_path)
+              root_guide = tree_guide.getroot()
+
+          tree_source = ET.parse("starhub_temp.xml")
+          root_source = tree_source.getroot()
+
+          # 4. Pindahkan elemen <channel> yang cocok ke file guide.xml Anda
+          for channel in root_source.findall("channel"):
+              if channel.get("id") in target_channels:
+                  root_guide.append(channel)
+
+          # 5. Pindahkan elemen <programme> (jadwal tayang) yang cocok ke file guide.xml Anda
+          for programme in root_source.findall("programme"):
+              if programme.get("channel") in target_channels:
+                  root_guide.append(programme)
+
+          # 6. Simpan kembali hasil penggabungan bersih ke public/guide.xml
+          ET.indent(root_guide, space="  ", level=0)
+          tree_output = ET.ElementTree(root_guide)
+          tree_output.write(guide_path, encoding="utf-8", xml_declaration=True)
+          print("Berhasil menyaring dan menggabungkan data saluran HBO ke guide.xml!")
+          '
+
+      # ==========================================
+      # PROSES INTEGRASI JADWAL GMS CHANNEL
+      # ==========================================
+
+      # Jalankan skrip Python bawaan Anda untuk menyisipkan jadwal GMS ke public/guide.xml yang sekarang sudah berisi data HBO
       - name: Gabungkan Jadwal GMS ke XML
         run: |
           python my-config/generate_epg.py
@@ -82,5 +129,5 @@ jobs:
           cp ../public/guide.xml ./guide.xml
           
           git add guide.xml
-          git commit -m "Update EPG otomatis harian + GMS Channel" || echo "Tidak ada perubahan jadwal"
+          git commit -m "Update EPG otomatis harian + HBO + GMS Channel" || echo "Tidak ada perubahan jadwal"
           git push origin HEAD:${{ github.ref }}
