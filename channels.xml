@@ -1,10 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <channels>
-  <channel site="starhub.com" lang="en" xmltv_id="HBO.id" site_id="601">HBO HD</channel>
-  <channel site="starhub.com" lang="en" xmltv_id="HBOSignature.id" site_id="603">HBO Signature HD</channel>
-  <channel site="starhub.com" lang="en" xmltv_id="HBOFamily.id" site_id="604">HBO Family HD</channel>
-  <channel site="starhub.com" lang="en" xmltv_id="HBOHits.id" site_id="605">HBO Hits HD</channel>
-  <channel site="starhub.com" lang="en" xmltv_id="Cinemax.id" site_id="611">Cinemax HD</channel>
+  <channel site="playtv.unifi.com.my" site_id="20000012" lang="en" xmltv_id="WarnerTV.id">Warner TV</channel>
+  <channel site="content.astro.com.my" site_id="143" lang="en" xmltv_id="HBO.id">HBO HD</channel>
+  <channel site="content.astro.com.my" site_id="449" lang="en" xmltv_id="HBOHits.id">HBO Hits</channel>
+  <channel site="content.astro.com.my" site_id="450" lang="en" xmltv_id="HBOFamily.id">HBO Family</channel>
+  <channel site="starhubtvplus.com" site_id="0ef9316c-9b57-42fb-80d2-49297d7a7bac" lang="en" xmltv_id="HBOSignature.id">HBO Signature HD</channel>
+  <channel site="content.astro.com.my" site_id="337" lang="en" xmltv_id="Cinemax.id">Cinemax</channel>
   <channel site="mncvision.id" site_id="350" lang="id" xmltv_id="ABCAustralia.au">ABC Australia</channel>
   <channel site="mncvision.id" site_id="331" lang="id" xmltv_id="AlJazeera.qa">Al Jazeera English</channel>
   <channel site="mncvision.id" site_id="93" lang="id" xmltv_id="AlQuranAlKareemTV.sa">Al Quran Al Kareem</channel>
