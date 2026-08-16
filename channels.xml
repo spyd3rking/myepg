@@ -6,6 +6,7 @@
   <channel site="singtel.com" site_id="6423" lang="en" xmltv_id="HBOHits.id">HBO Hits</channel>
   <channel site="singtel.com" site_id="6421" lang="en" xmltv_id="HBOSignature.id">HBO Signature</channel>
   <channel site="singtel.com" site_id="6424" lang="en" xmltv_id="Cinemax.id">Cinemax</channel>
+  <channel site="singtel.com" site_id="5202" lang="en" xmltv_id="Discovery.id">Discovery Channel</channel>
   <channel site="mncvision.id" site_id="350" lang="id" xmltv_id="ABCAustralia.au">ABC Australia</channel>
   <channel site="mncvision.id" site_id="331" lang="id" xmltv_id="AlJazeera.qa">Al Jazeera English</channel>
   <channel site="mncvision.id" site_id="93" lang="id" xmltv_id="AlQuranAlKareemTV.sa">Al Quran Al Kareem</channel>
