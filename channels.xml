@@ -1,12 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <channels>
-  <channel site="tivie.id" site_id="warner" lang="id" xmltv_id="WarnerTV.id">Warner TV</channel>
-  <channel site="tivie.id" site_id="hbo" lang="id" xmltv_id="HBO.id">HBO</channel>
-  <channel site="tivie.id" site_id="hbofamily" lang="id" xmltv_id="HBOFamily.id">HBO Family</channel>
-  <channel site="tivie.id" site_id="hbohits" lang="id" xmltv_id="HBOHits.id">HBO Hits</channel>
-  <channel site="tivie.id" site_id="hbosignature" lang="id" xmltv_id="HBOSignature.id">HBO Signature</channel>
-  <channel site="tivie.id" site_id="hitsnow" lang="id" xmltv_id="HITSNOW.id">HITS Now</channel>
-  <channel site="tivie.id" site_id="cinemax" lang="id" xmltv_id="Cinemax.id">Cinemax</channel>
+  <channel site="maxstream.tv" site_id="0_meap4fi2" lang="id" xmltv_id="WarnerTV.id">Warner TV</channel>
+  <channel site="maxstream.tv" site_id="0_xgdr0qbd" lang="id" xmltv_id="HBO.id">HBO</channel>
+  <channel site="maxstream.tv" site_id="0_qqui53si" lang="id" xmltv_id="HBOFamily.id">HBO Family</channel>
+  <channel site="maxstream.tv" site_id="0_k7eh4erk" lang="id" xmltv_id="HBOHits.id">HBO Hits</channel>
+  <channel site="maxstream.tv" site_id="0_s6bo567h" lang="id" xmltv_id="HBOSignature.id">HBO Signature</channel>
+  <channel site="maxstream.tv" site_id="0_7vx2webw" lang="id" xmltv_id="Cinemax.id">Cinemax</channel>
   <channel site="mncvision.id" site_id="350" lang="id" xmltv_id="ABCAustralia.au">ABC Australia</channel>
   <channel site="mncvision.id" site_id="331" lang="id" xmltv_id="AlJazeera.qa">Al Jazeera English</channel>
   <channel site="mncvision.id" site_id="93" lang="id" xmltv_id="AlQuranAlKareemTV.sa">Al Quran Al Kareem</channel>
@@ -22,7 +21,6 @@
   <channel site="mncvision.id" site_id="312" lang="id" xmltv_id="beINSports4.id">beIN SPORTS 4</channel>
   <channel site="mncvision.id" site_id="313" lang="id" xmltv_id="beINSports5.id">beIN SPORTS 5</channel>
   <channel site="mncvision.id" site_id="338" lang="id" xmltv_id="BloombergTV.id">Bloomberg</channel>
-  <channel site="visionplus.id" site_id="00000000000000000024" lang="id" xmltv_id="JTV.id">JTV</channel>
   <channel site="mncvision.id" site_id="103" lang="id" xmltv_id="BTV.id">BTV</channel>
   <channel site="mncvision.id" site_id="41" lang="id" xmltv_id="CBeebiesAsia.uk">CBeebies</channel>
   <channel site="mncvision.id" site_id="96" lang="id" xmltv_id="CelebritiesTV.id">Celebrities TV</channel>
@@ -106,7 +104,11 @@
   <channel site="mncvision.id" site_id="94" lang="id" xmltv_id="VisionPrime.id">Vision Prime</channel>
   <channel site="mncvision.id" site_id="23" lang="id" xmltv_id="ZeeBioskop.id">Zee Bioskop</channel>
   <channel site="mncvision.id" site_id="39" lang="id" xmltv_id="ZooMoo.id">Zoomoo</channel>
+  <channel site="visionplus.id" site_id="00000000000000000154" lang="id" xmltv_id="EWTN.id">EWTN</channel>
+  <channel site="visionplus.id" site_id="00000000000000000024" lang="id" xmltv_id="JTV.id">JTV</channel>
   <channel site="visionplus.id" site_id="00000000000000000139" lang="id" xmltv_id="Reformed21.id">Reformed 21</channel>
+  <channel site="dens.tv" site_id="78" lang="id" xmltv_id="TBN.id">TBN</channel>
+  <channel site="vidio.com" site_id="6898" lang="id" xmltv_id="UChannel.id">U-Channel TV</channel>
   <channel site="plex.tv" site_id="661fca34414d94009d1206ec" lang="en" xmltv_id="Miramax.us">Miramax Movie Channel</channel>
   <channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_MNSYMPLUS" lang="en" xmltv_id="MNplus.in">MN+</channel>
   <channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_MNX_HD" lang="en" xmltv_id="MNX.in">MNX</channel>
@@ -115,7 +117,4 @@
   <channel site="tataplay.com" site_id="273" lang="en" xmltv_id="StarMovies.in">STAR Movies</channel>
   <channel site="tataplay.com" site_id="174" lang="en" xmltv_id="RomedyNow.in">Romedy Now</channel>
   <channel site="tataplay.com" site_id="1069" lang="en" xmltv_id="StarMoviesSelect.in">Star Movies Select</channel>
-  <channel site="vidio.com" site_id="6898" lang="id" xmltv_id="UChannel.id">U-Channel TV</channel>
-  <channel site="dens.tv" site_id="78" lang="id" xmltv_id="TBN.id">TBN</channel>
-  <channel site="visionplus.id" site_id="00000000000000000154" lang="id" xmltv_id="EWTN.id">EWTN</channel>
 </channels>
