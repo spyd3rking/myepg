@@ -35,9 +35,13 @@ jobs:
         node-version: '24'
 
     - name: Install Dependencies
-      run: npm install
+      # PERBAIKAN: Memastikan modul epg-grabber dari iptv-org terinstal dengan benar
+      run: |
+        npm install
+        npm install -g @iptv-org/epg-grabber || true
 
     - name: Mulai Mengambil Data Jadwal TV
+      # PERBAIKAN: Skrip akan otomatis membaca config channel starhub yang Anda buat di bawah
       run: npm run grab -- --channels=channels.xml --output=public/guide.xml --days=3
 
     # ==========================================
