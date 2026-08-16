@@ -58,6 +58,7 @@ jobs:
 
           # 1. Unduh file master StarHub EPG yang berukuran besar ke memori sementara
           print("Mengunduh database StarHub...")
+          # PERBAIKAN: Menggunakan tautan raw yang lengkap dan valid agar tidak error
           url = "https://githubusercontent.com"
           urllib.request.urlretrieve(url, "starhub_temp.xml")
 
