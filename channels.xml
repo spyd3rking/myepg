@@ -1,11 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <channels>
-  <channel site="maxstream.tv" site_id="0_meap4fi2" lang="id" xmltv_id="WarnerTV.id">Warner TV</channel>
-  <channel site="maxstream.tv" site_id="0_xgdr0qbd" lang="id" xmltv_id="HBO.id">HBO</channel>
-  <channel site="maxstream.tv" site_id="0_qqui53si" lang="id" xmltv_id="HBOFamily.id">HBO Family</channel>
-  <channel site="maxstream.tv" site_id="0_k7eh4erk" lang="id" xmltv_id="HBOHits.id">HBO Hits</channel>
-  <channel site="maxstream.tv" site_id="0_s6bo567h" lang="id" xmltv_id="HBOSignature.id">HBO Signature</channel>
-  <channel site="maxstream.tv" site_id="0_7vx2webw" lang="id" xmltv_id="Cinemax.id">Cinemax</channel>
+  <channel site="starhub.com" lang="en" xmltv_id="HBO.id" site_id="601">HBO HD</channel>
+  <channel site="starhub.com" lang="en" xmltv_id="HBOSignature.id" site_id="603">HBO Signature HD</channel>
+  <channel site="starhub.com" lang="en" xmltv_id="HBOFamily.id" site_id="604">HBO Family HD</channel>
+  <channel site="starhub.com" lang="en" xmltv_id="HBOHits.id" site_id="605">HBO Hits HD</channel>
+  <channel site="starhub.com" lang="en" xmltv_id="Cinemax.id" site_id="611">Cinemax HD</channel>
   <channel site="mncvision.id" site_id="350" lang="id" xmltv_id="ABCAustralia.au">ABC Australia</channel>
   <channel site="mncvision.id" site_id="331" lang="id" xmltv_id="AlJazeera.qa">Al Jazeera English</channel>
   <channel site="mncvision.id" site_id="93" lang="id" xmltv_id="AlQuranAlKareemTV.sa">Al Quran Al Kareem</channel>
