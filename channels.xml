@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <channels>
-  <channel site="maxstream.tv" site_id="0_meap4fi2" lang="id" xmltv_id="Warner.id">Warner TV</channel>
+  <channel site="maxstream.tv" site_id="0_meap4fi2" lang="id" xmltv_id="WarnerTV.id">Warner TV</channel>
   <channel site="singtel.com" site_id="6420" lang="en" xmltv_id="HBO.id">HBO</channel>
   <channel site="singtel.com" site_id="6422" lang="en" xmltv_id="HBOFamily.id">HBO Family</channel>
   <channel site="singtel.com" site_id="6423" lang="en" xmltv_id="HBOHits.id">HBO Hits</channel>
