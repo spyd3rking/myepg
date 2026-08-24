@@ -7,14 +7,10 @@
   <channel site="singtel.com" site_id="6421" lang="en" xmltv_id="HBOSignature.id">HBO Signature</channel>
   <channel site="singtel.com" site_id="6424" lang="en" xmltv_id="Cinemax.id">Cinemax</channel>
   <channel site="singtel.com" site_id="5202" lang="en" xmltv_id="Discovery.id">Discovery Channel</channel>
-  <channel site="mncvision.id" site_id="350" lang="id" xmltv_id="ABCAustralia.au">ABC Australia</channel>
-  <channel site="mncvision.id" site_id="331" lang="id" xmltv_id="AlJazeera.qa">Al Jazeera English</channel>
   <channel site="mncvision.id" site_id="157" lang="id" xmltv_id="Animax.id">Animax</channel>
   <channel site="mncvision.id" site_id="115" lang="id" xmltv_id="ANTV.id">ANTV</channel>
   <channel site="mncvision.id" site_id="351" lang="id" xmltv_id="ArirangWorld.kr">Arirang</channel>
   <channel site="mncvision.id" site_id="154" lang="id" xmltv_id="AXN.id">AXN</channel>
-  <channel site="mncvision.id" site_id="200" lang="id" xmltv_id="BBCEarth.uk">BBC Earth</channel>
-  <channel site="mncvision.id" site_id="332" lang="id" xmltv_id="BBCNews.uk">BBC World News</channel>
   <channel site="mncvision.id" site_id="309" lang="id" xmltv_id="beINSports1.id">beIN Sports 1</channel>
   <channel site="mncvision.id" site_id="310" lang="id" xmltv_id="beINSports2.id">beIN Sports 2</channel>
   <channel site="mncvision.id" site_id="311" lang="id" xmltv_id="beINSports3.id">beIN Sports 3</channel>
@@ -45,10 +41,7 @@
   <channel site="mncvision.id" site_id="47" lang="id" xmltv_id="DreamWorksChannel.id">Dreamworks</channel>
   <channel site="mncvision.id" site_id="357" lang="id" xmltv_id="DW.de">DW English</channel>
   <channel site="mncvision.id" site_id="86" lang="id" xmltv_id="Entertainment.id">Entertainment</channel>
-  <channel site="mncvision.id" site_id="333" lang="id" xmltv_id="EuronewsEnglish.fr">EURONEWS</channel>
   <channel site="mncvision.id" site_id="304" lang="id" xmltv_id="FightSports.id">Fight Sports</channel>
-  <channel site="mncvision.id" site_id="335" lang="id" xmltv_id="FoxNewsChannel.id">FOX News</channel>
-  <channel site="mncvision.id" site_id="352" lang="id" xmltv_id="France24.fr">France 24 English</channel>
   <channel site="mncvision.id" site_id="13" lang="id" xmltv_id="Galaxy.id">Galaxy</channel>
   <channel site="mncvision.id" site_id="12" lang="id" xmltv_id="GalaxyPremium.id">Galaxy Premium</channel>
   <channel site="mncvision.id" site_id="201" lang="id" xmltv_id="GlobalTrekker.id">Global Trekker</channel>
@@ -73,8 +66,6 @@
   <channel site="mncvision.id" site_id="82" lang="id" xmltv_id="MNCTV.id">MNCTV</channel>
   <channel site="mncvision.id" site_id="40" lang="id" xmltv_id="MoonbugKids.uk">Moonbug</channel>
   <channel site="mncvision.id" site_id="111" lang="id" xmltv_id="MusicTV.id">Music TV</channel>
-  <channel site="mncvision.id" site_id="92" lang="id" xmltv_id="MuslimTV.id">Muslim TV</channel>
-  <channel site="mncvision.id" site_id="355" lang="id" xmltv_id="NHKWorldJapan.jp">NHK World</channel>
   <channel site="mncvision.id" site_id="49" lang="id" xmltv_id="Nickelodeon.id">Nickelodeon</channel>
   <channel site="mncvision.id" site_id="37" lang="id" xmltv_id="NickJr.id">Nickelodeon Jr</channel>
   <channel site="mncvision.id" site_id="95" lang="id" xmltv_id="OKTV.id">FOOD TRAVEL</channel>
@@ -103,7 +94,6 @@
   <channel site="mncvision.id" site_id="118" lang="id" xmltv_id="TVRI.id">TVRI</channel>
   <channel site="mncvision.id" site_id="94" lang="id" xmltv_id="VisionPrime.id">Vision Prime</channel>
   <channel site="mncvision.id" site_id="23" lang="id" xmltv_id="ZeeBioskop.id">Zee Bioskop</channel>
-  <channel site="mncvision.id" site_id="39" lang="id" xmltv_id="ZooMoo.id">Zoomoo</channel>
   <channel site="visionplus.id" site_id="00000000000000000154" lang="id" xmltv_id="EWTN.id">EWTN</channel>
   <channel site="visionplus.id" site_id="00000000000000000024" lang="id" xmltv_id="JTV.id">JTV</channel>
   <channel site="visionplus.id" site_id="00000000000000000139" lang="id" xmltv_id="Reformed21.id">Reformed 21</channel>
