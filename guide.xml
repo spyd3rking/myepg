@@ -3396,7 +3396,10 @@
   <programme start="20260826103000 +0000" stop="20260826120000 +0000" channel="BTV.id">
     <title lang="id">Berita Satu Utama</title>
   </programme>
-  <programme start="20260826120000 +0000" stop="20260826130000 +0000" channel="BTV.id">
+  <programme start="20260826120000 +0000" stop="20260826123000 +0000" channel="BTV.id">
+    <title lang="id">Berita Satu Spesial</title>
+  </programme>
+  <programme start="20260826123000 +0000" stop="20260826130000 +0000" channel="BTV.id">
     <title lang="id">Berita Satu Malam</title>
   </programme>
   <programme start="20260826130000 +0000" stop="20260826140000 +0000" channel="BTV.id">
@@ -17711,51 +17714,6 @@
   <programme start="20260826160000 +0000" stop="20260826190000 +0000" channel="MNCTV.id">
     <title lang="id">Suparman Reborn</title>
   </programme>
-  <programme start="20260824073100 +0000" stop="20260824091900 +0000" channel="MNplus.in">
-    <title lang="en">Monster's Ball</title>
-    <desc lang="en">After a family tragedy, a racist prison guard re-examines his attitudes while falling in love with the African-American wife of the last prisoner he executed.</desc>
-    <image>https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/PROGRAM/LIVETV_PROGRAM_MNSYMPLUS_1960535_24AUG130100_24AUG144900/images/LANDSCAPE_169/1759261074000_MNplusHD_MonstersBall_1960535.jpg</image>
-  </programme>
-  <programme start="20260824091900 +0000" stop="20260824120100 +0000" channel="MNplus.in">
-    <title lang="en">The Aviator</title>
-    <desc lang="en">A biopic depicting the early years of legendary director and aviator Howard Hughes' career from the late 1920s to the mid-1940s</desc>
-    <image>https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/PROGRAM/LIVETV_PROGRAM_MNSYMPLUS_507630_24AUG144900_24AUG173100/images/LANDSCAPE_169/1759264591000_MoviesNowPlus_TheAviator_507630.jpg</image>
-  </programme>
-  <programme start="20260824120100 +0000" stop="20260824135900 +0000" channel="MNplus.in">
-    <title lang="en">Nightcrawler</title>
-    <desc lang="en">A petty thief desperate for work muscles into the world of crime journalism and becomes the star of his own story as he blurs the line between observer and participant.</desc>
-    <image>https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/PROGRAM/LIVETV_PROGRAM_MNSYMPLUS_2071387_24AUG173100_24AUG192900/images/LANDSCAPE_169/1777489954000_MNplusHD_Nightcrawler_2071387.jpg</image>
-  </programme>
-  <programme start="20260824135900 +0000" stop="20260824153000 +0000" channel="MNplus.in">
-    <title lang="en">The Runner</title>
-    <desc lang="en">In the aftermath of the 2010 BP oil spill, an idealistic but flawed politician is forced to confront his dysfunctional life after his career is destroyed in a sex scandal.</desc>
-    <image>https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/PROGRAM/LIVETV_PROGRAM_MNSYMPLUS_1768020_24AUG192900_24AUG210000/images/LANDSCAPE_169/1741439528000_MNplusHD_TheRunner_1768020.jpg</image>
-  </programme>
-  <programme start="20260824153000 +0000" stop="20260824180400 +0000" channel="MNplus.in">
-    <title lang="en">Ali</title>
-    <desc lang="en">A biography of sports legend, Muhammad Ali, from his early days to his days in the ring.</desc>
-    <image>https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/PROGRAM/LIVETV_PROGRAM_MNSYMPLUS_520246_24AUG210000_24AUG233400/images/LANDSCAPE_169/1759450200000_MoviesNowPlus_Ali_520246.jpg</image>
-  </programme>
-  <programme start="20260824180400 +0000" stop="20260824194500 +0000" channel="MNplus.in">
-    <title lang="en">Kill Bill: Volume 1</title>
-    <desc lang="en">After awakening from a four-year coma, a former assassin wreaks vengeance on the team of assassins who betrayed her.</desc>
-    <image>https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/PROGRAM/LIVETV_PROGRAM_MNSYMPLUS_1990530_24AUG233400_25AUG011500/images/LANDSCAPE_169/1764357635000_MNplusHD_KillBillVolume1_1990530.jpg</image>
-  </programme>
-  <programme start="20260824194500 +0000" stop="20260824213000 +0000" channel="MNplus.in">
-    <title lang="en">Serena</title>
-    <desc lang="en">In Depression-era North Carolina, the future of George Pemberton's timber empire becomes complicated when he marries Serena.</desc>
-    <image>https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/PROGRAM/LIVETV_PROGRAM_MNSYMPLUS_1949440_25AUG011500_25AUG030000/images/LANDSCAPE_169/1769098794000_MNplusHD_Serena_1949440.jpg</image>
-  </programme>
-  <programme start="20260824213000 +0000" stop="20260824214000 +0000" channel="MNplus.in">
-    <title lang="en">LLL S03_MAANVI &amp; KRITI 04</title>
-    <desc lang="en">The host engages in a candid conversation with celebrity guests who share intimate details about their personal and professional lives</desc>
-    <image>https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/PROGRAM/LIVETV_PROGRAM_MNSYMPLUS_2047394_25AUG030000_25AUG031000/images/LANDSCAPE_169/1772901943000_MNplusHD_LLLS03_MAANVIKRITI04_2047394.jpg</image>
-  </programme>
-  <programme start="20260824214000 +0000" stop="20260824215100 +0000" channel="MNplus.in">
-    <title lang="en">LLL S03_SHAAN 04</title>
-    <desc lang="en">The host engages in a candid conversation with celebrity guests who share intimate details about their personal and professional lives.</desc>
-    <image>https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/PROGRAM/LIVETV_PROGRAM_MNSYMPLUS_2047398_25AUG031000_25AUG032100/images/LANDSCAPE_169/1772902145000_MNplusHD_LLLS03_SHAAN04_2047398.jpg</image>
-  </programme>
   <programme start="20260824215100 +0000" stop="20260824233300 +0000" channel="MNplus.in">
     <title lang="en">The Perks of Being a Wallflower</title>
     <desc lang="en">An introvert freshman is taken under the wings of two seniors who welcome him to the real world.</desc>
@@ -17775,11 +17733,6 @@
     <title lang="en">The Pianist</title>
     <desc lang="en">During WWII, acclaimed Polish musician Wladyslaw faces various struggles as he loses contact with his family. As the situation worsens, he hides in the ruins of Warsaw in order to survive.</desc>
     <image>https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/PROGRAM/LIVETV_PROGRAM_MNSYMPLUS_2048876_25AUG084000_25AUG111100/images/LANDSCAPE_169/1773133586000_MNplusHD_ThePianist_2048876.jpg</image>
-  </programme>
-  <programme start="20260825054100 +0000" stop="20260825075300 +0000" channel="MNplus.in">
-    <title lang="en">Moneyball</title>
-    <desc lang="en">A washed-up superhero actor attempts to revive his fading career by writing, directing, and starring in a Broadway production.</desc>
-    <image>https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/PROGRAM/LIVETV_PROGRAM_MNSYMPLUS_323992_25AUG111100_25AUG132300/images/LANDSCAPE_169/1756684870000_MoviesNowPlus_Moneyball_323992.jpg</image>
   </programme>
   <programme start="20260825054100 +0000" stop="20260825075300 +0000" channel="MNplus.in">
     <title lang="en">Moneyball</title>
@@ -17821,75 +17774,85 @@
     <desc lang="en">A detective investigates the death of the patriarch of an eccentric, combative family.</desc>
     <image>https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/PROGRAM/LIVETV_PROGRAM_MNSYMPLUS_1430095_26AUG014600_26AUG035000/images/LANDSCAPE_169/1756684870000_MOVIESNOW_KnivesOut_1387051.jpg</image>
   </programme>
-  <programme start="20260825222000 +0000" stop="20260825230100 +0000" channel="MNplus.in">
-    <title lang="en">The Love Laugh Live Show - Season 3</title>
-    <desc lang="en">A Chat Show where Mandira Bedi unravels the Romedy side of celebrities .</desc>
-    <image>https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/PROGRAM/LIVETV_PROGRAM_MNSYMPLUS_2065489_26AUG035000_26AUG043100/images/LANDSCAPE_169/1775935309000_MNplusHD_TheLoveLaughLiveShow-Season3_2065489.jpg</image>
+  <programme start="20260825201600 +0000" stop="20260825222000 +0000" channel="MNplus.in">
+    <title lang="en">Knives Out</title>
+    <desc lang="en">A detective investigates the death of the patriarch of an eccentric, combative family.</desc>
+    <image>https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/PROGRAM/LIVETV_PROGRAM_MNSYMPLUS_1430095_26AUG014600_26AUG035000/images/LANDSCAPE_169/1756684870000_MOVIESNOW_KnivesOut_1387051.jpg</image>
   </programme>
-  <programme start="20260825230100 +0000" stop="20260825231500 +0000" channel="MNplus.in">
-    <title lang="en">LLL S03_MRUNAL THAKUR 04</title>
+  <programme start="20260825222000 +0000" stop="20260825223200 +0000" channel="MNplus.in">
+    <title lang="en">LLL S03 BENNY DAYAL</title>
+    <desc lang="en">LLL S03 BENNY DAYAL</desc>
+    <image>https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/PROGRAM/LIVETV_PROGRAM_MNSYMPLUS_2047064_26AUG035000_26AUG040200/images/LANDSCAPE_169/1772800080000_MNplusHD_LLLS03BENNYDAYAL_2047064.jpg</image>
+  </programme>
+  <programme start="20260825223200 +0000" stop="20260825224200 +0000" channel="MNplus.in">
+    <title lang="en">Lll S03 Zakir Khan</title>
     <desc lang="en">The host engages in a candid conversation with celebrity guests who share intimate details about their personal and professional lives.</desc>
-    <image>https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/PROGRAM/LIVETV_PROGRAM_MNSYMPLUS_2079245_26AUG043100_26AUG044500/images/LANDSCAPE_169/1779013923000_MNplusHD_LLLS03_MRUNALTHAKUR04_2079245.jpg</image>
+    <image>https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/PROGRAM/LIVETV_PROGRAM_MNSYMPLUS_2071386_26AUG040200_26AUG041200/images/LANDSCAPE_169/1778355920000_MNplusHD_LllS03ZakirKhan_2071386.jpg</image>
   </programme>
-  <programme start="20260825231500 +0000" stop="20260826014000 +0000" channel="MNplus.in">
+  <programme start="20260825224200 +0000" stop="20260825225300 +0000" channel="MNplus.in">
+    <title lang="en">Lll S03 Mrunal Thakur</title>
+    <desc lang="en">Bollywood actress Mrunal Thakur hosts this glamorous celebrity reality show, featuring exclusive interviews, fun games and behind-the-scenes glimpses into the lives of top Indian stars.</desc>
+    <image>https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/PROGRAM/LIVETV_PROGRAM_MNSYMPLUS_2066630_26AUG041200_26AUG042300/images/LANDSCAPE_169/1777161888000_MNplusHD_LllS03MrunalThakur_2066630.jpg</image>
+  </programme>
+  <programme start="20260825225300 +0000" stop="20260826012400 +0000" channel="MNplus.in">
     <title lang="en">The Pianist</title>
     <desc lang="en">During WWII, acclaimed Polish musician Wladyslaw faces various struggles as he loses contact with his family. As the situation worsens, he hides in the ruins of Warsaw in order to survive.</desc>
-    <image>https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/PROGRAM/LIVETV_PROGRAM_MNSYMPLUS_2048876_26AUG044500_26AUG071000/images/LANDSCAPE_169/1773133586000_MNplusHD_ThePianist_2048876.jpg</image>
+    <image>https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/PROGRAM/LIVETV_PROGRAM_MNSYMPLUS_2048876_26AUG042300_26AUG065400/images/LANDSCAPE_169/1773133586000_MNplusHD_ThePianist_2048876.jpg</image>
   </programme>
-  <programme start="20260826014000 +0000" stop="20260826034500 +0000" channel="MNplus.in">
+  <programme start="20260826012400 +0000" stop="20260826032700 +0000" channel="MNplus.in">
     <title lang="en">Kill Bill: Volume 2</title>
     <desc lang="en">The Bride continues her quest of vengeance against her former boss and lover Bill, the reclusive bouncer Budd, and the treacherous, one-eyed Elle.</desc>
-    <image>https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/PROGRAM/LIVETV_PROGRAM_MNSYMPLUS_1990531_26AUG071000_26AUG091500/images/LANDSCAPE_169/1764492479000_MNplusHD_KillBillVolume2_1990531.jpg</image>
+    <image>https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/PROGRAM/LIVETV_PROGRAM_MNSYMPLUS_1990531_26AUG065400_26AUG085700/images/LANDSCAPE_169/1764492479000_MNplusHD_KillBillVolume2_1990531.jpg</image>
   </programme>
-  <programme start="20260826034500 +0000" stop="20260826061500 +0000" channel="MNplus.in">
+  <programme start="20260826032700 +0000" stop="20260826060200 +0000" channel="MNplus.in">
     <title lang="en">Once Upon A Time In Hollywood</title>
     <desc lang="en">Rick, a washed-out actor, and Cliff, his stunt double, struggle to recapture fame in Los Angeles. Meanwhile, living next door to Rick is Sharon Tate and her husband Roman Polanski.</desc>
-    <image>https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/PROGRAM/LIVETV_PROGRAM_MNSYMPLUS_1216478_26AUG091500_26AUG114500/images/LANDSCAPE_169/1756684870000_AndPriveHD_OnceUponaTimeInHollywood_914658.jpg</image>
+    <image>https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/PROGRAM/LIVETV_PROGRAM_MNSYMPLUS_1216478_26AUG085700_26AUG113200/images/LANDSCAPE_169/1756684870000_AndPriveHD_OnceUponaTimeInHollywood_914658.jpg</image>
   </programme>
-  <programme start="20260826061500 +0000" stop="20260826075500 +0000" channel="MNplus.in">
+  <programme start="20260826060200 +0000" stop="20260826074600 +0000" channel="MNplus.in">
     <title lang="en">Kill Bill: Volume 1</title>
     <desc lang="en">After awakening from a four-year coma, a former assassin wreaks vengeance on the team of assassins who betrayed her.</desc>
-    <image>https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/PROGRAM/LIVETV_PROGRAM_MNSYMPLUS_1990530_26AUG114500_26AUG132500/images/LANDSCAPE_169/1764357635000_MNplusHD_KillBillVolume1_1990530.jpg</image>
+    <image>https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/PROGRAM/LIVETV_PROGRAM_MNSYMPLUS_1990530_26AUG113200_26AUG131600/images/LANDSCAPE_169/1764357635000_MNplusHD_KillBillVolume1_1990530.jpg</image>
   </programme>
-  <programme start="20260826061500 +0000" stop="20260826075500 +0000" channel="MNplus.in">
-    <title lang="en">Kill Bill: Volume 1</title>
-    <desc lang="en">After awakening from a four-year coma, a former assassin wreaks vengeance on the team of assassins who betrayed her.</desc>
-    <image>https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/PROGRAM/LIVETV_PROGRAM_MNSYMPLUS_1990530_26AUG114500_26AUG132500/images/LANDSCAPE_169/1764357635000_MNplusHD_KillBillVolume1_1990530.jpg</image>
-  </programme>
-  <programme start="20260826075500 +0000" stop="20260826101000 +0000" channel="MNplus.in">
+  <programme start="20260826074600 +0000" stop="20260826100200 +0000" channel="MNplus.in">
     <title lang="en">Forrest Gump</title>
     <desc lang="en">An Alabama man with a simple view watches Kennedy, Johnson, Vietnam, and Watergate unfold, as his wish is to reunite with his sweetheart amid history.</desc>
-    <image>https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/PROGRAM/LIVETV_PROGRAM_MNSYMPLUS_1402310_26AUG132500_26AUG154000/images/LANDSCAPE_169/1765194876000_MNplusHD_ForrestGump_1402310.jpg</image>
+    <image>https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/PROGRAM/LIVETV_PROGRAM_MNSYMPLUS_1402310_26AUG131600_26AUG153200/images/LANDSCAPE_169/1765194876000_MNplusHD_ForrestGump_1402310.jpg</image>
   </programme>
-  <programme start="20260826101000 +0000" stop="20260826120500 +0000" channel="MNplus.in">
+  <programme start="20260826100200 +0000" stop="20260826115800 +0000" channel="MNplus.in">
     <title lang="en">Silver Linings Playbook</title>
     <desc lang="en">After a stint at a mental institution, Pat tries to reconcile with his ex-wife. Things get complicated when he meets the mysterious Tiffany.</desc>
-    <image>https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/PROGRAM/LIVETV_PROGRAM_MNSYMPLUS_523939_26AUG154000_26AUG173500/images/LANDSCAPE_169/1759395118000_MNplusHD_SilverLiningsPlaybook_523939.jpg</image>
+    <image>https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/PROGRAM/LIVETV_PROGRAM_MNSYMPLUS_523939_26AUG153200_26AUG172800/images/LANDSCAPE_169/1759395118000_MNplusHD_SilverLiningsPlaybook_523939.jpg</image>
   </programme>
-  <programme start="20260826120500 +0000" stop="20260826135000 +0000" channel="MNplus.in">
+  <programme start="20260826115800 +0000" stop="20260826134700 +0000" channel="MNplus.in">
     <title lang="en">Monster's Ball</title>
     <desc lang="en">After a family tragedy, a racist prison guard re-examines his attitudes while falling in love with the African-American wife of the last prisoner he executed.</desc>
-    <image>https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/PROGRAM/LIVETV_PROGRAM_MNSYMPLUS_1960535_26AUG173500_26AUG192000/images/LANDSCAPE_169/1759261074000_MNplusHD_MonstersBall_1960535.jpg</image>
+    <image>https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/PROGRAM/LIVETV_PROGRAM_MNSYMPLUS_1960535_26AUG172800_26AUG191700/images/LANDSCAPE_169/1759261074000_MNplusHD_MonstersBall_1960535.jpg</image>
   </programme>
-  <programme start="20260826135000 +0000" stop="20260826153000 +0000" channel="MNplus.in">
+  <programme start="20260826134700 +0000" stop="20260826153000 +0000" channel="MNplus.in">
     <title lang="en">The Perks of Being a Wallflower</title>
     <desc lang="en">An introvert freshman is taken under the wings of two seniors who welcome him to the real world.</desc>
-    <image>https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/PROGRAM/LIVETV_PROGRAM_MNSYMPLUS_2004728_26AUG192000_26AUG210000/images/LANDSCAPE_169/1767120917000_MNplusHD_PerksOfBeingAWallFlower_2004728.jpg</image>
+    <image>https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/PROGRAM/LIVETV_PROGRAM_MNSYMPLUS_2004728_26AUG191700_26AUG210000/images/LANDSCAPE_169/1767120917000_MNplusHD_PerksOfBeingAWallFlower_2004728.jpg</image>
   </programme>
-  <programme start="20260826153000 +0000" stop="20260826173500 +0000" channel="MNplus.in">
+  <programme start="20260826153000 +0000" stop="20260826173900 +0000" channel="MNplus.in">
     <title lang="en">The Terminal</title>
     <desc lang="en">An Eastern European tourist unexpectedly finds himself stranded in JFK airport, and must take up temporary residence there.</desc>
-    <image>https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/PROGRAM/LIVETV_PROGRAM_MNSYMPLUS_1178390_26AUG210000_26AUG230500/images/LANDSCAPE_169/1715772343000_MNplusHD_TheTerminal_1178390.jpg</image>
+    <image>https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/PROGRAM/LIVETV_PROGRAM_MNSYMPLUS_1178390_26AUG210000_26AUG230900/images/LANDSCAPE_169/1715772343000_MNplusHD_TheTerminal_1178390.jpg</image>
   </programme>
-  <programme start="20260826173500 +0000" stop="20260826194000 +0000" channel="MNplus.in">
+  <programme start="20260826173900 +0000" stop="20260826193900 +0000" channel="MNplus.in">
     <title lang="en">Philadelphia</title>
     <desc lang="en">When a man with HIV is fired by his law firm because of his condition, he hires a homophobic small-time lawyer as the only willing advocate for a wrongful dismissal suit.</desc>
-    <image>https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/PROGRAM/LIVETV_PROGRAM_MNSYMPLUS_2026988_26AUG230500_27AUG011000/images/LANDSCAPE_169/1769964698000_MNplusHD_Philadelphia_2026988.jpg</image>
+    <image>https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/PROGRAM/LIVETV_PROGRAM_MNSYMPLUS_2026988_26AUG230900_27AUG010900/images/LANDSCAPE_169/1769964698000_MNplusHD_Philadelphia_2026988.jpg</image>
   </programme>
-  <programme start="20260826194000 +0000" stop="20260826214500 +0000" channel="MNplus.in">
+  <programme start="20260826193900 +0000" stop="20260826214500 +0000" channel="MNplus.in">
     <title lang="en">The Fugitive</title>
     <desc lang="en">Dr. Richard Kimble, unjustly accused of murdering his wife, must find the real killer while being the target of a nationwide manhunt.</desc>
-    <image>https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/PROGRAM/LIVETV_PROGRAM_MNSYMPLUS_257953_27AUG011000_27AUG031500/images/LANDSCAPE_169/1760964166000_MNplusHD_TheFugitive_257953.jpg</image>
+    <image>https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/PROGRAM/LIVETV_PROGRAM_MNSYMPLUS_257953_27AUG010900_27AUG031500/images/LANDSCAPE_169/1760964166000_MNplusHD_TheFugitive_257953.jpg</image>
+  </programme>
+  <programme start="20260826214500 +0000" stop="20260826223000 +0000" channel="MNplus.in">
+    <title lang="en">The Love Laugh Live Show - Season 3</title>
+    <desc lang="en">A Chat Show where Mandira Bedi unravels the Romedy side of celebrities .</desc>
+    <image>https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/PROGRAM/LIVETV_PROGRAM_MNSYMPLUS_2065489_27AUG031500_27AUG040000/images/LANDSCAPE_169/1775935309000_MNplusHD_TheLoveLaughLiveShow-Season3_2065489.jpg</image>
   </programme>
   <programme start="20260826214500 +0000" stop="20260826223000 +0000" channel="MNplus.in">
     <title lang="en">The Love Laugh Live Show - Season 3</title>
@@ -17926,40 +17889,35 @@
     <desc lang="en">In 1863, Amsterdam Vallon returns to the Five Points area of New York City seeking revenge against Bill the Butcher, his father's killer.</desc>
     <image>https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/PROGRAM/LIVETV_PROGRAM_MNSYMPLUS_310158_27AUG123000_27AUG150000/images/LANDSCAPE_169/1762004883000_MoviesNow2_GangsOfNewYork_406734.jpg</image>
   </programme>
-  <programme start="20260824063700 +0000" stop="20260824084300 +0000" channel="MNX.in">
-    <title lang="en">Shazam! Fury Of The Gods</title>
-    <desc lang="en">The film continues the story of teenage Billy Batson who, upon reciting the magic word 'SHAZAM!', is transformed into his adult superhero alter ego, Shazam.</desc>
-    <image>https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/PROGRAM/LIVETV_PROGRAM_MNX_HD_2063362_24AUG120700_24AUG141300/images/LANDSCAPE_169/1775498982000_MNXHD_ShazamFuryOfTheGods_2063362.jpg</image>
+  <programme start="20260827093000 +0000" stop="20260827113500 +0000" channel="MNplus.in">
+    <title lang="en">Knives Out</title>
+    <desc lang="en">A detective investigates the death of the patriarch of an eccentric, combative family.</desc>
+    <image>https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/PROGRAM/LIVETV_PROGRAM_MNSYMPLUS_1430095_27AUG150000_27AUG170500/images/LANDSCAPE_169/1756684870000_MOVIESNOW_KnivesOut_1387051.jpg</image>
   </programme>
-  <programme start="20260824084300 +0000" stop="20260824110200 +0000" channel="MNX.in">
-    <title lang="en">Furiosa: A Mad Max Saga</title>
-    <desc lang="en">Snatched from the Green Place, Furiosa is caught between two tyrannical warlords, and as they battle for power, she must fight relentlessly to survive and find her way back home.</desc>
-    <image>https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/PROGRAM/LIVETV_PROGRAM_MNX_HD_1970685_24AUG141300_24AUG163200/images/LANDSCAPE_169/1760704719000_MNXHD_FuriosaAMadMaxSaga_1970685.jpg</image>
+  <programme start="20260827113500 +0000" stop="20260827133500 +0000" channel="MNplus.in">
+    <title lang="en">The Social Network</title>
+    <desc lang="en">Mark Zuckerberg creates the social networking site that would become known as FB, he's sued by the twins who claimed he stole their idea and by the co-founder who was later squeezed out of the business.</desc>
+    <image>https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/PROGRAM/LIVETV_PROGRAM_MNSYMPLUS_189089_27AUG170500_27AUG190500/images/LANDSCAPE_169/1756684870000_MNplusHD_TheSocialNetwork_189089.jpg</image>
   </programme>
-  <programme start="20260824110200 +0000" stop="20260824132000 +0000" channel="MNX.in">
-    <title lang="en">Transformers</title>
-    <desc lang="en">An ancient struggle between two Cybertronian races, the heroic Autobots and the evil Decepticons, comes to Earth, with a clue to the ultimate power held by a teenager.</desc>
-    <image>https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/PROGRAM/LIVETV_PROGRAM_MNX_HD_1197538_24AUG163200_24AUG185000/images/LANDSCAPE_169/1756684870000_MNXHD_Transformers_1197538.jpg</image>
+  <programme start="20260827133500 +0000" stop="20260827153000 +0000" channel="MNplus.in">
+    <title lang="en">Southpaw</title>
+    <desc lang="en">A champion boxer fights to get his daughter back from child protective services as well as revive his professional career, after a fatal incident sends him on a rampant path of destruction.</desc>
+    <image>https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/PROGRAM/LIVETV_PROGRAM_MNSYMPLUS_836876_27AUG190500_27AUG210000/images/LANDSCAPE_169/1724444782000_MNplusHD_Southpaw_836876.jpg</image>
   </programme>
-  <programme start="20260824132000 +0000" stop="20260824153000 +0000" channel="MNX.in">
-    <title lang="en">Mission: Impossible - Ghost Protocol</title>
-    <desc lang="en">Ethan Hunt and his team get called to exonerate the IMF's name when it gets implicated in the Kremlin bombing.</desc>
-    <image>https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/PROGRAM/LIVETV_PROGRAM_MNX_HD_1615279_24AUG185000_24AUG210000/images/LANDSCAPE_169/1711046162000_MNXHD_MissionImpossible-GhostProtocol_1615279.jpg</image>
+  <programme start="20260827153000 +0000" stop="20260827181000 +0000" channel="MNplus.in">
+    <title lang="en">The Aviator</title>
+    <desc lang="en">A biopic depicting the early years of legendary director and aviator Howard Hughes' career from the late 1920s to the mid-1940s</desc>
+    <image>https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/PROGRAM/LIVETV_PROGRAM_MNSYMPLUS_507630_27AUG210000_27AUG234000/images/LANDSCAPE_169/1759264591000_MoviesNowPlus_TheAviator_507630.jpg</image>
   </programme>
-  <programme start="20260824153000 +0000" stop="20260824171900 +0000" channel="MNX.in">
-    <title lang="en">Godzilla Vs. Kong</title>
-    <desc lang="en">When Godzilla resurfaces causing mayhem, King Kong is freed from containment. Humans enlist his help to journey into Hollow Earth and seek a way to subdue the mighty monster.</desc>
-    <image>https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/PROGRAM/LIVETV_PROGRAM_MNX_HD_2047386_24AUG210000_24AUG224900/images/LANDSCAPE_169/1772982083000_MNXHD_GodzillaVsKong_2047386.jpg</image>
+  <programme start="20260827181000 +0000" stop="20260827193500 +0000" channel="MNplus.in">
+    <title lang="en">Passengers</title>
+    <desc lang="en">A malfunction in a sleeping pod on a spacecraft traveling to a distant colony planet wakes one passenger 90 years early.</desc>
+    <image>https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/PROGRAM/LIVETV_PROGRAM_MNSYMPLUS_1903651_27AUG234000_28AUG010500/images/LANDSCAPE_169/1751131430000_MNplusHD_Passengers_1903651.jpg</image>
   </programme>
-  <programme start="20260824171900 +0000" stop="20260824195100 +0000" channel="MNX.in">
-    <title lang="en">Wonder Woman 1984</title>
-    <desc lang="en">Diana must contend with a work colleague and businessman, whose desire for extreme wealth sends the world down a path of destruction, after an ancient artifact that grants wishes goes missing.</desc>
-    <image>https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/PROGRAM/LIVETV_PROGRAM_MNX_HD_1207665_24AUG224900_25AUG012100/images/LANDSCAPE_169/1688490907000_MNXHD_WonderWoman1984_1207665.jpg</image>
-  </programme>
-  <programme start="20260824195100 +0000" stop="20260824213500 +0000" channel="MNX.in">
-    <title lang="en">The Lego Movie 2: The Second Part</title>
-    <desc lang="en">It's been five years since everything was awesome and the citizens are facing a huge new threat: Lego Duplo invaders from outer space, wrecking everything faster than they can rebuild.</desc>
-    <image>https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/PROGRAM/LIVETV_PROGRAM_MNX_HD_1276627_25AUG012100_25AUG030500/images/LANDSCAPE_169/1756684870000_MNXHD_TheLegoMovie2TheSecondPart_1276627.jpg</image>
+  <programme start="20260827193500 +0000" stop="20260827220100 +0000" channel="MNplus.in">
+    <title lang="en">The Pianist</title>
+    <desc lang="en">During WWII, acclaimed Polish musician Wladyslaw faces various struggles as he loses contact with his family. As the situation worsens, he hides in the ruins of Warsaw in order to survive.</desc>
+    <image>https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/PROGRAM/LIVETV_PROGRAM_MNSYMPLUS_2048876_28AUG010500_28AUG033100/images/LANDSCAPE_169/1773133586000_MNplusHD_ThePianist_2048876.jpg</image>
   </programme>
   <programme start="20260824213500 +0000" stop="20260824221500 +0000" channel="MNX.in">
     <title lang="en">The Love Laugh Live Show - Season 3</title>
@@ -17996,11 +17954,6 @@
     <desc lang="en">A deadly threat from Earth's history reappears and a hunt for a lost artifact takes place between Autobots and Decepticons, while Optimus Prime encounters his creator in space.</desc>
     <image>https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/PROGRAM/LIVETV_PROGRAM_MNX_HD_1376547_25AUG124000_25AUG151000/images/LANDSCAPE_169/1687892922000_MNXHD_TransformersTheLastKnight_1376547.jpg</image>
   </programme>
-  <programme start="20260825071000 +0000" stop="20260825094000 +0000" channel="MNX.in">
-    <title lang="en">Transformers: The Last Knight</title>
-    <desc lang="en">A deadly threat from Earth's history reappears and a hunt for a lost artifact takes place between Autobots and Decepticons, while Optimus Prime encounters his creator in space.</desc>
-    <image>https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/PROGRAM/LIVETV_PROGRAM_MNX_HD_1376547_25AUG124000_25AUG151000/images/LANDSCAPE_169/1687892922000_MNXHD_TransformersTheLastKnight_1376547.jpg</image>
-  </programme>
   <programme start="20260825094000 +0000" stop="20260825111000 +0000" channel="MNX.in">
     <title lang="en">Shrek Forever After</title>
     <desc lang="en">Rumpelstiltskin tricks a mid-life crisis burdened Shrek into allowing himself to be erased from existence and cast in a dark alternate timeline where Rumpelstiltskin rules supreme.</desc>
@@ -18031,6 +17984,11 @@
     <desc lang="en">Coriolanus Snow mentors a female District 12 tribute in the 10th Hunger Games and grows feelings for her, complicating loyalty, politics, and survival there.</desc>
     <image>https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/PROGRAM/LIVETV_PROGRAM_MNX_HD_1977803_26AUG015000_26AUG041500/images/LANDSCAPE_169/1761836607000_MNXHD_TheBalladOfSongbirdsAndSnakes_1977803.jpg</image>
   </programme>
+  <programme start="20260825202000 +0000" stop="20260825224500 +0000" channel="MNX.in">
+    <title lang="en">The Ballad Of Songbirds And Snakes</title>
+    <desc lang="en">Coriolanus Snow mentors a female District 12 tribute in the 10th Hunger Games and grows feelings for her, complicating loyalty, politics, and survival there.</desc>
+    <image>https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/PROGRAM/LIVETV_PROGRAM_MNX_HD_1977803_26AUG015000_26AUG041500/images/LANDSCAPE_169/1761836607000_MNXHD_TheBalladOfSongbirdsAndSnakes_1977803.jpg</image>
+  </programme>
   <programme start="20260825224500 +0000" stop="20260825232000 +0000" channel="MNX.in">
     <title lang="en">The Idle Class</title>
     <desc lang="en">A tramp sneaks into a upper class golf resort. The tramp meets a rich woman who is having an argument with her drunken husband. Complications arise when she mistakes the tramp for her husband.</desc>
@@ -18055,11 +18013,6 @@
     <title lang="en">Transformers</title>
     <desc lang="en">An ancient struggle between two Cybertronian races, the heroic Autobots and the evil Decepticons, comes to Earth, with a clue to the ultimate power held by a teenager.</desc>
     <image>https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/PROGRAM/LIVETV_PROGRAM_MNX_HD_1197538_26AUG103000_26AUG125000/images/LANDSCAPE_169/1756684870000_MNXHD_Transformers_1197538.jpg</image>
-  </programme>
-  <programme start="20260826072000 +0000" stop="20260826091000 +0000" channel="MNX.in">
-    <title lang="en">Godzilla Vs. Kong</title>
-    <desc lang="en">When Godzilla resurfaces causing mayhem, King Kong is freed from containment. Humans enlist his help to journey into Hollow Earth and seek a way to subdue the mighty monster.</desc>
-    <image>https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/PROGRAM/LIVETV_PROGRAM_MNX_HD_2047386_26AUG125000_26AUG144000/images/LANDSCAPE_169/1772982083000_MNXHD_GodzillaVsKong_2047386.jpg</image>
   </programme>
   <programme start="20260826072000 +0000" stop="20260826091000 +0000" channel="MNX.in">
     <title lang="en">Godzilla Vs. Kong</title>
@@ -18101,6 +18054,11 @@
     <desc lang="en">The show follows Alex Cross, a skilled D.C. detective and forensic psychologist, as he and his partner hunt a cunning serial killer while facing personal and professional challenges.</desc>
     <image>https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/PROGRAM/LIVETV_PROGRAM_MNX_HD_465635_27AUG023500_27AUG040600/images/LANDSCAPE_169/1724604214000_MNXHD_AlexCross_465635.jpg</image>
   </programme>
+  <programme start="20260826210500 +0000" stop="20260826223600 +0000" channel="MNX.in">
+    <title lang="en">Alex Cross</title>
+    <desc lang="en">The show follows Alex Cross, a skilled D.C. detective and forensic psychologist, as he and his partner hunt a cunning serial killer while facing personal and professional challenges.</desc>
+    <image>https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/PROGRAM/LIVETV_PROGRAM_MNX_HD_465635_27AUG023500_27AUG040600/images/LANDSCAPE_169/1724604214000_MNXHD_AlexCross_465635.jpg</image>
+  </programme>
   <programme start="20260826223600 +0000" stop="20260826224000 +0000" channel="MNX.in">
     <title lang="en">LLL S03_BENNY DAYAL 01</title>
     <desc lang="en">The host engages in a candid conversation with celebrity guests who share intimate details about their personal and professional lives</desc>
@@ -18130,6 +18088,46 @@
     <title lang="en">Mission: Impossible - Ghost Protocol</title>
     <desc lang="en">Ethan Hunt and his team get called to exonerate the IMF's name when it gets implicated in the Kremlin bombing.</desc>
     <image>https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/PROGRAM/LIVETV_PROGRAM_MNX_HD_1615279_27AUG112000_27AUG133000/images/LANDSCAPE_169/1711046162000_MNXHD_MissionImpossible-GhostProtocol_1615279.jpg</image>
+  </programme>
+  <programme start="20260827080000 +0000" stop="20260827093500 +0000" channel="MNX.in">
+    <title lang="en">Tactical Forces</title>
+    <desc lang="en">A training exercise for the LAPD SWAT Team goes terribly wrong when they find themselves pitted against two rival gangs while trapped in an abandoned Hangar, armed with nothing but blanks.</desc>
+    <image>https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/PROGRAM/LIVETV_PROGRAM_MNX_HD_2128359_27AUG133000_27AUG150500/images/LANDSCAPE_169/1787434540000_MNXHD_TacticalForces_2128359.jpg</image>
+  </programme>
+  <programme start="20260827093500 +0000" stop="20260827113500 +0000" channel="MNX.in">
+    <title lang="en">Spider-Man (2002)</title>
+    <desc lang="en">Shy student Peter Parker is often bullied, even by a friend. His life changes when a genetically altered spider bite grants him extraordinary powers, transforming his destiny forever.</desc>
+    <image>https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/PROGRAM/LIVETV_PROGRAM_MNX_HD_2054067_27AUG150500_27AUG170500/images/LANDSCAPE_169/1774112372000_MNXHD_Spider-Man2002_2054067.jpg</image>
+  </programme>
+  <programme start="20260827113500 +0000" stop="20260827140500 +0000" channel="MNX.in">
+    <title lang="en">Troy</title>
+    <desc lang="en">An epic tale of passion, heroism, betrayal and war.</desc>
+    <image>https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/PROGRAM/LIVETV_PROGRAM_MNX_HD_468443_27AUG170500_27AUG193500/images/LANDSCAPE_169/1757695388000_MNXHD_Troy_468443.jpg</image>
+  </programme>
+  <programme start="20260827140500 +0000" stop="20260827153000 +0000" channel="MNX.in">
+    <title lang="en">Resident Evil: Extinction</title>
+    <desc lang="en">Survivors escape Raccoon City and seek refuge in Alaska and fighting Umbrella Corp.</desc>
+    <image>https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/PROGRAM/LIVETV_PROGRAM_MNX_HD_385708_27AUG193500_27AUG210000/images/LANDSCAPE_169/1757772981000_MNXHD_ResidentEvilExtinction_385708.jpg</image>
+  </programme>
+  <programme start="20260827153000 +0000" stop="20260827175000 +0000" channel="MNX.in">
+    <title lang="en">Furiosa: A Mad Max Saga</title>
+    <desc lang="en">Snatched from the Green Place, Furiosa is caught between two tyrannical warlords, and as they battle for power, she must fight relentlessly to survive and find her way back home.</desc>
+    <image>https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/PROGRAM/LIVETV_PROGRAM_MNX_HD_1970685_27AUG210000_27AUG232000/images/LANDSCAPE_169/1760704719000_MNXHD_FuriosaAMadMaxSaga_1970685.jpg</image>
+  </programme>
+  <programme start="20260827175000 +0000" stop="20260827193500 +0000" channel="MNX.in">
+    <title lang="en">300</title>
+    <desc lang="en">King Leonidas and a force of 300 men fight the Persians at Thermopylae in 480 BC.</desc>
+    <image>https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/PROGRAM/LIVETV_PROGRAM_MNX_HD_414521_27AUG232000_28AUG010500/images/LANDSCAPE_169/1762248257000_MNXHD_300_414521.jpg</image>
+  </programme>
+  <programme start="20260827193500 +0000" stop="20260827214000 +0000" channel="MNX.in">
+    <title lang="en">Sherlock Holmes: A Game Of Shadows</title>
+    <desc lang="en">Sherlock Holmes, his brother and Dr Watson venture out to thwart the devious designs of their arch rival, Professor Moriarty.</desc>
+    <image>https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/PROGRAM/LIVETV_PROGRAM_MNX_HD_496046_28AUG010500_28AUG031000/images/LANDSCAPE_169/1783689093000_MNXHD_SherlockHolmesAGameOfShadows_496046.jpg</image>
+  </programme>
+  <programme start="20260827214000 +0000" stop="20260827221000 +0000" channel="MNX.in">
+    <title lang="en">Sunnyside</title>
+    <desc lang="en">Charlie Chaplin, a farm worker, faces challenges like losing cattle, riding a bull, and a city dandy. He also milks cows and milks hens.</desc>
+    <image>https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/PROGRAM/LIVETV_PROGRAM_MNX_HD_686411_28AUG031000_28AUG034000/images/LANDSCAPE_169/1756684870000_MNXHD_Sunnyside_686411.jpg</image>
   </programme>
   <programme start="20260823172000 +0000" stop="20260823192100 +0000" channel="MoonbugKids.uk">
     <title lang="id">Little Baby Bum: Lullabies</title>
@@ -18554,53 +18552,6 @@
   <programme start="20260826155900 +0000" stop="20260826175900 +0000" channel="MoonbugKids.uk">
     <title lang="id">Little Baby Bum: Lullabies</title>
   </programme>
-  <programme start="20260824073400 +0000" stop="20260824091600 +0000" channel="MoviesNow.in">
-    <title lang="en">Death Race ('08)</title>
-    <desc lang="en">In 1940, the British Royal Air Force fights a desperate battle to prevent the Luftwaffe from gaining air superiority over the English Channel as a prelude to a possible Axis invasion of the U.K.</desc>
-    <icon src="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/PROGRAM/LIVETV_PROGRAM_MOVIES_NOW_HD_2104260_24AUG130400_24AUG144600/images/LOGO/MOVIESNOWHD_DeathRace08_2104260.png"/>
-    <image>https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/PROGRAM/LIVETV_PROGRAM_MOVIES_NOW_HD_2104260_24AUG130400_24AUG144600/images/LANDSCAPE_169_HD/MOVIESNOWHD_DeathRace08_2104260.jpg</image>
-  </programme>
-  <programme start="20260824091600 +0000" stop="20260824121500 +0000" channel="MoviesNow.in">
-    <title lang="en">King Kong ('05)</title>
-    <desc lang="en">A greedy film producer assembles a team of moviemakers and sets out for the infamous Skull Island, where they find more than just cannibalistic natives.</desc>
-    <image>https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/PROGRAM/LIVETV_PROGRAM_MOVIES_NOW_HD_2116686_24AUG144600_24AUG174500/images/LANDSCAPE_169/1786110461000_MOVIESNOWHD_KingKong05_2116686.jpg</image>
-  </programme>
-  <programme start="20260824121500 +0000" stop="20260824134900 +0000" channel="MoviesNow.in">
-    <title lang="en">The Angry Birds Movie</title>
-    <desc lang="en">When an island populated by happy, flightless birds is visited by mysterious green piggies, it's up to three unlikely outcasts - Red, Chuck and Bomb - to figure out what the pigs are up to.</desc>
-    <icon src="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/PROGRAM/LIVETV_PROGRAM_MOVIES_NOW_HD_789990_24AUG174500_24AUG191900/images/LOGO/MOVIESNOWHD_TheAngryBirdsMovie_789990.png"/>
-    <image>https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/PROGRAM/LIVETV_PROGRAM_MOVIES_NOW_HD_789990_24AUG174500_24AUG191900/images/LANDSCAPE_169_HD/MOVIESNOWHD_TheAngryBirdsMovie_789990.jpg</image>
-  </programme>
-  <programme start="20260824134900 +0000" stop="20260824151500 +0000" channel="MoviesNow.in">
-    <title lang="en">Rush Hour 3</title>
-    <desc lang="en">Inspector Lee and LAPD detective James Carter travel to Paris to protect a French witness from the attacks of the Chinese triads.</desc>
-    <icon src="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/PROGRAM/LIVETV_PROGRAM_MOVIES_NOW_HD_475037_24AUG191900_24AUG204500/images/LOGO/MOVIESNOWHD_RushHour3_475037.png"/>
-    <image>https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/PROGRAM/LIVETV_PROGRAM_MOVIES_NOW_HD_475037_24AUG191900_24AUG204500/images/LANDSCAPE_169_HD/MOVIESNOWHD_RushHour3_475037.jpg</image>
-  </programme>
-  <programme start="20260824151500 +0000" stop="20260824175400 +0000" channel="MoviesNow.in">
-    <title lang="en">Transformers: Age Of Extinction</title>
-    <desc lang="en">When humanity allies with a bounty hunter in pursuit of Optimus Prime, the Autobots turn to a mechanic and his family for help.</desc>
-    <icon src="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/PROGRAM/LIVETV_PROGRAM_MOVIES_NOW_HD_1188007_24AUG204500_24AUG232400/images/LOGO/MOVIESNOWHD_TransformersAgeOfExtinction_1188007.png"/>
-    <image>https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/PROGRAM/LIVETV_PROGRAM_MOVIES_NOW_HD_1188007_24AUG204500_24AUG232400/images/LANDSCAPE_169_HD/MOVIESNOWHD_TransformersAgeOfExtinction_1188007.jpg</image>
-  </programme>
-  <programme start="20260824175400 +0000" stop="20260824195700 +0000" channel="MoviesNow.in">
-    <title lang="en">Spider-Man 2 (2004)</title>
-    <desc lang="en">Peter Parker is beset with troubles in his failing personal life as he battles a brilliant scientist named Doctor Otto Octavius.</desc>
-    <icon src="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/PROGRAM/LIVETV_PROGRAM_MOVIES_NOW_HD_2065202_24AUG232400_25AUG012700/images/LOGO/MOVIESNOWHD_Spider-Man22004_2065202.png"/>
-    <image>https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/PROGRAM/LIVETV_PROGRAM_MOVIES_NOW_HD_2065202_24AUG232400_25AUG012700/images/LANDSCAPE_169_HD/MOVIESNOWHD_Spider-Man22004_2065202.jpg</image>
-  </programme>
-  <programme start="20260824195700 +0000" stop="20260824214500 +0000" channel="MoviesNow.in">
-    <title lang="en">Baby Driver</title>
-    <desc lang="en">A young getaway driver and forced to work for a crime boss and joins a doomed heist.</desc>
-    <icon src="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/PROGRAM/LIVETV_PROGRAM_MOVIES_NOW_HD_800884_25AUG012700_25AUG031500/images/LOGO/MOVIESNOWHD_BabyDriver_800884.png"/>
-    <image>https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/PROGRAM/LIVETV_PROGRAM_MOVIES_NOW_HD_800884_25AUG012700_25AUG031500/images/LANDSCAPE_169_HD/MOVIESNOWHD_BabyDriver_800884.jpg</image>
-  </programme>
-  <programme start="20260824214500 +0000" stop="20260824215800 +0000" channel="MoviesNow.in">
-    <title lang="en">LLL S03_SHAAN 04</title>
-    <desc lang="en">The host engages in a candid conversation with celebrity guests who share intimate details about their personal and professional lives.</desc>
-    <icon src="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/PROGRAM/LIVETV_PROGRAM_MOVIES_NOW_HD_2047361_25AUG031500_25AUG032800/images/LOGO/MOVIESNOWHD_LLLS03_SHAAN04_2047361.png"/>
-    <image>https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/PROGRAM/LIVETV_PROGRAM_MOVIES_NOW_HD_2047361_25AUG031500_25AUG032800/images/LANDSCAPE_169_HD/MOVIESNOWHD_LLLS03_SHAAN04_2047361.jpg</image>
-  </programme>
   <programme start="20260824215800 +0000" stop="20260824224900 +0000" channel="MoviesNow.in">
     <title lang="en">The Kid</title>
     <desc lang="en">The Tramp cares for an abandoned child, but events put that relationship in jeopardy.</desc>
@@ -18642,12 +18593,6 @@
     <icon src="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/PROGRAM/LIVETV_PROGRAM_MOVIES_NOW_HD_2012693_25AUG124300_25AUG143700/images/LOGO/MOVIESNOWHD_KongSkullIsland_2012693.png"/>
     <image>https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/PROGRAM/LIVETV_PROGRAM_MOVIES_NOW_HD_2012693_25AUG124300_25AUG143700/images/LANDSCAPE_169_HD/MOVIESNOWHD_KongSkullIsland_2012693.jpg</image>
   </programme>
-  <programme start="20260825071300 +0000" stop="20260825090700 +0000" channel="MoviesNow.in">
-    <title lang="en">Kong: Skull Island</title>
-    <desc lang="en">After the Vietnam war, a team of scientists explores an uncharted island in the Pacific, venturing into the domain of the mighty Kong and must fight to escape a primal Eden</desc>
-    <icon src="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/PROGRAM/LIVETV_PROGRAM_MOVIES_NOW_HD_2012693_25AUG124300_25AUG143700/images/LOGO/MOVIESNOWHD_KongSkullIsland_2012693.png"/>
-    <image>https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/PROGRAM/LIVETV_PROGRAM_MOVIES_NOW_HD_2012693_25AUG124300_25AUG143700/images/LANDSCAPE_169_HD/MOVIESNOWHD_KongSkullIsland_2012693.jpg</image>
-  </programme>
   <programme start="20260825090700 +0000" stop="20260825105600 +0000" channel="MoviesNow.in">
     <title lang="en">Apocalypto</title>
     <desc lang="en">Young man journeys to fearful and oppressive world.</desc>
@@ -18673,7 +18618,7 @@
     <image>https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/PROGRAM/LIVETV_PROGRAM_MOVIES_NOW_HD_2069150_25AUG204500_25AUG225000/images/LANDSCAPE_169_HD/MOVIESNOWHD_TheMummyReturns_2069150.jpg</image>
   </programme>
   <programme start="20260825172000 +0000" stop="20260825190000 +0000" channel="MoviesNow.in">
-    <title lang="en">Death Race ('08)</title>
+    <title lang="en">Death Race</title>
     <desc lang="en">In 1940, the British Royal Air Force fights a desperate battle to prevent the Luftwaffe from gaining air superiority over the English Channel as a prelude to a possible Axis invasion of the U.K.</desc>
     <icon src="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/PROGRAM/LIVETV_PROGRAM_MOVIES_NOW_HD_2104260_25AUG225000_26AUG003000/images/LOGO/MOVIESNOWHD_DeathRace08_2104260.png"/>
     <image>https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/PROGRAM/LIVETV_PROGRAM_MOVIES_NOW_HD_2104260_25AUG225000_26AUG003000/images/LANDSCAPE_169_HD/MOVIESNOWHD_DeathRace08_2104260.jpg</image>
@@ -18682,6 +18627,11 @@
     <title lang="en">TBA</title>
     <desc lang="en">A traumatized boy lashes out by bullying his new classmates, grappling with his pain while searching for a way to find purpose and meaning in his life.</desc>
     <image>https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/PROGRAM/LIVETV_PROGRAM_MOVIES_NOW_HD_880076_26AUG003000_26AUG015100/images/LANDSCAPE_169/1684706764000_MOVIESNOWHD_TBA_880076.jpg</image>
+  </programme>
+  <programme start="20260825202100 +0000" stop="20260825221500 +0000" channel="MoviesNow.in">
+    <title lang="en">The Lego Ninjago Movie</title>
+    <desc lang="en">Shunned by everyone for being the son of an evil warlord, a teenager seeks to defeat him with the help of his fellow ninjas.</desc>
+    <image>https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/PROGRAM/LIVETV_PROGRAM_MOVIES_NOW_HD_1967401_26AUG015100_26AUG034500/images/LANDSCAPE_169_HD/MOVIESNOWHD_TheLegoNinjagoMovie_1967401.jpg</image>
   </programme>
   <programme start="20260825202100 +0000" stop="20260825221500 +0000" channel="MoviesNow.in">
     <title lang="en">The Lego Ninjago Movie</title>
@@ -18707,7 +18657,7 @@
     <image>https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/PROGRAM/LIVETV_PROGRAM_MOVIES_NOW_HD_800884_26AUG064500_26AUG083500/images/LANDSCAPE_169_HD/MOVIESNOWHD_BabyDriver_800884.jpg</image>
   </programme>
   <programme start="20260826030500 +0000" stop="20260826051000 +0000" channel="MoviesNow.in">
-    <title lang="en">Spider-Man 2 (2004)</title>
+    <title lang="en">Spider-Man 2</title>
     <desc lang="en">Peter Parker is beset with troubles in his failing personal life as he battles a brilliant scientist named Doctor Otto Octavius.</desc>
     <icon src="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/PROGRAM/LIVETV_PROGRAM_MOVIES_NOW_HD_2065202_26AUG083500_26AUG104000/images/LOGO/MOVIESNOWHD_Spider-Man22004_2065202.png"/>
     <image>https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/PROGRAM/LIVETV_PROGRAM_MOVIES_NOW_HD_2065202_26AUG083500_26AUG104000/images/LANDSCAPE_169_HD/MOVIESNOWHD_Spider-Man22004_2065202.jpg</image>
@@ -18717,12 +18667,6 @@
     <desc lang="en">Inspector Lee and LAPD detective James Carter travel to Paris to protect a French witness from the attacks of the Chinese triads.</desc>
     <icon src="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/PROGRAM/LIVETV_PROGRAM_MOVIES_NOW_HD_475037_26AUG104000_26AUG120500/images/LOGO/MOVIESNOWHD_RushHour3_475037.png"/>
     <image>https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/PROGRAM/LIVETV_PROGRAM_MOVIES_NOW_HD_475037_26AUG104000_26AUG120500/images/LANDSCAPE_169_HD/MOVIESNOWHD_RushHour3_475037.jpg</image>
-  </programme>
-  <programme start="20260826063500 +0000" stop="20260826085500 +0000" channel="MoviesNow.in">
-    <title lang="en">Aquaman</title>
-    <desc lang="en">Arthur Curry, the human-born heir to the underwater kingdom of Atlantis, goes on a quest to prevent a war between the worlds of ocean and land.</desc>
-    <icon src="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/PROGRAM/LIVETV_PROGRAM_MOVIES_NOW_HD_2004795_26AUG120500_26AUG142500/images/LOGO/MOVIESNOWHD_Aquaman_2004795.png"/>
-    <image>https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/PROGRAM/LIVETV_PROGRAM_MOVIES_NOW_HD_2004795_26AUG120500_26AUG142500/images/LANDSCAPE_169_HD/MOVIESNOWHD_Aquaman_2004795.jpg</image>
   </programme>
   <programme start="20260826063500 +0000" stop="20260826085500 +0000" channel="MoviesNow.in">
     <title lang="en">Aquaman</title>
@@ -18749,7 +18693,7 @@
     <image>https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/PROGRAM/LIVETV_PROGRAM_MOVIES_NOW_HD_789990_26AUG191000_26AUG204500/images/LANDSCAPE_169_HD/MOVIESNOWHD_TheAngryBirdsMovie_789990.jpg</image>
   </programme>
   <programme start="20260826151500 +0000" stop="20260826173000 +0000" channel="MoviesNow.in">
-    <title lang="en">The Karate Kid(2010)</title>
+    <title lang="en">The Karate Kid</title>
     <desc lang="en">Work causes a single mother to move to China with her young son; in his new home, the 12-year-old boy embraces Kung Fu, taught to him by a master.</desc>
     <icon src="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/PROGRAM/LIVETV_PROGRAM_MOVIES_NOW_HD_2047362_26AUG204500_26AUG230000/images/LOGO/MOVIESNOWHD_TheKarateKid2010_2047362.png"/>
     <image>https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/PROGRAM/LIVETV_PROGRAM_MOVIES_NOW_HD_2047362_26AUG204500_26AUG230000/images/LANDSCAPE_169_HD/MOVIESNOWHD_TheKarateKid2010_2047362.jpg</image>
@@ -18764,6 +18708,11 @@
     <desc lang="en">When the man behind the heist he could never solve has become an amnesiac, a retired sheriff attempts to crack the case at all costs.</desc>
     <icon src="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/PROGRAM/LIVETV_PROGRAM_MOVIES_NOW_HD_1892086_27AUG020000_27AUG032500/images/LOGO/MOVIESNOWHD_Backtrace_1892086.png"/>
     <image>https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/PROGRAM/LIVETV_PROGRAM_MOVIES_NOW_HD_1892086_27AUG020000_27AUG032500/images/LANDSCAPE_169_HD/MOVIESNOWHD_Backtrace_1892086.jpg</image>
+  </programme>
+  <programme start="20260826215500 +0000" stop="20260826232500 +0000" channel="MoviesNow.in">
+    <title lang="en">The Trials of Cate McCall</title>
+    <desc lang="en">In order to be reinstated to the bar and recover custody of her daughter, a hotshot lawyer, now in recovery and on probation, must take on the appeal of a woman wrongfully convicted of murder.</desc>
+    <image>https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/PROGRAM/LIVETV_PROGRAM_MOVIES_NOW_HD_2128354_27AUG032500_27AUG045500/images/LANDSCAPE_169/1756684870000_movie.jpg</image>
   </programme>
   <programme start="20260826215500 +0000" stop="20260826232500 +0000" channel="MoviesNow.in">
     <title lang="en">The Trials of Cate McCall</title>
@@ -18798,6 +18747,58 @@
     <desc lang="en">After the Vietnam war, a team of scientists explores an uncharted island in the Pacific, venturing into the domain of the mighty Kong and must fight to escape a primal Eden</desc>
     <icon src="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/PROGRAM/LIVETV_PROGRAM_MOVIES_NOW_HD_2012693_27AUG115000_27AUG134500/images/LOGO/MOVIESNOWHD_KongSkullIsland_2012693.png"/>
     <image>https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/PROGRAM/LIVETV_PROGRAM_MOVIES_NOW_HD_2012693_27AUG115000_27AUG134500/images/LANDSCAPE_169_HD/MOVIESNOWHD_KongSkullIsland_2012693.jpg</image>
+  </programme>
+  <programme start="20260827081500 +0000" stop="20260827102000 +0000" channel="MoviesNow.in">
+    <title lang="en">The Mummy Returns</title>
+    <desc lang="en">The mummified body of Imhotep is shipped to a museum in London, where he once again wakes and begins his campaign of rage and terror</desc>
+    <icon src="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/PROGRAM/LIVETV_PROGRAM_MOVIES_NOW_HD_2069150_27AUG134500_27AUG155000/images/LOGO/MOVIESNOWHD_TheMummyReturns_2069150.png"/>
+    <image>https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/PROGRAM/LIVETV_PROGRAM_MOVIES_NOW_HD_2069150_27AUG134500_27AUG155000/images/LANDSCAPE_169_HD/MOVIESNOWHD_TheMummyReturns_2069150.jpg</image>
+  </programme>
+  <programme start="20260827102000 +0000" stop="20260827121500 +0000" channel="MoviesNow.in">
+    <title lang="en">Jumanji: Welcome To The Jungle</title>
+    <desc lang="en">Four teenagers are sucked into a magical video game, and the only way they can escape is to work together to finish the game.</desc>
+    <icon src="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/PROGRAM/LIVETV_PROGRAM_MOVIES_NOW_HD_853480_27AUG155000_27AUG174500/images/LOGO/MOVIESNOWHD_JumanjiWelcomeToTheJungle_853480.png"/>
+    <image>https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/PROGRAM/LIVETV_PROGRAM_MOVIES_NOW_HD_853480_27AUG155000_27AUG174500/images/LANDSCAPE_169_HD/MOVIESNOWHD_JumanjiWelcomeToTheJungle_853480.jpg</image>
+  </programme>
+  <programme start="20260827121500 +0000" stop="20260827134000 +0000" channel="MoviesNow.in">
+    <title lang="en">Rush Hour 3</title>
+    <desc lang="en">Inspector Lee and LAPD detective James Carter travel to Paris to protect a French witness from the attacks of the Chinese triads.</desc>
+    <icon src="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/PROGRAM/LIVETV_PROGRAM_MOVIES_NOW_HD_475037_27AUG174500_27AUG191000/images/LOGO/MOVIESNOWHD_RushHour3_475037.png"/>
+    <image>https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/PROGRAM/LIVETV_PROGRAM_MOVIES_NOW_HD_475037_27AUG174500_27AUG191000/images/LANDSCAPE_169_HD/MOVIESNOWHD_RushHour3_475037.jpg</image>
+  </programme>
+  <programme start="20260827134000 +0000" stop="20260827151500 +0000" channel="MoviesNow.in">
+    <title lang="en">Despicable Me 2</title>
+    <desc lang="en">When a new criminal arrives in town, the Anti-Villain League recruits Gru to stop him. Though he refuses at first, he agrees after his aide returns to her old evil ways.</desc>
+    <image>https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/PROGRAM/LIVETV_PROGRAM_MOVIES_NOW_HD_363697_27AUG191000_27AUG204500/images/LANDSCAPE_169/1783263923000_MOVIESNOWHD_DespicableMe2_363697.jpg</image>
+  </programme>
+  <programme start="20260827151500 +0000" stop="20260827173500 +0000" channel="MoviesNow.in">
+    <title lang="en">Aquaman</title>
+    <desc lang="en">Arthur Curry, the human-born heir to the underwater kingdom of Atlantis, goes on a quest to prevent a war between the worlds of ocean and land.</desc>
+    <icon src="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/PROGRAM/LIVETV_PROGRAM_MOVIES_NOW_HD_2004795_27AUG204500_27AUG230500/images/LOGO/MOVIESNOWHD_Aquaman_2004795.png"/>
+    <image>https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/PROGRAM/LIVETV_PROGRAM_MOVIES_NOW_HD_2004795_27AUG204500_27AUG230500/images/LANDSCAPE_169_HD/MOVIESNOWHD_Aquaman_2004795.jpg</image>
+  </programme>
+  <programme start="20260827173500 +0000" stop="20260827191000 +0000" channel="MoviesNow.in">
+    <title lang="en">Doom</title>
+    <desc lang="en">Space Marines are sent to investigate strange events at a research facility on Mars but find themselves at the mercy of genetically enhanced killing machines.</desc>
+    <image>https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/PROGRAM/LIVETV_PROGRAM_MOVIES_NOW_HD_363698_27AUG230500_28AUG004000/images/LANDSCAPE_169/1688083528000_MOVIESNOWHD_Doom_363698.jpg</image>
+  </programme>
+  <programme start="20260827191000 +0000" stop="20260827213100 +0000" channel="MoviesNow.in">
+    <title lang="en">The Matrix Resurrections</title>
+    <desc lang="en">A digital age war erupts as humans fight to reclaim freedom against machines, weaving action, philosophy, and hope for the future.</desc>
+    <icon src="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/PROGRAM/LIVETV_PROGRAM_MOVIES_NOW_HD_1949442_28AUG004000_28AUG030100/images/LOGO/MOVIESNOWHD_TheMatrixResurrections_1949442.png"/>
+    <image>https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/PROGRAM/LIVETV_PROGRAM_MOVIES_NOW_HD_1949442_28AUG004000_28AUG030100/images/LANDSCAPE_169_HD/MOVIESNOWHD_TheMatrixResurrections_1949442.jpg</image>
+  </programme>
+  <programme start="20260827213100 +0000" stop="20260827214500 +0000" channel="MoviesNow.in">
+    <title lang="en">LLL S03_YASHRAJ MUKHATE 03</title>
+    <desc lang="en">The host engages in a candid conversation with celebrity guests who share intimate details about their personal and professional lives.</desc>
+    <icon src="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/PROGRAM/LIVETV_PROGRAM_MOVIES_NOW_HD_2065200_28AUG030100_28AUG031500/images/LOGO/MOVIESNOWHD_LLLS03_YASHRAJMUKHATE03_2065200.png"/>
+    <image>https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/PROGRAM/LIVETV_PROGRAM_MOVIES_NOW_HD_2065200_28AUG030100_28AUG031500/images/LANDSCAPE_169_HD/MOVIESNOWHD_LLLS03_YASHRAJMUKHATE03_2065200.jpg</image>
+  </programme>
+  <programme start="20260827214500 +0000" stop="20260827223500 +0000" channel="MoviesNow.in">
+    <title lang="en">The Kid</title>
+    <desc lang="en">The Tramp cares for an abandoned child, but events put that relationship in jeopardy.</desc>
+    <icon src="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/PROGRAM/LIVETV_PROGRAM_MOVIES_NOW_HD_583663_28AUG031500_28AUG040500/images/LOGO/MOVIESNOWHD_TheKid_583663.png"/>
+    <image>https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/PROGRAM/LIVETV_PROGRAM_MOVIES_NOW_HD_583663_28AUG031500_28AUG040500/images/LANDSCAPE_169_HD/MOVIESNOWHD_TheKid_583663.jpg</image>
   </programme>
   <programme start="20260823190000 +0000" stop="20260823213000 +0000" channel="MusicTV.id">
     <title lang="id">DMD Panggung Rezeki</title>
@@ -20966,6 +20967,54 @@
   <programme start="20260825160000 +0000" stop="20260825171500 +0000" channel="RCTI.id">
     <title lang="id">Cinta Dari Surga</title>
   </programme>
+  <programme start="20260825171500 +0000" stop="20260825183000 +0000" channel="RCTI.id">
+    <title lang="id">Cowok Ganteng Pejuang Duha</title>
+  </programme>
+  <programme start="20260825183000 +0000" stop="20260825190000 +0000" channel="RCTI.id">
+    <title lang="id">7 Kamar 7 Icons</title>
+  </programme>
+  <programme start="20260825190000 +0000" stop="20260825200000 +0000" channel="RCTI.id">
+    <title lang="id">Mega Film TV Malam</title>
+  </programme>
+  <programme start="20260825200000 +0000" stop="20260825221500 +0000" channel="RCTI.id">
+    <title lang="id">Preman Pensiun S7</title>
+  </programme>
+  <programme start="20260825221500 +0000" stop="20260825224500 +0000" channel="RCTI.id">
+    <title lang="id">Seputar iNews</title>
+  </programme>
+  <programme start="20260825224500 +0000" stop="20260826010000 +0000" channel="RCTI.id">
+    <title lang="id">Preman Pensiun Dini</title>
+  </programme>
+  <programme start="20260826010000 +0000" stop="20260826024500 +0000" channel="RCTI.id">
+    <title lang="id">Tebaran Hati Ariana Dito</title>
+  </programme>
+  <programme start="20260826024500 +0000" stop="20260826040000 +0000" channel="RCTI.id">
+    <title lang="id">Terlanjur Mencintaimu Arumi</title>
+  </programme>
+  <programme start="20260826040000 +0000" stop="20260826043000 +0000" channel="RCTI.id">
+    <title lang="id">Go Spot Eksklusif</title>
+  </programme>
+  <programme start="20260826043000 +0000" stop="20260826060000 +0000" channel="RCTI.id">
+    <title lang="id">Terikat Janji Selamanya</title>
+  </programme>
+  <programme start="20260826060000 +0000" stop="20260826103000 +0000" channel="RCTI.id">
+    <title lang="id">Ikatan Cinta Aldebaran &amp; Andin</title>
+  </programme>
+  <programme start="20260826103000 +0000" stop="20260826120000 +0000" channel="RCTI.id">
+    <title lang="id">Ternyata Ini Cinta</title>
+  </programme>
+  <programme start="20260826120000 +0000" stop="20260826133000 +0000" channel="RCTI.id">
+    <title lang="id">Terikat Janji</title>
+  </programme>
+  <programme start="20260826133000 +0000" stop="20260826144500 +0000" channel="RCTI.id">
+    <title lang="id">Terlanjur Mencintaimu</title>
+  </programme>
+  <programme start="20260826144500 +0000" stop="20260826160000 +0000" channel="RCTI.id">
+    <title lang="id">Culun Tapi Sultan</title>
+  </programme>
+  <programme start="20260826160000 +0000" stop="20260826171500 +0000" channel="RCTI.id">
+    <title lang="id">Cinta Dari Surga</title>
+  </programme>
   <programme start="20260823230000 +0000" stop="20260824005000 +0000" channel="Reformed21.id">
     <title lang="id">Reformed 21</title>
     <desc lang="id">Reformed 21 menghadirkan program TV yang berpusat pada injil dan teologia Reformed, selama 24 jam, setiap hari.</desc>
@@ -21814,12 +21863,12 @@
     <desc lang="en">When a middle-aged man is gifted with the power to read women's mind, he outwits his boss.</desc>
     <icon src="http://ttpl.tmsimg.com/assets/p26085_v_h8_ab.jpg?lock=1280x720"/>
   </programme>
-  <programme start="20260825013900 +0000" stop="20260825030700 +0000" channel="RomedyNow.in">
+  <programme start="20260825013900 +0000" stop="20260825030600 +0000" channel="RomedyNow.in">
     <title lang="en">The Emoji Movie</title>
     <desc lang="en">A smartphone emoji tries to get rid of his ability to show multiple expressions.</desc>
     <icon src="http://ttpl.tmsimg.com/assets/p13635399_v_v13_ab.jpg?lock=1280x720"/>
   </programme>
-  <programme start="20260825030700 +0000" stop="20260825044900 +0000" channel="RomedyNow.in">
+  <programme start="20260825030600 +0000" stop="20260825044900 +0000" channel="RomedyNow.in">
     <title lang="en">What to Expect When You're Expecting</title>
     <desc lang="en">Five couples' lives are turned upside down by the challenges of impending parenthood.</desc>
     <icon src="http://ttpl.tmsimg.com/assets/p8915852_v_h10_al.jpg?lock=1280x720"/>
@@ -21839,17 +21888,17 @@
     <desc lang="en">Pranksters George and Harold hypnotise Principal Krupp into becoming Captain Underpants.</desc>
     <icon src="http://ttpl.tmsimg.com/assets/p12742429_v_h8_ad.jpg?lock=1280x720"/>
   </programme>
-  <programme start="20260825095400 +0000" stop="20260825113400 +0000" channel="RomedyNow.in">
+  <programme start="20260825095400 +0000" stop="20260825113300 +0000" channel="RomedyNow.in">
     <title lang="en">Bridget Jones's Diary</title>
     <desc lang="en">A neurotic thirty-something woman resolves to take control of her life once and for all.</desc>
     <icon src="http://ttpl.tmsimg.com/assets/p27484_v_h8_an.jpg?lock=1280x720"/>
   </programme>
-  <programme start="20260825113400 +0000" stop="20260825131400 +0000" channel="RomedyNow.in">
+  <programme start="20260825113300 +0000" stop="20260825131300 +0000" channel="RomedyNow.in">
     <title lang="en">Bridget Jones: The Edge of Reason</title>
     <desc lang="en">Bridget gets uncomfortable in her relationship with Mark and dislikes his opinions.</desc>
     <icon src="http://ttpl.tmsimg.com/assets/p35099_v_h8_aj.jpg?lock=1280x720"/>
   </programme>
-  <programme start="20260825131400 +0000" stop="20260825153000 +0000" channel="RomedyNow.in">
+  <programme start="20260825131300 +0000" stop="20260825153000 +0000" channel="RomedyNow.in">
     <title lang="en">Jerry Maguire</title>
     <desc lang="en">A sports agent tries to get back on his feet with a disgruntled football player's help.</desc>
     <icon src="http://ttpl.tmsimg.com/assets/p18815_v_h10_an.jpg?lock=1280x720"/>
@@ -23274,40 +23323,65 @@
     <desc lang="en">Bringing the best in television.</desc>
     <icon src="http://ttpl.tmsimg.com/assets/p9162875_b_h8_ai.jpg?lock=1280x720"/>
   </programme>
-  <programme start="20260824210400 +0000" stop="20260825003000 +0000" channel="StarMovies.in">
+  <programme start="20260824210400 +0000" stop="20260824225800 +0000" channel="StarMovies.in">
     <title lang="en">Cosmoball</title>
     <desc lang="en">A massive spaceship named 'Cosmoball' hovers ominously above the planet after a huge war.</desc>
     <icon src="http://ttpl.tmsimg.com/assets/p19261999_v_h8_ab.jpg?lock=1280x720"/>
   </programme>
-  <programme start="20260825003000 +0000" stop="20260825033000 +0000" channel="StarMovies.in">
-    <title lang="en">Movie</title>
+  <programme start="20260824225800 +0000" stop="20260824231900 +0000" channel="StarMovies.in">
+    <title lang="en">Filler</title>
     <desc lang="en">Bringing the best in television.</desc>
-    <icon src="http://ttpl.tmsimg.com/assets/p809737_b_h8_bq.jpg?lock=1280x720"/>
+    <icon src="http://ttpl.tmsimg.com/assets/p9162875_b_h8_ai.jpg?lock=1280x720"/>
   </programme>
-  <programme start="20260825033000 +0000" stop="20260825063000 +0000" channel="StarMovies.in">
-    <title lang="en">Movie</title>
-    <desc lang="en">Bringing the best in television.</desc>
-    <icon src="http://ttpl.tmsimg.com/assets/p809737_b_h8_bq.jpg?lock=1280x720"/>
+  <programme start="20260824231900 +0000" stop="20260825004000 +0000" channel="StarMovies.in">
+    <title lang="en">Jurassic City</title>
+    <desc lang="en">Dinosaurs escape from a breached top-secret laboratory and wreak havoc in the city.</desc>
+    <icon src="http://ttpl.tmsimg.com/assets/p11372726_v_h10_ae.jpg?lock=1280x720"/>
   </programme>
-  <programme start="20260825063000 +0000" stop="20260825093000 +0000" channel="StarMovies.in">
-    <title lang="en">Movie</title>
-    <desc lang="en">Bringing the best in television.</desc>
-    <icon src="http://ttpl.tmsimg.com/assets/p809737_b_h8_bq.jpg?lock=1280x720"/>
+  <programme start="20260825004000 +0000" stop="20260825023000 +0000" channel="StarMovies.in">
+    <title lang="en">Mulan</title>
+    <desc lang="en">A girl disguises herself as a male and joins the imperial army to save her father.</desc>
+    <icon src="http://ttpl.tmsimg.com/assets/p24976467_v_h11_aa.jpg?lock=1280x720"/>
   </programme>
-  <programme start="20260825093000 +0000" stop="20260825123000 +0000" channel="StarMovies.in">
-    <title lang="en">Movie</title>
-    <desc lang="en">Bringing the best in television.</desc>
-    <icon src="http://ttpl.tmsimg.com/assets/p809737_b_h8_bq.jpg?lock=1280x720"/>
+  <programme start="20260825023000 +0000" stop="20260825043300 +0000" channel="StarMovies.in">
+    <title lang="en">Air Force One</title>
+    <desc lang="en">Marshall fights terrorists on Air Force One to save his family and regain control.</desc>
+    <icon src="http://ttpl.tmsimg.com/assets/p19610_v_h10_ao.jpg?lock=1280x720"/>
   </programme>
-  <programme start="20260825123000 +0000" stop="20260825153000 +0000" channel="StarMovies.in">
-    <title lang="en">Movie</title>
-    <desc lang="en">Bringing the best in television.</desc>
-    <icon src="http://ttpl.tmsimg.com/assets/p809737_b_h8_bq.jpg?lock=1280x720"/>
+  <programme start="20260825043300 +0000" stop="20260825062100 +0000" channel="StarMovies.in">
+    <title lang="en">X-Men Origins: Wolverine</title>
+    <desc lang="en">Logan's peaceful life is shattered when a figure from his past brutally murders Kayla.</desc>
+    <icon src="http://ttpl.tmsimg.com/assets/p174924_v_h10_ag.jpg?lock=1280x720"/>
   </programme>
-  <programme start="20260825153000 +0000" stop="20260825183000 +0000" channel="StarMovies.in">
-    <title lang="en">Movie</title>
-    <desc lang="en">Bringing the best in television.</desc>
-    <icon src="http://ttpl.tmsimg.com/assets/p809737_b_h8_bq.jpg?lock=1280x720"/>
+  <programme start="20260825062100 +0000" stop="20260825083500 +0000" channel="StarMovies.in">
+    <title lang="en">Guardians of the Galaxy Vol. 2</title>
+    <desc lang="en">The Guardians uncover an unnerving truth about Ego, Peter Quill's long-lost father.</desc>
+    <icon src="http://ttpl.tmsimg.com/assets/p11714883_v_h10_ay.jpg?lock=1280x720"/>
+  </programme>
+  <programme start="20260825083500 +0000" stop="20260825102800 +0000" channel="StarMovies.in">
+    <title lang="en">Alien: Romulus</title>
+    <desc lang="en">Alien: Romulus</desc>
+    <icon src="http://ttpl.tmsimg.com/assets/p26633571_v_h8_af.jpg?lock=1280x720"/>
+  </programme>
+  <programme start="20260825102800 +0000" stop="20260825120200 +0000" channel="StarMovies.in">
+    <title lang="en">Big Hero 6</title>
+    <desc lang="en">A young kid teams up with his brother's creation, a robot, to seek justice for his death.</desc>
+    <icon src="http://ttpl.tmsimg.com/assets/p10569216_v_h8_as.jpg?lock=1280x720"/>
+  </programme>
+  <programme start="20260825120200 +0000" stop="20260825151500 +0000" channel="StarMovies.in">
+    <title lang="en">Avatar: The Way of Water</title>
+    <desc lang="en">When an old enemy resurfaces, Jake and his family take refuge with the Metkayina clan.</desc>
+    <icon src="http://ttpl.tmsimg.com/assets/p12460960_v_h10_aw.jpg?lock=1280x720"/>
+  </programme>
+  <programme start="20260825151500 +0000" stop="20260825172700 +0000" channel="StarMovies.in">
+    <title lang="en">Captain America: The Winter Soldier</title>
+    <desc lang="en">Steve Rogers forges new alliances and faces a threat that turns out to be an old friend.</desc>
+    <icon src="http://ttpl.tmsimg.com/assets/p9895254_v_h10_af.jpg?lock=1280x720"/>
+  </programme>
+  <programme start="20260825172700 +0000" stop="20260825190500 +0000" channel="StarMovies.in">
+    <title lang="en">Bruce Almighty</title>
+    <desc lang="en">God grants Bruce divine powers to make him realise the responsibilities of the world.</desc>
+    <icon src="http://ttpl.tmsimg.com/assets/p31817_v_h10_ao.jpg?lock=1280x720"/>
   </programme>
   <programme start="20260825183000 +0000" stop="20260825213000 +0000" channel="StarMovies.in">
     <title lang="en">Movie</title>
@@ -23444,40 +23518,85 @@
     <desc lang="en">Bringing the best in television.</desc>
     <icon src="http://ttpl.tmsimg.com/assets/p28139681_b_h8_aa.jpg?lock=1280x720"/>
   </programme>
-  <programme start="20260824220500 +0000" stop="20260825003000 +0000" channel="StarMoviesSelect.in">
+  <programme start="20260824220500 +0000" stop="20260825000000 +0000" channel="StarMoviesSelect.in">
     <title lang="en">Cosmoball</title>
     <desc lang="en">A massive spaceship named 'Cosmoball' hovers ominously above the planet after a huge war.</desc>
     <icon src="http://ttpl.tmsimg.com/assets/p19261999_v_h8_ab.jpg?lock=1280x720"/>
   </programme>
-  <programme start="20260825003000 +0000" stop="20260825033000 +0000" channel="StarMoviesSelect.in">
-    <title lang="en">Movie</title>
+  <programme start="20260825000000 +0000" stop="20260825003600 +0000" channel="StarMoviesSelect.in">
+    <title lang="en">Filler</title>
     <desc lang="en">Bringing the best in television.</desc>
-    <icon src="http://ttpl.tmsimg.com/assets/p809737_b_h8_bq.jpg?lock=1280x720"/>
+    <icon src="http://ttpl.tmsimg.com/assets/p26697972_b_h8_aa.jpg?lock=1280x720"/>
   </programme>
-  <programme start="20260825033000 +0000" stop="20260825063000 +0000" channel="StarMoviesSelect.in">
-    <title lang="en">Movie</title>
-    <desc lang="en">Bringing the best in television.</desc>
-    <icon src="http://ttpl.tmsimg.com/assets/p809737_b_h8_bq.jpg?lock=1280x720"/>
+  <programme start="20260825003600 +0000" stop="20260825015800 +0000" channel="StarMoviesSelect.in">
+    <title lang="en">The Python</title>
+    <desc lang="en">Snake hunters must kill a deadly python in order to survive a brutal commander.</desc>
+    <icon src="http://ttpl.tmsimg.com/assets/p23867493_v_h10_aa.jpg?lock=1280x720"/>
   </programme>
-  <programme start="20260825063000 +0000" stop="20260825093000 +0000" channel="StarMoviesSelect.in">
-    <title lang="en">Movie</title>
-    <desc lang="en">Bringing the best in television.</desc>
-    <icon src="http://ttpl.tmsimg.com/assets/p809737_b_h8_bq.jpg?lock=1280x720"/>
+  <programme start="20260825015800 +0000" stop="20260825033800 +0000" channel="StarMoviesSelect.in">
+    <title lang="en">King Of Serpant</title>
+    <desc lang="en">A man's small village faces certain death unless he hunts and kills a giant python.</desc>
+    <icon src="http://ttpl.tmsimg.com/assets/p28586075_b_h10_ac.jpg?lock=1280x720"/>
   </programme>
-  <programme start="20260825093000 +0000" stop="20260825123000 +0000" channel="StarMoviesSelect.in">
-    <title lang="en">Movie</title>
-    <desc lang="en">Bringing the best in television.</desc>
-    <icon src="http://ttpl.tmsimg.com/assets/p809737_b_h8_bq.jpg?lock=1280x720"/>
+  <programme start="20260825033800 +0000" stop="20260825051300 +0000" channel="StarMoviesSelect.in">
+    <title lang="en">Inside Out</title>
+    <desc lang="en">Riley and her five core emotions struggle to cope with her new life in San Francisco.</desc>
+    <icon src="http://ttpl.tmsimg.com/assets/p10840532_v_h8_ae.jpg?lock=1280x720"/>
   </programme>
-  <programme start="20260825123000 +0000" stop="20260825153000 +0000" channel="StarMoviesSelect.in">
-    <title lang="en">Movie</title>
-    <desc lang="en">Bringing the best in television.</desc>
-    <icon src="http://ttpl.tmsimg.com/assets/p809737_b_h8_bq.jpg?lock=1280x720"/>
+  <programme start="20260825051300 +0000" stop="20260825065000 +0000" channel="StarMoviesSelect.in">
+    <title lang="en">The Overnight</title>
+    <desc lang="en">Alex, Emily, and RJ migrate to Los Angeles where they encounter Kurt, Charlotte and Max.</desc>
+    <icon src="http://ttpl.tmsimg.com/assets/p11738169_v_h10_aj.jpg?lock=1280x720"/>
   </programme>
-  <programme start="20260825153000 +0000" stop="20260825192700 +0000" channel="StarMoviesSelect.in">
-    <title lang="en">Movie</title>
-    <desc lang="en">Bringing the best in television.</desc>
-    <icon src="http://ttpl.tmsimg.com/assets/p809737_b_h8_bq.jpg?lock=1280x720"/>
+  <programme start="20260825065000 +0000" stop="20260825081200 +0000" channel="StarMoviesSelect.in">
+    <title lang="en">Toy Story</title>
+    <desc lang="en">Andy's favourite toy, Woody, hatches a plan to eliminate his new toy, Buzz Lightyear.</desc>
+    <icon src="http://ttpl.tmsimg.com/assets/p17420_v_h10_ac.jpg?lock=1280x720"/>
+  </programme>
+  <programme start="20260825081200 +0000" stop="20260825102900 +0000" channel="StarMoviesSelect.in">
+    <title lang="en">Cruella</title>
+    <desc lang="en">Grifter Estella becomes vengeful Cruella after meeting a famous fashion designer.</desc>
+    <icon src="http://ttpl.tmsimg.com/assets/p18828861_v_h11_al.jpg?lock=1280x720"/>
+  </programme>
+  <programme start="20260825102900 +0000" stop="20260825122300 +0000" channel="StarMoviesSelect.in">
+    <title lang="en">The Chronicles of Narnia: The Voyage of the Dawn Treader</title>
+    <desc lang="en">Three youngsters join an old friend on an ocean voyage in the fantasy realm of Narnia.</desc>
+    <icon src="http://ttpl.tmsimg.com/assets/p7945962_v_h8_aw.jpg?lock=1280x720"/>
+  </programme>
+  <programme start="20260825122300 +0000" stop="20260825124600 +0000" channel="StarMoviesSelect.in">
+    <title lang="en">Abracadavers</title>
+    <desc lang="en">Chris gets very obsessed with the hair chair that killed his mother. S01 E01.</desc>
+    <icon src="http://ttpl.tmsimg.com/assets/p25541501_b_h10_aa.jpg?lock=1280x720"/>
+  </programme>
+  <programme start="20260825124600 +0000" stop="20260825130700 +0000" channel="StarMoviesSelect.in">
+    <title lang="en">Abracadavers</title>
+    <desc lang="en">Maria seems to be glowing, while something is not right with Paul. S01 E04.</desc>
+    <icon src="http://ttpl.tmsimg.com/assets/p25541501_b_h10_aa.jpg?lock=1280x720"/>
+  </programme>
+  <programme start="20260825130700 +0000" stop="20260825132700 +0000" channel="StarMoviesSelect.in">
+    <title lang="en">Abracadavers</title>
+    <desc lang="en">Gabriel has some concerns and voices them, while Maria reaches her breaking point. S01 E05.</desc>
+    <icon src="http://ttpl.tmsimg.com/assets/p25541501_b_h10_aa.jpg?lock=1280x720"/>
+  </programme>
+  <programme start="20260825132700 +0000" stop="20260825135400 +0000" channel="StarMoviesSelect.in">
+    <title lang="en">Abracadavers</title>
+    <desc lang="en">The gang moves towards their destination, and later Gabriel shares some wisdom. S01 E08.</desc>
+    <icon src="http://ttpl.tmsimg.com/assets/p25541501_b_h10_aa.jpg?lock=1280x720"/>
+  </programme>
+  <programme start="20260825135400 +0000" stop="20260825153000 +0000" channel="StarMoviesSelect.in">
+    <title lang="en">Up</title>
+    <desc lang="en">A boy scout joins a 78-year-old on a quest to fulfil his late wife's last wish.</desc>
+    <icon src="http://ttpl.tmsimg.com/assets/p190662_v_h8_aq.jpg?lock=1280x720"/>
+  </programme>
+  <programme start="20260825153000 +0000" stop="20260825173600 +0000" channel="StarMoviesSelect.in">
+    <title lang="en">Planet of the Apes</title>
+    <desc lang="en">Astronaut discovers a world where apes dominate humans, leading to a battle for freedom.</desc>
+    <icon src="http://ttpl.tmsimg.com/assets/p28092_v_h10_an.jpg?lock=1280x720"/>
+  </programme>
+  <programme start="20260825173600 +0000" stop="20260825192600 +0000" channel="StarMoviesSelect.in">
+    <title lang="en">Samson</title>
+    <desc lang="en">A Nazirite finds himself entangled in a prince's wicked plot, leading him to seek revenge.</desc>
+    <icon src="http://ttpl.tmsimg.com/assets/p28591826_v_h8_aa.jpg?lock=1280x720"/>
   </programme>
   <programme start="20260825192700 +0000" stop="20260825205000 +0000" channel="StarMoviesSelect.in">
     <title lang="en">Movie</title>
@@ -25682,259 +25801,215 @@
   <programme start="20260826150000 +0000" stop="20260826170000 +0000" channel="VisionPrime.id">
     <title lang="id">Toonpur Ka Superhero</title>
   </programme>
-  <programme start="20260823164000 +0000" stop="20260823170500 +0000" channel="WarnerTV.id">
-    <title lang="id">The Big Bang Theory S7 - Eps. 7</title>
-    <desc lang="id">Kelompok ilmuwan jenius namun canggung secara sosial menghadapi dinamika hubungan asmara baru, karier ilmiah yang naik turun, serta pertemanan penuh komedi.</desc>
-    <episode-num system="xmltv_ns">6.6.0/1</episode-num>
-    <episode-num system="onscreen">S07E07</episode-num>
+  <programme start="20260824160000 +0000" stop="20260824181000 +0000" channel="WarnerTV.id">
+    <title lang="id">King Arthur: Legend Of The Sword</title>
+    <desc lang="id">Film fantasi petualangan yang menceritakan Arthur muda menemukan pedang Excalibur dan menghadapi takdirnya sebagai raja melawan tirani Vortigern.</desc>
   </programme>
-  <programme start="20260823170500 +0000" stop="20260823173000 +0000" channel="WarnerTV.id">
-    <title lang="id">The Big Bang Theory S7 - Eps. 8</title>
-    <desc lang="id">Kelompok ilmuwan jenius namun canggung secara sosial menghadapi dinamika hubungan asmara baru, karier ilmiah yang naik turun, serta pertemanan penuh komedi.</desc>
-    <episode-num system="xmltv_ns">6.7.0/1</episode-num>
-    <episode-num system="onscreen">S07E08</episode-num>
-  </programme>
-  <programme start="20260823173000 +0000" stop="20260823175500 +0000" channel="WarnerTV.id">
-    <title lang="id">The Big Bang Theory S7 - Eps. 9</title>
-    <desc lang="id">Kelompok ilmuwan jenius namun canggung secara sosial menghadapi dinamika hubungan asmara baru, karier ilmiah yang naik turun, serta pertemanan penuh komedi.</desc>
-    <episode-num system="xmltv_ns">6.8.0/1</episode-num>
-    <episode-num system="onscreen">S07E09</episode-num>
-  </programme>
-  <programme start="20260823175500 +0000" stop="20260823181500 +0000" channel="WarnerTV.id">
-    <title lang="id">Dirty Money S1 - Eps. 5</title>
-    <desc lang="id">Serial dokumenter yang mengungkap skandal keuangan terbesar di dunia, membongkar praktik curang para korporasi dan dampaknya pada masyarakat luas.</desc>
-    <episode-num system="xmltv_ns">0.4.0/1</episode-num>
-    <episode-num system="onscreen">S01E05</episode-num>
-  </programme>
-  <programme start="20260823181500 +0000" stop="20260823184000 +0000" channel="WarnerTV.id">
-    <title lang="id">Dirty Money S1 - Eps. 6</title>
-    <desc lang="id">Serial dokumenter yang mengungkap skandal keuangan terbesar di dunia, membongkar praktik curang para korporasi dan dampaknya pada masyarakat luas.</desc>
-    <episode-num system="xmltv_ns">0.5.0/1</episode-num>
-    <episode-num system="onscreen">S01E06</episode-num>
-  </programme>
-  <programme start="20260823184000 +0000" stop="20260823190500 +0000" channel="WarnerTV.id">
-    <title lang="id">Dirty Money S1 - Eps. 7</title>
-    <desc lang="id">Serial dokumenter yang mengungkap skandal keuangan terbesar di dunia, membongkar praktik curang para korporasi dan dampaknya pada masyarakat luas.</desc>
-    <episode-num system="xmltv_ns">0.6.0/1</episode-num>
-    <episode-num system="onscreen">S01E07</episode-num>
-  </programme>
-  <programme start="20260823190500 +0000" stop="20260823193000 +0000" channel="WarnerTV.id">
-    <title lang="id">Dirty Money S1 - Eps. 8</title>
-    <desc lang="id">Serial dokumenter yang mengungkap skandal keuangan terbesar di dunia, membongkar praktik curang para korporasi dan dampaknya pada masyarakat luas.</desc>
-    <episode-num system="xmltv_ns">0.7.0/1</episode-num>
-    <episode-num system="onscreen">S01E08</episode-num>
-  </programme>
-  <programme start="20260823193000 +0000" stop="20260823195500 +0000" channel="WarnerTV.id">
-    <title lang="id">Dirty Money S1 - Eps. 9</title>
-    <desc lang="id">Serial dokumenter yang mengungkap skandal keuangan terbesar di dunia, membongkar praktik curang para korporasi dan dampaknya pada masyarakat luas.</desc>
-    <episode-num system="xmltv_ns">0.8.0/1</episode-num>
-    <episode-num system="onscreen">S01E09</episode-num>
-  </programme>
-  <programme start="20260823195500 +0000" stop="20260823202000 +0000" channel="WarnerTV.id">
-    <title lang="id">Dirty Money S1 - Eps. 10</title>
-    <desc lang="id">Serial dokumenter yang mengungkap skandal keuangan terbesar di dunia, membongkar praktik curang para korporasi dan dampaknya pada masyarakat luas.</desc>
-    <episode-num system="xmltv_ns">0.9.0/1</episode-num>
-    <episode-num system="onscreen">S01E10</episode-num>
-  </programme>
-  <programme start="20260823202000 +0000" stop="20260823204500 +0000" channel="WarnerTV.id">
-    <title lang="id">Dirty Money S1 - Eps. 11</title>
-    <desc lang="id">Serial dokumenter yang mengungkap skandal keuangan terbesar di dunia, membongkar praktik curang para korporasi dan dampaknya pada masyarakat luas.</desc>
-    <episode-num system="xmltv_ns">0.10.0/1</episode-num>
-    <episode-num system="onscreen">S01E11</episode-num>
-  </programme>
-  <programme start="20260823204500 +0000" stop="20260823211000 +0000" channel="WarnerTV.id">
-    <title lang="id">Dirty Money S1 - Eps. 12</title>
-    <desc lang="id">Serial dokumenter yang mengungkap skandal keuangan terbesar di dunia, membongkar praktik curang para korporasi dan dampaknya pada masyarakat luas.</desc>
-    <episode-num system="xmltv_ns">0.11.0/1</episode-num>
-    <episode-num system="onscreen">S01E12</episode-num>
-  </programme>
-  <programme start="20260823211000 +0000" stop="20260823213500 +0000" channel="WarnerTV.id">
-    <title lang="id">The Carbonaro Effect Special: Cause &amp; Effect Second Edition</title>
-    <desc lang="id">Koleksi trik sulap paling menakjubkan Carbonaro, disertai reaksi asli korban.</desc>
-  </programme>
-  <programme start="20260823213500 +0000" stop="20260823220000 +0000" channel="WarnerTV.id">
-    <title lang="id">The Carbonaro Effect Special: Exposed</title>
-    <desc lang="id">Carbonaro mengungkap rahasia di balik trik-trik terkenalnya, dengan cuplikan eksklusif dan komentar.</desc>
-  </programme>
-  <programme start="20260823220000 +0000" stop="20260823222500 +0000" channel="WarnerTV.id">
-    <title lang="id">Container Wars S3 - Eps. 4</title>
-    <desc lang="id">Kompetisi lelang kontainer semakin sengit, memunculkan strategi licik dan kemenangan mengejutkan.</desc>
-    <episode-num system="xmltv_ns">2.3.0/1</episode-num>
-    <episode-num system="onscreen">S03E04</episode-num>
-  </programme>
-  <programme start="20260823222500 +0000" stop="20260823225000 +0000" channel="WarnerTV.id">
-    <title lang="id">Container Wars S3 - Eps. 5</title>
-    <desc lang="id">Kompetisi lelang kontainer semakin sengit, memunculkan strategi licik dan kemenangan mengejutkan.</desc>
-    <episode-num system="xmltv_ns">2.4.0/1</episode-num>
-    <episode-num system="onscreen">S03E05</episode-num>
-  </programme>
-  <programme start="20260823225000 +0000" stop="20260823234000 +0000" channel="WarnerTV.id">
-    <title lang="id">World's Dumbest S15 - Eps. 4</title>
-    <desc lang="id">Program komedi yang menghadirkan cuplikan aksi konyol dan blunder lucu dari seluruh dunia, dikomentari secara jenaka oleh panel selebriti.</desc>
-    <episode-num system="xmltv_ns">14.3.0/1</episode-num>
-    <episode-num system="onscreen">S15E04</episode-num>
-  </programme>
-  <programme start="20260823234000 +0000" stop="20260824000500 +0000" channel="WarnerTV.id">
-    <title lang="id">The Carbonaro Effect Special: Critter Countdown</title>
-    <desc lang="id">Kumpulan trik terbaik Carbonaro diputar ulang dengan reaksi lucu dan komentar di balik layar yang mengungkap rahasia adegan.</desc>
-  </programme>
-  <programme start="20260824000500 +0000" stop="20260824003000 +0000" channel="WarnerTV.id">
-    <title lang="id">The Carbonaro Effect Special: Top 5 Freakouts</title>
-    <desc lang="id">Kumpulan trik terbaik Carbonaro diputar ulang dengan reaksi lucu dan komentar di balik layar yang mengungkap rahasia adegan.</desc>
-  </programme>
-  <programme start="20260824003000 +0000" stop="20260824012000 +0000" channel="WarnerTV.id">
-    <title lang="id">The Mentalist S6 - Eps. 15</title>
-    <desc lang="id">Patrick Jane semakin dekat dengan identitas Red John saat ia terus membantu CBI memecahkan kasus-kasus rumit.</desc>
-    <episode-num system="xmltv_ns">5.14.0/1</episode-num>
-    <episode-num system="onscreen">S06E15</episode-num>
-  </programme>
-  <programme start="20260824012000 +0000" stop="20260824014500 +0000" channel="WarnerTV.id">
-    <title lang="id">Container Wars S3 - Eps. 4</title>
-    <desc lang="id">Kompetisi lelang kontainer semakin sengit, memunculkan strategi licik dan kemenangan mengejutkan.</desc>
-    <episode-num system="xmltv_ns">2.3.0/1</episode-num>
-    <episode-num system="onscreen">S03E04</episode-num>
-  </programme>
-  <programme start="20260824014500 +0000" stop="20260824021000 +0000" channel="WarnerTV.id">
-    <title lang="id">Container Wars S3 - Eps. 5</title>
-    <desc lang="id">Kompetisi lelang kontainer semakin sengit, memunculkan strategi licik dan kemenangan mengejutkan.</desc>
-    <episode-num system="xmltv_ns">2.4.0/1</episode-num>
-    <episode-num system="onscreen">S03E05</episode-num>
-  </programme>
-  <programme start="20260824021000 +0000" stop="20260824030000 +0000" channel="WarnerTV.id">
-    <title lang="id">Dodgeball Thunderdome S1 - Eps. 5</title>
-    <desc lang="id">Kontestan bertarung di arena dodgeball raksasa penuh rintangan unik, menguji kelincahan dan strategi.</desc>
-    <episode-num system="xmltv_ns">0.4.0/1</episode-num>
-    <episode-num system="onscreen">S01E05</episode-num>
-  </programme>
-  <programme start="20260824030000 +0000" stop="20260824032500 +0000" channel="WarnerTV.id">
-    <title lang="id">Storage Hunters S4 - Eps. 13</title>
-    <desc lang="id">Para pemburu gudang mengincar jackpot di balik pintu yang terkunci, penuh barang misterius.</desc>
-    <episode-num system="xmltv_ns">3.12.0/1</episode-num>
-    <episode-num system="onscreen">S04E13</episode-num>
-  </programme>
-  <programme start="20260824032500 +0000" stop="20260824035000 +0000" channel="WarnerTV.id">
-    <title lang="id">Impractical Jokers S5 - Eps. 13</title>
-    <desc lang="id">Empat sahabat saling memerintah melakukan aksi memalukan di depan umum, menciptakan momen tak terlupakan yang penuh tawa.</desc>
-    <episode-num system="xmltv_ns">4.12.0/1</episode-num>
-    <episode-num system="onscreen">S05E13</episode-num>
-  </programme>
-  <programme start="20260824035000 +0000" stop="20260824041500 +0000" channel="WarnerTV.id">
-    <title lang="id">The Carbonaro Effect Special: Critter Countdown</title>
-    <desc lang="id">Kumpulan trik terbaik Carbonaro diputar ulang dengan reaksi lucu dan komentar di balik layar yang mengungkap rahasia adegan.</desc>
-  </programme>
-  <programme start="20260824041500 +0000" stop="20260824044000 +0000" channel="WarnerTV.id">
-    <title lang="id">The Carbonaro Effect Special: Top 5 Freakouts</title>
-    <desc lang="id">Kumpulan trik terbaik Carbonaro diputar ulang dengan reaksi lucu dan komentar di balik layar yang mengungkap rahasia adegan.</desc>
-  </programme>
-  <programme start="20260824044000 +0000" stop="20260824053000 +0000" channel="WarnerTV.id">
-    <title lang="id">The Mentalist S6 - Eps. 15</title>
-    <desc lang="id">Patrick Jane semakin dekat dengan identitas Red John saat ia terus membantu CBI memecahkan kasus-kasus rumit.</desc>
-    <episode-num system="xmltv_ns">5.14.0/1</episode-num>
-    <episode-num system="onscreen">S06E15</episode-num>
-  </programme>
-  <programme start="20260824053000 +0000" stop="20260824055500 +0000" channel="WarnerTV.id">
-    <title lang="id">The Big Bang Theory S7 - Eps. 9</title>
-    <desc lang="id">Kelompok ilmuwan jenius namun canggung secara sosial menghadapi dinamika hubungan asmara baru, karier ilmiah yang naik turun, serta pertemanan penuh komedi.</desc>
-    <episode-num system="xmltv_ns">6.8.0/1</episode-num>
-    <episode-num system="onscreen">S07E09</episode-num>
-  </programme>
-  <programme start="20260824055500 +0000" stop="20260824062000 +0000" channel="WarnerTV.id">
-    <title lang="id">Friends S8 - Eps. 12</title>
-    <desc lang="id">Kelompok enam sahabat menghadapi babak baru kehidupan saat Rachel hamil, memicu kesalahpahaman lucu serta romansa rumit di antara mereka di kota New York.</desc>
-    <episode-num system="xmltv_ns">7.11.0/1</episode-num>
-    <episode-num system="onscreen">S08E12</episode-num>
-  </programme>
-  <programme start="20260824062000 +0000" stop="20260824071000 +0000" channel="WarnerTV.id">
-    <title lang="id">World's Dumbest S15 - Eps. 4</title>
-    <desc lang="id">Program komedi yang menghadirkan cuplikan aksi konyol dan blunder lucu dari seluruh dunia, dikomentari secara jenaka oleh panel selebriti.</desc>
-    <episode-num system="xmltv_ns">14.3.0/1</episode-num>
-    <episode-num system="onscreen">S15E04</episode-num>
-  </programme>
-  <programme start="20260824071000 +0000" stop="20260824080000 +0000" channel="WarnerTV.id">
-    <title lang="id">Dodgeball Thunderdome S1 - Eps. 5</title>
-    <desc lang="id">Kontestan bertarung di arena dodgeball raksasa penuh rintangan unik, menguji kelincahan dan strategi.</desc>
-    <episode-num system="xmltv_ns">0.4.0/1</episode-num>
-    <episode-num system="onscreen">S01E05</episode-num>
-  </programme>
-  <programme start="20260824080000 +0000" stop="20260824082500 +0000" channel="WarnerTV.id">
-    <title lang="id">The Big Bang Theory S7 - Eps. 9</title>
-    <desc lang="id">Kelompok ilmuwan jenius namun canggung secara sosial menghadapi dinamika hubungan asmara baru, karier ilmiah yang naik turun, serta pertemanan penuh komedi.</desc>
-    <episode-num system="xmltv_ns">6.8.0/1</episode-num>
-    <episode-num system="onscreen">S07E09</episode-num>
-  </programme>
-  <programme start="20260824082500 +0000" stop="20260824085000 +0000" channel="WarnerTV.id">
-    <title lang="id">Friends S8 - Eps. 12</title>
-    <desc lang="id">Kelompok enam sahabat menghadapi babak baru kehidupan saat Rachel hamil, memicu kesalahpahaman lucu serta romansa rumit di antara mereka di kota New York.</desc>
-    <episode-num system="xmltv_ns">7.11.0/1</episode-num>
-    <episode-num system="onscreen">S08E12</episode-num>
-  </programme>
-  <programme start="20260824085000 +0000" stop="20260824094000 +0000" channel="WarnerTV.id">
-    <title lang="id">The Mentalist S6 - Eps. 15</title>
-    <desc lang="id">Patrick Jane semakin dekat dengan identitas Red John saat ia terus membantu CBI memecahkan kasus-kasus rumit.</desc>
-    <episode-num system="xmltv_ns">5.14.0/1</episode-num>
-    <episode-num system="onscreen">S06E15</episode-num>
-  </programme>
-  <programme start="20260824094000 +0000" stop="20260824100500 +0000" channel="WarnerTV.id">
-    <title lang="id">The Carbonaro Effect Special: Critter Countdown</title>
-    <desc lang="id">Kumpulan trik terbaik Carbonaro diputar ulang dengan reaksi lucu dan komentar di balik layar yang mengungkap rahasia adegan.</desc>
-  </programme>
-  <programme start="20260824100500 +0000" stop="20260824103000 +0000" channel="WarnerTV.id">
-    <title lang="id">The Carbonaro Effect Special: Top 5 Freakouts</title>
-    <desc lang="id">Kumpulan trik terbaik Carbonaro diputar ulang dengan reaksi lucu dan komentar di balik layar yang mengungkap rahasia adegan.</desc>
-  </programme>
-  <programme start="20260824103000 +0000" stop="20260824105500 +0000" channel="WarnerTV.id">
-    <title lang="id">Container Wars S3 - Eps. 4</title>
-    <desc lang="id">Kompetisi lelang kontainer semakin sengit, memunculkan strategi licik dan kemenangan mengejutkan.</desc>
-    <episode-num system="xmltv_ns">2.3.0/1</episode-num>
-    <episode-num system="onscreen">S03E04</episode-num>
-  </programme>
-  <programme start="20260824105500 +0000" stop="20260824112000 +0000" channel="WarnerTV.id">
-    <title lang="id">Container Wars S3 - Eps. 5</title>
-    <desc lang="id">Kompetisi lelang kontainer semakin sengit, memunculkan strategi licik dan kemenangan mengejutkan.</desc>
-    <episode-num system="xmltv_ns">2.4.0/1</episode-num>
-    <episode-num system="onscreen">S03E05</episode-num>
-  </programme>
-  <programme start="20260824112000 +0000" stop="20260824114500 +0000" channel="WarnerTV.id">
-    <title lang="id">The Big Bang Theory S7 - Eps. 10</title>
-    <desc lang="id">Kelompok ilmuwan jenius namun canggung secara sosial menghadapi dinamika hubungan asmara baru, karier ilmiah yang naik turun, serta pertemanan penuh komedi.</desc>
-    <episode-num system="xmltv_ns">6.9.0/1</episode-num>
-    <episode-num system="onscreen">S07E10</episode-num>
-  </programme>
-  <programme start="20260824114500 +0000" stop="20260824121000 +0000" channel="WarnerTV.id">
-    <title lang="id">Friends S8 - Eps. 13</title>
-    <desc lang="id">Kelompok enam sahabat menghadapi babak baru kehidupan saat Rachel hamil, memicu kesalahpahaman lucu serta romansa rumit di antara mereka di kota New York.</desc>
-    <episode-num system="xmltv_ns">7.12.0/1</episode-num>
-    <episode-num system="onscreen">S08E13</episode-num>
-  </programme>
-  <programme start="20260824121000 +0000" stop="20260824123500 +0000" channel="WarnerTV.id">
-    <title lang="id">Storage Hunters S4 - Eps. 13</title>
-    <desc lang="id">Para pemburu gudang mengincar jackpot di balik pintu yang terkunci, penuh barang misterius.</desc>
-    <episode-num system="xmltv_ns">3.12.0/1</episode-num>
-    <episode-num system="onscreen">S04E13</episode-num>
-  </programme>
-  <programme start="20260824123500 +0000" stop="20260824130000 +0000" channel="WarnerTV.id">
-    <title lang="id">Impractical Jokers S5 - Eps. 13</title>
-    <desc lang="id">Empat sahabat saling memerintah melakukan aksi memalukan di depan umum, menciptakan momen tak terlupakan yang penuh tawa.</desc>
-    <episode-num system="xmltv_ns">4.12.0/1</episode-num>
-    <episode-num system="onscreen">S05E13</episode-num>
-  </programme>
-  <programme start="20260824130000 +0000" stop="20260824135000 +0000" channel="WarnerTV.id">
+  <programme start="20260824181000 +0000" stop="20260824190000 +0000" channel="WarnerTV.id">
     <title lang="id">Titans S2 - Eps. 4</title>
     <desc lang="id">Setelah kekalahan Trigon, Dick Grayson mengumpulkan kembali tim Titans muda. Namun, masa lalu mereka kembali menghantui saat pembunuh bayaran berbahaya, Deathstroke, datang mengintai.</desc>
     <episode-num system="xmltv_ns">1.3.0/1</episode-num>
     <episode-num system="onscreen">S02E04</episode-num>
   </programme>
-  <programme start="20260824135000 +0000" stop="20260824160000 +0000" channel="WarnerTV.id">
-    <title lang="id">Justice League (2017)</title>
-    <desc lang="id">Batman, Wonder Woman, dan pahlawan lainnya bergabung untuk menghadapi ancaman global yang bisa memusnahkan umat manusia.</desc>
+  <programme start="20260824190000 +0000" stop="20260824192000 +0000" channel="WarnerTV.id">
+    <title lang="id">The Carbonaro Effect Special: Top 5 Freakouts</title>
+    <desc lang="id">Kumpulan trik terbaik Carbonaro diputar ulang dengan reaksi lucu dan komentar di balik layar yang mengungkap rahasia adegan.</desc>
   </programme>
-  <programme start="20260824160000 +0000" stop="20260824181000 +0000" channel="WarnerTV.id">
-    <title lang="id">King Arthur: Legend Of The Sword</title>
-    <desc lang="id">Film fantasi petualangan yang menceritakan Arthur muda menemukan pedang Excalibur dan menghadapi takdirnya sebagai raja melawan tirani Vortigern.</desc>
+  <programme start="20260824192000 +0000" stop="20260824200500 +0000" channel="WarnerTV.id">
+    <title lang="id">The Mentalist S6 - Eps. 15</title>
+    <desc lang="id">Patrick Jane semakin dekat dengan identitas Red John saat ia terus membantu CBI memecahkan kasus-kasus rumit.</desc>
+    <episode-num system="xmltv_ns">5.14.0/1</episode-num>
+    <episode-num system="onscreen">S06E15</episode-num>
   </programme>
-  <programme start="20260824160000 +0000" stop="20260824181000 +0000" channel="WarnerTV.id">
-    <title lang="id">King Arthur: Legend Of The Sword</title>
-    <desc lang="id">Film fantasi petualangan yang menceritakan Arthur muda menemukan pedang Excalibur dan menghadapi takdirnya sebagai raja melawan tirani Vortigern.</desc>
+  <programme start="20260824200500 +0000" stop="20260824205000 +0000" channel="WarnerTV.id">
+    <title lang="id">Dodgeball Thunderdome S1 - Eps. 5</title>
+    <desc lang="id">Kontestan bertarung di arena dodgeball raksasa penuh rintangan unik, menguji kelincahan dan strategi.</desc>
+    <episode-num system="xmltv_ns">0.4.0/1</episode-num>
+    <episode-num system="onscreen">S01E05</episode-num>
+  </programme>
+  <programme start="20260824205000 +0000" stop="20260824213500 +0000" channel="WarnerTV.id">
+    <title lang="id">World's Dumbest S15 - Eps. 4</title>
+    <desc lang="id">Program komedi yang menghadirkan cuplikan aksi konyol dan blunder lucu dari seluruh dunia, dikomentari secara jenaka oleh panel selebriti.</desc>
+    <episode-num system="xmltv_ns">14.3.0/1</episode-num>
+    <episode-num system="onscreen">S15E04</episode-num>
+  </programme>
+  <programme start="20260824213500 +0000" stop="20260824220000 +0000" channel="WarnerTV.id">
+    <title lang="id">Impractical Jokers S5 - Eps. 13</title>
+    <desc lang="id">Empat sahabat saling memerintah melakukan aksi memalukan di depan umum, menciptakan momen tak terlupakan yang penuh tawa.</desc>
+    <episode-num system="xmltv_ns">4.12.0/1</episode-num>
+    <episode-num system="onscreen">S05E13</episode-num>
+  </programme>
+  <programme start="20260824220000 +0000" stop="20260824222500 +0000" channel="WarnerTV.id">
+    <title lang="id">Container Wars S3 - Eps. 6</title>
+    <desc lang="id">Kompetisi lelang kontainer semakin sengit, memunculkan strategi licik dan kemenangan mengejutkan.</desc>
+    <episode-num system="xmltv_ns">2.5.0/1</episode-num>
+    <episode-num system="onscreen">S03E06</episode-num>
+  </programme>
+  <programme start="20260824222500 +0000" stop="20260824225000 +0000" channel="WarnerTV.id">
+    <title lang="id">Container Wars S3 - Eps. 7</title>
+    <desc lang="id">Kompetisi lelang kontainer semakin sengit, memunculkan strategi licik dan kemenangan mengejutkan.</desc>
+    <episode-num system="xmltv_ns">2.6.0/1</episode-num>
+    <episode-num system="onscreen">S03E07</episode-num>
+  </programme>
+  <programme start="20260824225000 +0000" stop="20260824234000 +0000" channel="WarnerTV.id">
+    <title lang="id">World's Dumbest S15 - Eps. 5</title>
+    <desc lang="id">Program komedi yang menghadirkan cuplikan aksi konyol dan blunder lucu dari seluruh dunia, dikomentari secara jenaka oleh panel selebriti.</desc>
+    <episode-num system="xmltv_ns">14.4.0/1</episode-num>
+    <episode-num system="onscreen">S15E05</episode-num>
+  </programme>
+  <programme start="20260824234000 +0000" stop="20260825000500 +0000" channel="WarnerTV.id">
+    <title lang="id">The Carbonaro Effect Special: Secret Stash</title>
+    <desc lang="id">Kumpulan trik terbaik Carbonaro diputar ulang dengan reaksi lucu dan komentar di balik layar yang mengungkap rahasia adegan.</desc>
+  </programme>
+  <programme start="20260825000500 +0000" stop="20260825003000 +0000" channel="WarnerTV.id">
+    <title lang="id">The Carbonaro Effect Special: Behind The Curtain</title>
+    <desc lang="id">Kumpulan trik terbaik Carbonaro diputar ulang dengan reaksi lucu dan komentar di balik layar yang mengungkap rahasia adegan.</desc>
+  </programme>
+  <programme start="20260825003000 +0000" stop="20260825012000 +0000" channel="WarnerTV.id">
+    <title lang="id">The Mentalist S6 - Eps. 16</title>
+    <desc lang="id">Patrick Jane semakin dekat dengan identitas Red John saat ia terus membantu CBI memecahkan kasus-kasus rumit.</desc>
+    <episode-num system="xmltv_ns">5.15.0/1</episode-num>
+    <episode-num system="onscreen">S06E16</episode-num>
+  </programme>
+  <programme start="20260825012000 +0000" stop="20260825014500 +0000" channel="WarnerTV.id">
+    <title lang="id">Container Wars S3 - Eps. 6</title>
+    <desc lang="id">Kompetisi lelang kontainer semakin sengit, memunculkan strategi licik dan kemenangan mengejutkan.</desc>
+    <episode-num system="xmltv_ns">2.5.0/1</episode-num>
+    <episode-num system="onscreen">S03E06</episode-num>
+  </programme>
+  <programme start="20260825014500 +0000" stop="20260825021000 +0000" channel="WarnerTV.id">
+    <title lang="id">Container Wars S3 - Eps. 7</title>
+    <desc lang="id">Kompetisi lelang kontainer semakin sengit, memunculkan strategi licik dan kemenangan mengejutkan.</desc>
+    <episode-num system="xmltv_ns">2.6.0/1</episode-num>
+    <episode-num system="onscreen">S03E07</episode-num>
+  </programme>
+  <programme start="20260825021000 +0000" stop="20260825030000 +0000" channel="WarnerTV.id">
+    <title lang="id">Dodgeball Thunderdome S1 - Eps. 6</title>
+    <desc lang="id">Kontestan bertarung di arena dodgeball raksasa penuh rintangan unik, menguji kelincahan dan strategi.</desc>
+    <episode-num system="xmltv_ns">0.5.0/1</episode-num>
+    <episode-num system="onscreen">S01E06</episode-num>
+  </programme>
+  <programme start="20260825030000 +0000" stop="20260825032500 +0000" channel="WarnerTV.id">
+    <title lang="id">Storage Hunters S5 - Eps. 1</title>
+    <desc lang="id">Para pemburu gudang mengincar jackpot di balik pintu yang terkunci, penuh barang misterius.</desc>
+    <episode-num system="xmltv_ns">4.0.0/1</episode-num>
+    <episode-num system="onscreen">S05E01</episode-num>
+  </programme>
+  <programme start="20260825032500 +0000" stop="20260825035000 +0000" channel="WarnerTV.id">
+    <title lang="id">Impractical Jokers S5 - Eps. 14</title>
+    <desc lang="id">Empat sahabat saling memerintah melakukan aksi memalukan di depan umum, menciptakan momen tak terlupakan yang penuh tawa.</desc>
+    <episode-num system="xmltv_ns">4.13.0/1</episode-num>
+    <episode-num system="onscreen">S05E14</episode-num>
+  </programme>
+  <programme start="20260825035000 +0000" stop="20260825041500 +0000" channel="WarnerTV.id">
+    <title lang="id">The Carbonaro Effect Special: Secret Stash</title>
+    <desc lang="id">Kumpulan trik terbaik Carbonaro diputar ulang dengan reaksi lucu dan komentar di balik layar yang mengungkap rahasia adegan.</desc>
+  </programme>
+  <programme start="20260825041500 +0000" stop="20260825044000 +0000" channel="WarnerTV.id">
+    <title lang="id">The Carbonaro Effect Special: Behind The Curtain</title>
+    <desc lang="id">Kumpulan trik terbaik Carbonaro diputar ulang dengan reaksi lucu dan komentar di balik layar yang mengungkap rahasia adegan.</desc>
+  </programme>
+  <programme start="20260825044000 +0000" stop="20260825053000 +0000" channel="WarnerTV.id">
+    <title lang="id">The Mentalist S6 - Eps. 16</title>
+    <desc lang="id">Patrick Jane semakin dekat dengan identitas Red John saat ia terus membantu CBI memecahkan kasus-kasus rumit.</desc>
+    <episode-num system="xmltv_ns">5.15.0/1</episode-num>
+    <episode-num system="onscreen">S06E16</episode-num>
+  </programme>
+  <programme start="20260825053000 +0000" stop="20260825055500 +0000" channel="WarnerTV.id">
+    <title lang="id">The Big Bang Theory S7 - Eps. 10</title>
+    <desc lang="id">Kelompok ilmuwan jenius namun canggung secara sosial menghadapi dinamika hubungan asmara baru, karier ilmiah yang naik turun, serta pertemanan penuh komedi.</desc>
+    <episode-num system="xmltv_ns">6.9.0/1</episode-num>
+    <episode-num system="onscreen">S07E10</episode-num>
+  </programme>
+  <programme start="20260825055500 +0000" stop="20260825062000 +0000" channel="WarnerTV.id">
+    <title lang="id">Friends S8 - Eps. 13</title>
+    <desc lang="id">Kelompok enam sahabat menghadapi babak baru kehidupan saat Rachel hamil, memicu kesalahpahaman lucu serta romansa rumit di antara mereka di kota New York.</desc>
+    <episode-num system="xmltv_ns">7.12.0/1</episode-num>
+    <episode-num system="onscreen">S08E13</episode-num>
+  </programme>
+  <programme start="20260825062000 +0000" stop="20260825071000 +0000" channel="WarnerTV.id">
+    <title lang="id">World's Dumbest S15 - Eps. 5</title>
+    <desc lang="id">Program komedi yang menghadirkan cuplikan aksi konyol dan blunder lucu dari seluruh dunia, dikomentari secara jenaka oleh panel selebriti.</desc>
+    <episode-num system="xmltv_ns">14.4.0/1</episode-num>
+    <episode-num system="onscreen">S15E05</episode-num>
+  </programme>
+  <programme start="20260825071000 +0000" stop="20260825080000 +0000" channel="WarnerTV.id">
+    <title lang="id">Dodgeball Thunderdome S1 - Eps. 6</title>
+    <desc lang="id">Kontestan bertarung di arena dodgeball raksasa penuh rintangan unik, menguji kelincahan dan strategi.</desc>
+    <episode-num system="xmltv_ns">0.5.0/1</episode-num>
+    <episode-num system="onscreen">S01E06</episode-num>
+  </programme>
+  <programme start="20260825080000 +0000" stop="20260825082500 +0000" channel="WarnerTV.id">
+    <title lang="id">The Big Bang Theory S7 - Eps. 10</title>
+    <desc lang="id">Kelompok ilmuwan jenius namun canggung secara sosial menghadapi dinamika hubungan asmara baru, karier ilmiah yang naik turun, serta pertemanan penuh komedi.</desc>
+    <episode-num system="xmltv_ns">6.9.0/1</episode-num>
+    <episode-num system="onscreen">S07E10</episode-num>
+  </programme>
+  <programme start="20260825082500 +0000" stop="20260825085000 +0000" channel="WarnerTV.id">
+    <title lang="id">Friends S8 - Eps. 13</title>
+    <desc lang="id">Kelompok enam sahabat menghadapi babak baru kehidupan saat Rachel hamil, memicu kesalahpahaman lucu serta romansa rumit di antara mereka di kota New York.</desc>
+    <episode-num system="xmltv_ns">7.12.0/1</episode-num>
+    <episode-num system="onscreen">S08E13</episode-num>
+  </programme>
+  <programme start="20260825085000 +0000" stop="20260825094000 +0000" channel="WarnerTV.id">
+    <title lang="id">The Mentalist S6 - Eps. 16</title>
+    <desc lang="id">Patrick Jane semakin dekat dengan identitas Red John saat ia terus membantu CBI memecahkan kasus-kasus rumit.</desc>
+    <episode-num system="xmltv_ns">5.15.0/1</episode-num>
+    <episode-num system="onscreen">S06E16</episode-num>
+  </programme>
+  <programme start="20260825094000 +0000" stop="20260825100500 +0000" channel="WarnerTV.id">
+    <title lang="id">The Carbonaro Effect Special: Secret Stash</title>
+    <desc lang="id">Kumpulan trik terbaik Carbonaro diputar ulang dengan reaksi lucu dan komentar di balik layar yang mengungkap rahasia adegan.</desc>
+  </programme>
+  <programme start="20260825100500 +0000" stop="20260825103000 +0000" channel="WarnerTV.id">
+    <title lang="id">The Carbonaro Effect Special: Behind The Curtain</title>
+    <desc lang="id">Kumpulan trik terbaik Carbonaro diputar ulang dengan reaksi lucu dan komentar di balik layar yang mengungkap rahasia adegan.</desc>
+  </programme>
+  <programme start="20260825103000 +0000" stop="20260825105500 +0000" channel="WarnerTV.id">
+    <title lang="id">Container Wars S3 - Eps. 6</title>
+    <desc lang="id">Kompetisi lelang kontainer semakin sengit, memunculkan strategi licik dan kemenangan mengejutkan.</desc>
+    <episode-num system="xmltv_ns">2.5.0/1</episode-num>
+    <episode-num system="onscreen">S03E06</episode-num>
+  </programme>
+  <programme start="20260825105500 +0000" stop="20260825112000 +0000" channel="WarnerTV.id">
+    <title lang="id">Container Wars S3 - Eps. 7</title>
+    <desc lang="id">Kompetisi lelang kontainer semakin sengit, memunculkan strategi licik dan kemenangan mengejutkan.</desc>
+    <episode-num system="xmltv_ns">2.6.0/1</episode-num>
+    <episode-num system="onscreen">S03E07</episode-num>
+  </programme>
+  <programme start="20260825112000 +0000" stop="20260825114500 +0000" channel="WarnerTV.id">
+    <title lang="id">The Big Bang Theory S7 - Eps. 11</title>
+    <desc lang="id">Kelompok ilmuwan jenius namun canggung secara sosial menghadapi dinamika hubungan asmara baru, karier ilmiah yang naik turun, serta pertemanan penuh komedi.</desc>
+    <episode-num system="xmltv_ns">6.10.0/1</episode-num>
+    <episode-num system="onscreen">S07E11</episode-num>
+  </programme>
+  <programme start="20260825114500 +0000" stop="20260825121000 +0000" channel="WarnerTV.id">
+    <title lang="id">Friends S8 - Eps. 14</title>
+    <desc lang="id">Kelompok enam sahabat menghadapi babak baru kehidupan saat Rachel hamil, memicu kesalahpahaman lucu serta romansa rumit di antara mereka di kota New York.</desc>
+    <episode-num system="xmltv_ns">7.13.0/1</episode-num>
+    <episode-num system="onscreen">S08E14</episode-num>
+  </programme>
+  <programme start="20260825121000 +0000" stop="20260825123500 +0000" channel="WarnerTV.id">
+    <title lang="id">Storage Hunters S5 - Eps. 1</title>
+    <desc lang="id">Para pemburu gudang mengincar jackpot di balik pintu yang terkunci, penuh barang misterius.</desc>
+    <episode-num system="xmltv_ns">4.0.0/1</episode-num>
+    <episode-num system="onscreen">S05E01</episode-num>
+  </programme>
+  <programme start="20260825123500 +0000" stop="20260825130000 +0000" channel="WarnerTV.id">
+    <title lang="id">Impractical Jokers S5 - Eps. 14</title>
+    <desc lang="id">Empat sahabat saling memerintah melakukan aksi memalukan di depan umum, menciptakan momen tak terlupakan yang penuh tawa.</desc>
+    <episode-num system="xmltv_ns">4.13.0/1</episode-num>
+    <episode-num system="onscreen">S05E14</episode-num>
+  </programme>
+  <programme start="20260825130000 +0000" stop="20260825135000 +0000" channel="WarnerTV.id">
+    <title lang="id">Titans S2 - Eps. 5</title>
+    <desc lang="id">Setelah kekalahan Trigon, Dick Grayson mengumpulkan kembali tim Titans muda. Namun, masa lalu mereka kembali menghantui saat pembunuh bayaran berbahaya, Deathstroke, datang mengintai.</desc>
+    <episode-num system="xmltv_ns">1.4.0/1</episode-num>
+    <episode-num system="onscreen">S02E05</episode-num>
+  </programme>
+  <programme start="20260825135000 +0000" stop="20260825160000 +0000" channel="WarnerTV.id">
+    <title lang="id">The Town</title>
+    <desc lang="id">Seorang perampok bank profesional jatuh hati pada saksi kunci perampokannya sambil mencoba kabur dari kejaran FBI.</desc>
   </programme>
   <programme start="20260823170000 +0000" stop="20260823200000 +0000" channel="ZeeBioskop.id">
     <title lang="id">RRR</title>
