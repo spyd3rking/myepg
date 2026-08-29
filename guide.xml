@@ -17731,59 +17731,6 @@
   <programme start="20260831160000 +0000" stop="20260831170000 +0000" channel="MNCTV.id">
     <title lang="id">Temen Ngekost</title>
   </programme>
-  <programme start="20260829003000 +0000" stop="20260829033000 +0000" channel="MNplus.in">
-    <title lang="en">Movie</title>
-    <desc lang="en">The movie name is yet to be announced by the channel.</desc>
-    <icon src="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/PROGRAM/LIVETV_PROGRAM_MNSYMPLUS_175132_29AUG060000_29AUG090000/images/LOGO/MoviesNowPlus_Movie_175132.png"/>
-    <image>https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/PROGRAM/LIVETV_PROGRAM_MNSYMPLUS_175132_29AUG060000_29AUG090000/images/LANDSCAPE_169_HD/MoviesNowPlus_Movie_175132.jpg</image>
-  </programme>
-  <programme start="20260829033000 +0000" stop="20260829063000 +0000" channel="MNplus.in">
-    <title lang="en">Movie</title>
-    <desc lang="en">The movie name is yet to be announced by the channel.</desc>
-    <icon src="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/PROGRAM/LIVETV_PROGRAM_MNSYMPLUS_175132_29AUG090000_29AUG120000/images/LOGO/MoviesNowPlus_Movie_175132.png"/>
-    <image>https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/PROGRAM/LIVETV_PROGRAM_MNSYMPLUS_175132_29AUG090000_29AUG120000/images/LANDSCAPE_169_HD/MoviesNowPlus_Movie_175132.jpg</image>
-  </programme>
-  <programme start="20260829063000 +0000" stop="20260829093000 +0000" channel="MNplus.in">
-    <title lang="en">Movie</title>
-    <desc lang="en">The movie name is yet to be announced by the channel.</desc>
-    <icon src="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/PROGRAM/LIVETV_PROGRAM_MNSYMPLUS_175132_29AUG120000_29AUG150000/images/LOGO/MoviesNowPlus_Movie_175132.png"/>
-    <image>https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/PROGRAM/LIVETV_PROGRAM_MNSYMPLUS_175132_29AUG120000_29AUG150000/images/LANDSCAPE_169_HD/MoviesNowPlus_Movie_175132.jpg</image>
-  </programme>
-  <programme start="20260829093000 +0000" stop="20260829123000 +0000" channel="MNplus.in">
-    <title lang="en">Movie</title>
-    <desc lang="en">The movie name is yet to be announced by the channel.</desc>
-    <icon src="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/PROGRAM/LIVETV_PROGRAM_MNSYMPLUS_175132_29AUG150000_29AUG180000/images/LOGO/MoviesNowPlus_Movie_175132.png"/>
-    <image>https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/PROGRAM/LIVETV_PROGRAM_MNSYMPLUS_175132_29AUG150000_29AUG180000/images/LANDSCAPE_169_HD/MoviesNowPlus_Movie_175132.jpg</image>
-  </programme>
-  <programme start="20260829123000 +0000" stop="20260829153000 +0000" channel="MNplus.in">
-    <title lang="en">Movie</title>
-    <desc lang="en">The movie name is yet to be announced by the channel.</desc>
-    <icon src="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/PROGRAM/LIVETV_PROGRAM_MNSYMPLUS_175132_29AUG180000_29AUG210000/images/LOGO/MoviesNowPlus_Movie_175132.png"/>
-    <image>https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/PROGRAM/LIVETV_PROGRAM_MNSYMPLUS_175132_29AUG180000_29AUG210000/images/LANDSCAPE_169_HD/MoviesNowPlus_Movie_175132.jpg</image>
-  </programme>
-  <programme start="20260829153000 +0000" stop="20260829190000 +0000" channel="MNplus.in">
-    <title lang="en">Movie</title>
-    <desc lang="en">The movie name is yet to be announced by the channel.</desc>
-    <icon src="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/PROGRAM/LIVETV_PROGRAM_MNSYMPLUS_175132_29AUG210000_30AUG003000/images/LOGO/MoviesNowPlus_Movie_175132.png"/>
-    <image>https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/PROGRAM/LIVETV_PROGRAM_MNSYMPLUS_175132_29AUG210000_30AUG003000/images/LANDSCAPE_169_HD/MoviesNowPlus_Movie_175132.jpg</image>
-  </programme>
-  <programme start="20260829190000 +0000" stop="20260829210400 +0000" channel="MNplus.in">
-    <title lang="en">Movie</title>
-    <desc lang="en">The movie name is yet to be announced by the channel.</desc>
-    <icon src="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/PROGRAM/LIVETV_PROGRAM_MNSYMPLUS_175132_30AUG003000_30AUG023400/images/LOGO/MoviesNowPlus_Movie_175132.png"/>
-    <image>https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/PROGRAM/LIVETV_PROGRAM_MNSYMPLUS_175132_30AUG003000_30AUG023400/images/LANDSCAPE_169_HD/MoviesNowPlus_Movie_175132.jpg</image>
-  </programme>
-  <programme start="20260829210400 +0000" stop="20260829225500 +0000" channel="MNplus.in">
-    <title lang="en">Movie</title>
-    <desc lang="en">The movie name is yet to be announced by the channel.</desc>
-    <icon src="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/PROGRAM/LIVETV_PROGRAM_MNSYMPLUS_175132_30AUG023400_30AUG042500/images/LOGO/MoviesNowPlus_Movie_175132.png"/>
-    <image>https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/PROGRAM/LIVETV_PROGRAM_MNSYMPLUS_175132_30AUG023400_30AUG042500/images/LANDSCAPE_169_HD/MoviesNowPlus_Movie_175132.jpg</image>
-  </programme>
-  <programme start="20260829225500 +0000" stop="20260829230900 +0000" channel="MNplus.in">
-    <title lang="en">LLL S03_MALLIKA SHERAWAT 03</title>
-    <desc lang="en">The host engages in a candid conversation with celebrity guests who share intimate details about their personal and professional lives.</desc>
-    <image>https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/PROGRAM/LIVETV_PROGRAM_MNSYMPLUS_2047396_30AUG042500_30AUG043900/images/LANDSCAPE_169/1772899285000_MNplusHD_LLLS03_MALLIKASHERAWAT03_2047396.jpg</image>
-  </programme>
   <programme start="20260829230900 +0000" stop="20260830005000 +0000" channel="MNplus.in">
     <title lang="en">Movie</title>
     <desc lang="en">The movie name is yet to be announced by the channel.</desc>
@@ -17795,12 +17742,6 @@
     <desc lang="en">The movie name is yet to be announced by the channel.</desc>
     <icon src="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/PROGRAM/LIVETV_PROGRAM_MNSYMPLUS_175132_30AUG062000_30AUG082100/images/LOGO/MoviesNowPlus_Movie_175132.png"/>
     <image>https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/PROGRAM/LIVETV_PROGRAM_MNSYMPLUS_175132_30AUG062000_30AUG082100/images/LANDSCAPE_169_HD/MoviesNowPlus_Movie_175132.jpg</image>
-  </programme>
-  <programme start="20260830025100 +0000" stop="20260830050400 +0000" channel="MNplus.in">
-    <title lang="en">Movie</title>
-    <desc lang="en">The movie name is yet to be announced by the channel.</desc>
-    <icon src="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/PROGRAM/LIVETV_PROGRAM_MNSYMPLUS_175132_30AUG082100_30AUG103400/images/LOGO/MoviesNowPlus_Movie_175132.png"/>
-    <image>https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/PROGRAM/LIVETV_PROGRAM_MNSYMPLUS_175132_30AUG082100_30AUG103400/images/LANDSCAPE_169_HD/MoviesNowPlus_Movie_175132.jpg</image>
   </programme>
   <programme start="20260830025100 +0000" stop="20260830050400 +0000" channel="MNplus.in">
     <title lang="en">Movie</title>
@@ -17862,17 +17803,17 @@
     <icon src="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/PROGRAM/LIVETV_PROGRAM_MNSYMPLUS_175132_31AUG031000_31AUG051400/images/LOGO/MoviesNowPlus_Movie_175132.png"/>
     <image>https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/PROGRAM/LIVETV_PROGRAM_MNSYMPLUS_175132_31AUG031000_31AUG051400/images/LANDSCAPE_169_HD/MoviesNowPlus_Movie_175132.jpg</image>
   </programme>
+  <programme start="20260830214000 +0000" stop="20260830234400 +0000" channel="MNplus.in">
+    <title lang="en">Movie</title>
+    <desc lang="en">The movie name is yet to be announced by the channel.</desc>
+    <icon src="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/PROGRAM/LIVETV_PROGRAM_MNSYMPLUS_175132_31AUG031000_31AUG051400/images/LOGO/MoviesNowPlus_Movie_175132.png"/>
+    <image>https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/PROGRAM/LIVETV_PROGRAM_MNSYMPLUS_175132_31AUG031000_31AUG051400/images/LANDSCAPE_169_HD/MoviesNowPlus_Movie_175132.jpg</image>
+  </programme>
   <programme start="20260830234400 +0000" stop="20260831015100 +0000" channel="MNplus.in">
     <title lang="en">Movie</title>
     <desc lang="en">The movie name is yet to be announced by the channel.</desc>
     <icon src="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/PROGRAM/LIVETV_PROGRAM_MNSYMPLUS_175132_31AUG051400_31AUG072100/images/LOGO/MoviesNowPlus_Movie_175132.png"/>
     <image>https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/PROGRAM/LIVETV_PROGRAM_MNSYMPLUS_175132_31AUG051400_31AUG072100/images/LANDSCAPE_169_HD/MoviesNowPlus_Movie_175132.jpg</image>
-  </programme>
-  <programme start="20260831015100 +0000" stop="20260831034700 +0000" channel="MNplus.in">
-    <title lang="en">Movie</title>
-    <desc lang="en">The movie name is yet to be announced by the channel.</desc>
-    <icon src="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/PROGRAM/LIVETV_PROGRAM_MNSYMPLUS_175132_31AUG072100_31AUG091700/images/LOGO/MoviesNowPlus_Movie_175132.png"/>
-    <image>https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/PROGRAM/LIVETV_PROGRAM_MNSYMPLUS_175132_31AUG072100_31AUG091700/images/LANDSCAPE_169_HD/MoviesNowPlus_Movie_175132.jpg</image>
   </programme>
   <programme start="20260831015100 +0000" stop="20260831034700 +0000" channel="MNplus.in">
     <title lang="en">Movie</title>
@@ -17950,6 +17891,12 @@
     <icon src="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/PROGRAM/LIVETV_PROGRAM_MNSYMPLUS_175132_01SEP032100_01SEP050300/images/LOGO/MoviesNowPlus_Movie_175132.png"/>
     <image>https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/PROGRAM/LIVETV_PROGRAM_MNSYMPLUS_175132_01SEP032100_01SEP050300/images/LANDSCAPE_169_HD/MoviesNowPlus_Movie_175132.jpg</image>
   </programme>
+  <programme start="20260831215100 +0000" stop="20260831233300 +0000" channel="MNplus.in">
+    <title lang="en">Movie</title>
+    <desc lang="en">The movie name is yet to be announced by the channel.</desc>
+    <icon src="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/PROGRAM/LIVETV_PROGRAM_MNSYMPLUS_175132_01SEP032100_01SEP050300/images/LOGO/MoviesNowPlus_Movie_175132.png"/>
+    <image>https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/PROGRAM/LIVETV_PROGRAM_MNSYMPLUS_175132_01SEP032100_01SEP050300/images/LANDSCAPE_169_HD/MoviesNowPlus_Movie_175132.jpg</image>
+  </programme>
   <programme start="20260831233300 +0000" stop="20260901012100 +0000" channel="MNplus.in">
     <title lang="en">Movie</title>
     <desc lang="en">The movie name is yet to be announced by the channel.</desc>
@@ -17968,52 +17915,74 @@
     <icon src="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/PROGRAM/LIVETV_PROGRAM_MNSYMPLUS_175132_01SEP084000_01SEP111100/images/LOGO/MoviesNowPlus_Movie_175132.png"/>
     <image>https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/PROGRAM/LIVETV_PROGRAM_MNSYMPLUS_175132_01SEP084000_01SEP111100/images/LANDSCAPE_169_HD/MoviesNowPlus_Movie_175132.jpg</image>
   </programme>
-  <programme start="20260829003000 +0000" stop="20260829033000 +0000" channel="MNX.in">
+  <programme start="20260901054100 +0000" stop="20260901075300 +0000" channel="MNplus.in">
     <title lang="en">Movie</title>
     <desc lang="en">The movie name is yet to be announced by the channel.</desc>
-    <icon src="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/PROGRAM/LIVETV_PROGRAM_MNX_HD_385679_29AUG060000_29AUG090000/images/LOGO/MNXHD_Movie_385679.png"/>
-    <image>https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/PROGRAM/LIVETV_PROGRAM_MNX_HD_385679_29AUG060000_29AUG090000/images/LANDSCAPE_169_HD/MNXHD_Movie_385679.jpg</image>
+    <icon src="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/PROGRAM/LIVETV_PROGRAM_MNSYMPLUS_175132_01SEP111100_01SEP132300/images/LOGO/MoviesNowPlus_Movie_175132.png"/>
+    <image>https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/PROGRAM/LIVETV_PROGRAM_MNSYMPLUS_175132_01SEP111100_01SEP132300/images/LANDSCAPE_169_HD/MoviesNowPlus_Movie_175132.jpg</image>
   </programme>
-  <programme start="20260829033000 +0000" stop="20260829063000 +0000" channel="MNX.in">
+  <programme start="20260901075300 +0000" stop="20260901094600 +0000" channel="MNplus.in">
     <title lang="en">Movie</title>
     <desc lang="en">The movie name is yet to be announced by the channel.</desc>
-    <icon src="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/PROGRAM/LIVETV_PROGRAM_MNX_HD_385679_29AUG090000_29AUG120000/images/LOGO/MNXHD_Movie_385679.png"/>
-    <image>https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/PROGRAM/LIVETV_PROGRAM_MNX_HD_385679_29AUG090000_29AUG120000/images/LANDSCAPE_169_HD/MNXHD_Movie_385679.jpg</image>
+    <icon src="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/PROGRAM/LIVETV_PROGRAM_MNSYMPLUS_175132_01SEP132300_01SEP151600/images/LOGO/MoviesNowPlus_Movie_175132.png"/>
+    <image>https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/PROGRAM/LIVETV_PROGRAM_MNSYMPLUS_175132_01SEP132300_01SEP151600/images/LANDSCAPE_169_HD/MoviesNowPlus_Movie_175132.jpg</image>
   </programme>
-  <programme start="20260829063000 +0000" stop="20260829093000 +0000" channel="MNX.in">
+  <programme start="20260901094600 +0000" stop="20260901114300 +0000" channel="MNplus.in">
     <title lang="en">Movie</title>
     <desc lang="en">The movie name is yet to be announced by the channel.</desc>
-    <icon src="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/PROGRAM/LIVETV_PROGRAM_MNX_HD_385679_29AUG120000_29AUG150000/images/LOGO/MNXHD_Movie_385679.png"/>
-    <image>https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/PROGRAM/LIVETV_PROGRAM_MNX_HD_385679_29AUG120000_29AUG150000/images/LANDSCAPE_169_HD/MNXHD_Movie_385679.jpg</image>
+    <icon src="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/PROGRAM/LIVETV_PROGRAM_MNSYMPLUS_175132_01SEP151600_01SEP171300/images/LOGO/MoviesNowPlus_Movie_175132.png"/>
+    <image>https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/PROGRAM/LIVETV_PROGRAM_MNSYMPLUS_175132_01SEP151600_01SEP171300/images/LANDSCAPE_169_HD/MoviesNowPlus_Movie_175132.jpg</image>
   </programme>
-  <programme start="20260829093000 +0000" stop="20260829123000 +0000" channel="MNX.in">
+  <programme start="20260901114300 +0000" stop="20260901133700 +0000" channel="MNplus.in">
     <title lang="en">Movie</title>
     <desc lang="en">The movie name is yet to be announced by the channel.</desc>
-    <icon src="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/PROGRAM/LIVETV_PROGRAM_MNX_HD_385679_29AUG150000_29AUG180000/images/LOGO/MNXHD_Movie_385679.png"/>
-    <image>https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/PROGRAM/LIVETV_PROGRAM_MNX_HD_385679_29AUG150000_29AUG180000/images/LANDSCAPE_169_HD/MNXHD_Movie_385679.jpg</image>
+    <icon src="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/PROGRAM/LIVETV_PROGRAM_MNSYMPLUS_175132_01SEP171300_01SEP190700/images/LOGO/MoviesNowPlus_Movie_175132.png"/>
+    <image>https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/PROGRAM/LIVETV_PROGRAM_MNSYMPLUS_175132_01SEP171300_01SEP190700/images/LANDSCAPE_169_HD/MoviesNowPlus_Movie_175132.jpg</image>
   </programme>
-  <programme start="20260829123000 +0000" stop="20260829153000 +0000" channel="MNX.in">
+  <programme start="20260901133700 +0000" stop="20260901153000 +0000" channel="MNplus.in">
     <title lang="en">Movie</title>
     <desc lang="en">The movie name is yet to be announced by the channel.</desc>
-    <icon src="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/PROGRAM/LIVETV_PROGRAM_MNX_HD_385679_29AUG180000_29AUG210000/images/LOGO/MNXHD_Movie_385679.png"/>
-    <image>https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/PROGRAM/LIVETV_PROGRAM_MNX_HD_385679_29AUG180000_29AUG210000/images/LANDSCAPE_169_HD/MNXHD_Movie_385679.jpg</image>
+    <icon src="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/PROGRAM/LIVETV_PROGRAM_MNSYMPLUS_175132_01SEP190700_01SEP210000/images/LOGO/MoviesNowPlus_Movie_175132.png"/>
+    <image>https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/PROGRAM/LIVETV_PROGRAM_MNSYMPLUS_175132_01SEP190700_01SEP210000/images/LANDSCAPE_169_HD/MoviesNowPlus_Movie_175132.jpg</image>
   </programme>
-  <programme start="20260829153000 +0000" stop="20260829202500 +0000" channel="MNX.in">
+  <programme start="20260901153000 +0000" stop="20260901174200 +0000" channel="MNplus.in">
     <title lang="en">Movie</title>
     <desc lang="en">The movie name is yet to be announced by the channel.</desc>
-    <icon src="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/PROGRAM/LIVETV_PROGRAM_MNX_HD_385679_29AUG210000_30AUG015500/images/LOGO/MNXHD_Movie_385679.png"/>
-    <image>https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/PROGRAM/LIVETV_PROGRAM_MNX_HD_385679_29AUG210000_30AUG015500/images/LANDSCAPE_169_HD/MNXHD_Movie_385679.jpg</image>
+    <icon src="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/PROGRAM/LIVETV_PROGRAM_MNSYMPLUS_175132_01SEP210000_01SEP231200/images/LOGO/MoviesNowPlus_Movie_175132.png"/>
+    <image>https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/PROGRAM/LIVETV_PROGRAM_MNSYMPLUS_175132_01SEP210000_01SEP231200/images/LANDSCAPE_169_HD/MoviesNowPlus_Movie_175132.jpg</image>
   </programme>
-  <programme start="20260829202500 +0000" stop="20260829220000 +0000" channel="MNX.in">
+  <programme start="20260901174200 +0000" stop="20260901201600 +0000" channel="MNplus.in">
     <title lang="en">Movie</title>
     <desc lang="en">The movie name is yet to be announced by the channel.</desc>
-    <icon src="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/PROGRAM/LIVETV_PROGRAM_MNX_HD_385679_30AUG015500_30AUG033000/images/LOGO/MNXHD_Movie_385679.png"/>
-    <image>https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/PROGRAM/LIVETV_PROGRAM_MNX_HD_385679_30AUG015500_30AUG033000/images/LANDSCAPE_169_HD/MNXHD_Movie_385679.jpg</image>
+    <icon src="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/PROGRAM/LIVETV_PROGRAM_MNSYMPLUS_175132_01SEP231200_02SEP014600/images/LOGO/MoviesNowPlus_Movie_175132.png"/>
+    <image>https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/PROGRAM/LIVETV_PROGRAM_MNSYMPLUS_175132_01SEP231200_02SEP014600/images/LANDSCAPE_169_HD/MoviesNowPlus_Movie_175132.jpg</image>
   </programme>
-  <programme start="20260829220000 +0000" stop="20260829224500 +0000" channel="MNX.in">
-    <title lang="en">The Love Laugh Live Show</title>
-    <desc lang="en">A Chat Show where Mandira Bedi unravels the Romedy side of celebrities.</desc>
-    <image>https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/PROGRAM/LIVETV_PROGRAM_MNX_HD_1025789_30AUG033000_30AUG041500/images/LANDSCAPE_169/1756684870000_MNXHD_TheLoveLaughLiveShow_1025789.jpg</image>
+  <programme start="20260901201600 +0000" stop="20260901222000 +0000" channel="MNplus.in">
+    <title lang="en">Movie</title>
+    <desc lang="en">The movie name is yet to be announced by the channel.</desc>
+    <icon src="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/PROGRAM/LIVETV_PROGRAM_MNSYMPLUS_175132_02SEP014600_02SEP035000/images/LOGO/MoviesNowPlus_Movie_175132.png"/>
+    <image>https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/PROGRAM/LIVETV_PROGRAM_MNSYMPLUS_175132_02SEP014600_02SEP035000/images/LANDSCAPE_169_HD/MoviesNowPlus_Movie_175132.jpg</image>
+  </programme>
+  <programme start="20260901222000 +0000" stop="20260901223200 +0000" channel="MNplus.in">
+    <title lang="en">LLL S03 BENNY DAYAL</title>
+    <desc lang="en">LLL S03 BENNY DAYAL</desc>
+    <image>https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/PROGRAM/LIVETV_PROGRAM_MNSYMPLUS_2047064_02SEP035000_02SEP040200/images/LANDSCAPE_169/1772800080000_MNplusHD_LLLS03BENNYDAYAL_2047064.jpg</image>
+  </programme>
+  <programme start="20260901223200 +0000" stop="20260901224200 +0000" channel="MNplus.in">
+    <title lang="en">Lll S03 Zakir Khan</title>
+    <desc lang="en">The host engages in a candid conversation with celebrity guests who share intimate details about their personal and professional lives.</desc>
+    <image>https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/PROGRAM/LIVETV_PROGRAM_MNSYMPLUS_2071386_02SEP040200_02SEP041200/images/LANDSCAPE_169/1778355920000_MNplusHD_LllS03ZakirKhan_2071386.jpg</image>
+  </programme>
+  <programme start="20260901224200 +0000" stop="20260901225300 +0000" channel="MNplus.in">
+    <title lang="en">Lll S03 Mrunal Thakur</title>
+    <desc lang="en">Bollywood actress Mrunal Thakur hosts this glamorous celebrity reality show, featuring exclusive interviews, fun games and behind-the-scenes glimpses into the lives of top Indian stars.</desc>
+    <image>https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/PROGRAM/LIVETV_PROGRAM_MNSYMPLUS_2066630_02SEP041200_02SEP042300/images/LANDSCAPE_169/1777161888000_MNplusHD_LllS03MrunalThakur_2066630.jpg</image>
+  </programme>
+  <programme start="20260901225300 +0000" stop="20260902012400 +0000" channel="MNplus.in">
+    <title lang="en">Movie</title>
+    <desc lang="en">The movie name is yet to be announced by the channel.</desc>
+    <icon src="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/PROGRAM/LIVETV_PROGRAM_MNSYMPLUS_175132_02SEP042300_02SEP065400/images/LOGO/MoviesNowPlus_Movie_175132.png"/>
+    <image>https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/PROGRAM/LIVETV_PROGRAM_MNSYMPLUS_175132_02SEP042300_02SEP065400/images/LANDSCAPE_169_HD/MoviesNowPlus_Movie_175132.jpg</image>
   </programme>
   <programme start="20260829224500 +0000" stop="20260830000300 +0000" channel="MNX.in">
     <title lang="en">Movie</title>
@@ -18026,12 +17995,6 @@
     <desc lang="en">The movie name is yet to be announced by the channel.</desc>
     <icon src="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/PROGRAM/LIVETV_PROGRAM_MNX_HD_385679_30AUG053300_30AUG065900/images/LOGO/MNXHD_Movie_385679.png"/>
     <image>https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/PROGRAM/LIVETV_PROGRAM_MNX_HD_385679_30AUG053300_30AUG065900/images/LANDSCAPE_169_HD/MNXHD_Movie_385679.jpg</image>
-  </programme>
-  <programme start="20260830012900 +0000" stop="20260830033400 +0000" channel="MNX.in">
-    <title lang="en">Movie</title>
-    <desc lang="en">Movie name is still to be announced by this channel.</desc>
-    <icon src="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/PROGRAM/LIVETV_PROGRAM_MNX_HD_385679_30AUG065900_30AUG090400/images/LOGO/MNXHD_Movie_385679.png"/>
-    <image>https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/PROGRAM/LIVETV_PROGRAM_MNX_HD_385679_30AUG065900_30AUG090400/images/LANDSCAPE_169_HD/MNXHD_Movie_385679.jpg</image>
   </programme>
   <programme start="20260830012900 +0000" stop="20260830033400 +0000" channel="MNX.in">
     <title lang="en">Movie</title>
@@ -18111,17 +18074,17 @@
     <icon src="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/PROGRAM/LIVETV_PROGRAM_MNX_HD_385679_31AUG041700_31AUG050100/images/LOGO/MNXHD_Movie_385679.png"/>
     <image>https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/PROGRAM/LIVETV_PROGRAM_MNX_HD_385679_31AUG041700_31AUG050100/images/LANDSCAPE_169_HD/MNXHD_Movie_385679.jpg</image>
   </programme>
+  <programme start="20260830224700 +0000" stop="20260830233100 +0000" channel="MNX.in">
+    <title lang="en">Movie</title>
+    <desc lang="en">The movie name is yet to be announced by the channel.</desc>
+    <icon src="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/PROGRAM/LIVETV_PROGRAM_MNX_HD_385679_31AUG041700_31AUG050100/images/LOGO/MNXHD_Movie_385679.png"/>
+    <image>https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/PROGRAM/LIVETV_PROGRAM_MNX_HD_385679_31AUG041700_31AUG050100/images/LANDSCAPE_169_HD/MNXHD_Movie_385679.jpg</image>
+  </programme>
   <programme start="20260830233100 +0000" stop="20260831005300 +0000" channel="MNX.in">
     <title lang="en">Movie</title>
     <desc lang="en">The movie name is yet to be announced by the channel.</desc>
     <icon src="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/PROGRAM/LIVETV_PROGRAM_MNX_HD_385679_31AUG050100_31AUG062300/images/LOGO/MNXHD_Movie_385679.png"/>
     <image>https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/PROGRAM/LIVETV_PROGRAM_MNX_HD_385679_31AUG050100_31AUG062300/images/LANDSCAPE_169_HD/MNXHD_Movie_385679.jpg</image>
-  </programme>
-  <programme start="20260831005300 +0000" stop="20260831032100 +0000" channel="MNX.in">
-    <title lang="en">Movie</title>
-    <desc lang="en">The movie name is yet to be announced by the channel.</desc>
-    <icon src="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/PROGRAM/LIVETV_PROGRAM_MNX_HD_385679_31AUG062300_31AUG085100/images/LOGO/MNXHD_Movie_385679.png"/>
-    <image>https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/PROGRAM/LIVETV_PROGRAM_MNX_HD_385679_31AUG062300_31AUG085100/images/LANDSCAPE_169_HD/MNXHD_Movie_385679.jpg</image>
   </programme>
   <programme start="20260831005300 +0000" stop="20260831032100 +0000" channel="MNX.in">
     <title lang="en">Movie</title>
@@ -18194,6 +18157,12 @@
     <icon src="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/PROGRAM/LIVETV_PROGRAM_MNX_HD_385679_01SEP035400_01SEP053700/images/LOGO/MNXHD_Movie_385679.png"/>
     <image>https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/PROGRAM/LIVETV_PROGRAM_MNX_HD_385679_01SEP035400_01SEP053700/images/LANDSCAPE_169_HD/MNXHD_Movie_385679.jpg</image>
   </programme>
+  <programme start="20260831222400 +0000" stop="20260901000700 +0000" channel="MNX.in">
+    <title lang="en">Movie</title>
+    <desc lang="en">The movie name is yet to be announced by the channel.</desc>
+    <icon src="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/PROGRAM/LIVETV_PROGRAM_MNX_HD_385679_01SEP035400_01SEP053700/images/LOGO/MNXHD_Movie_385679.png"/>
+    <image>https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/PROGRAM/LIVETV_PROGRAM_MNX_HD_385679_01SEP035400_01SEP053700/images/LANDSCAPE_169_HD/MNXHD_Movie_385679.jpg</image>
+  </programme>
   <programme start="20260901000700 +0000" stop="20260901013900 +0000" channel="MNX.in">
     <title lang="en">Movie</title>
     <desc lang="en">The movie name is yet to be announced by the channel.</desc>
@@ -18205,6 +18174,72 @@
     <desc lang="en">The movie name is yet to be announced by the channel.</desc>
     <icon src="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/PROGRAM/LIVETV_PROGRAM_MNX_HD_385679_01SEP070900_01SEP094400/images/LOGO/MNXHD_Movie_385679.png"/>
     <image>https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/PROGRAM/LIVETV_PROGRAM_MNX_HD_385679_01SEP070900_01SEP094400/images/LANDSCAPE_169_HD/MNXHD_Movie_385679.jpg</image>
+  </programme>
+  <programme start="20260901041400 +0000" stop="20260901054800 +0000" channel="MNX.in">
+    <title lang="en">Movie</title>
+    <desc lang="en">The movie name is yet to be announced by the channel.</desc>
+    <icon src="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/PROGRAM/LIVETV_PROGRAM_MNX_HD_385679_01SEP094400_01SEP111800/images/LOGO/MNXHD_Movie_385679.png"/>
+    <image>https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/PROGRAM/LIVETV_PROGRAM_MNX_HD_385679_01SEP094400_01SEP111800/images/LANDSCAPE_169_HD/MNXHD_Movie_385679.jpg</image>
+  </programme>
+  <programme start="20260901054800 +0000" stop="20260901071000 +0000" channel="MNX.in">
+    <title lang="en">Movie</title>
+    <desc lang="en">The movie name is yet to be announced by the channel.</desc>
+    <icon src="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/PROGRAM/LIVETV_PROGRAM_MNX_HD_385679_01SEP111800_01SEP124000/images/LOGO/MNXHD_Movie_385679.png"/>
+    <image>https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/PROGRAM/LIVETV_PROGRAM_MNX_HD_385679_01SEP111800_01SEP124000/images/LANDSCAPE_169_HD/MNXHD_Movie_385679.jpg</image>
+  </programme>
+  <programme start="20260901071000 +0000" stop="20260901094000 +0000" channel="MNX.in">
+    <title lang="en">Movie</title>
+    <desc lang="en">The movie name is yet to be announced by the channel.</desc>
+    <icon src="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/PROGRAM/LIVETV_PROGRAM_MNX_HD_385679_01SEP124000_01SEP151000/images/LOGO/MNXHD_Movie_385679.png"/>
+    <image>https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/PROGRAM/LIVETV_PROGRAM_MNX_HD_385679_01SEP124000_01SEP151000/images/LANDSCAPE_169_HD/MNXHD_Movie_385679.jpg</image>
+  </programme>
+  <programme start="20260901094000 +0000" stop="20260901111200 +0000" channel="MNX.in">
+    <title lang="en">Movie</title>
+    <desc lang="en">The movie name is yet to be announced by the channel.</desc>
+    <icon src="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/PROGRAM/LIVETV_PROGRAM_MNX_HD_385679_01SEP151000_01SEP164200/images/LOGO/MNXHD_Movie_385679.png"/>
+    <image>https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/PROGRAM/LIVETV_PROGRAM_MNX_HD_385679_01SEP151000_01SEP164200/images/LANDSCAPE_169_HD/MNXHD_Movie_385679.jpg</image>
+  </programme>
+  <programme start="20260901111200 +0000" stop="20260901132300 +0000" channel="MNX.in">
+    <title lang="en">Movie</title>
+    <desc lang="en">The movie name is yet to be announced by the channel.</desc>
+    <icon src="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/PROGRAM/LIVETV_PROGRAM_MNX_HD_385679_01SEP164200_01SEP185300/images/LOGO/MNXHD_Movie_385679.png"/>
+    <image>https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/PROGRAM/LIVETV_PROGRAM_MNX_HD_385679_01SEP164200_01SEP185300/images/LANDSCAPE_169_HD/MNXHD_Movie_385679.jpg</image>
+  </programme>
+  <programme start="20260901132300 +0000" stop="20260901153000 +0000" channel="MNX.in">
+    <title lang="en">Movie</title>
+    <desc lang="en">The movie name is yet to be announced by the channel.</desc>
+    <icon src="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/PROGRAM/LIVETV_PROGRAM_MNX_HD_385679_01SEP185300_01SEP210000/images/LOGO/MNXHD_Movie_385679.png"/>
+    <image>https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/PROGRAM/LIVETV_PROGRAM_MNX_HD_385679_01SEP185300_01SEP210000/images/LANDSCAPE_169_HD/MNXHD_Movie_385679.jpg</image>
+  </programme>
+  <programme start="20260901153000 +0000" stop="20260901174500 +0000" channel="MNX.in">
+    <title lang="en">Movie</title>
+    <desc lang="en">The movie name is yet to be announced by the channel.</desc>
+    <icon src="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/PROGRAM/LIVETV_PROGRAM_MNX_HD_385679_01SEP210000_01SEP231500/images/LOGO/MNXHD_Movie_385679.png"/>
+    <image>https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/PROGRAM/LIVETV_PROGRAM_MNX_HD_385679_01SEP210000_01SEP231500/images/LANDSCAPE_169_HD/MNXHD_Movie_385679.jpg</image>
+  </programme>
+  <programme start="20260901174500 +0000" stop="20260901201600 +0000" channel="MNX.in">
+    <title lang="en">Movie</title>
+    <desc lang="en">The movie name is yet to be announced by the channel.</desc>
+    <icon src="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/PROGRAM/LIVETV_PROGRAM_MNX_HD_385679_01SEP231500_02SEP014600/images/LOGO/MNXHD_Movie_385679.png"/>
+    <image>https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/PROGRAM/LIVETV_PROGRAM_MNX_HD_385679_01SEP231500_02SEP014600/images/LANDSCAPE_169_HD/MNXHD_Movie_385679.jpg</image>
+  </programme>
+  <programme start="20260901201600 +0000" stop="20260901224500 +0000" channel="MNX.in">
+    <title lang="en">Movie</title>
+    <desc lang="en">The movie name is yet to be announced by the channel.</desc>
+    <icon src="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/PROGRAM/LIVETV_PROGRAM_MNX_HD_385679_02SEP014600_02SEP041500/images/LOGO/MNXHD_Movie_385679.png"/>
+    <image>https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/PROGRAM/LIVETV_PROGRAM_MNX_HD_385679_02SEP014600_02SEP041500/images/LANDSCAPE_169_HD/MNXHD_Movie_385679.jpg</image>
+  </programme>
+  <programme start="20260901224500 +0000" stop="20260901232000 +0000" channel="MNX.in">
+    <title lang="en">Movie</title>
+    <desc lang="en">The movie name is yet to be announced by the channel.</desc>
+    <icon src="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/PROGRAM/LIVETV_PROGRAM_MNX_HD_385679_02SEP041500_02SEP045000/images/LOGO/MNXHD_Movie_385679.png"/>
+    <image>https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/PROGRAM/LIVETV_PROGRAM_MNX_HD_385679_02SEP041500_02SEP045000/images/LANDSCAPE_169_HD/MNXHD_Movie_385679.jpg</image>
+  </programme>
+  <programme start="20260901232000 +0000" stop="20260902004000 +0000" channel="MNX.in">
+    <title lang="en">Movie</title>
+    <desc lang="en">The movie name is yet to be announced by the channel.</desc>
+    <icon src="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/PROGRAM/LIVETV_PROGRAM_MNX_HD_385679_02SEP045000_02SEP061000/images/LOGO/MNXHD_Movie_385679.png"/>
+    <image>https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/PROGRAM/LIVETV_PROGRAM_MNX_HD_385679_02SEP045000_02SEP061000/images/LANDSCAPE_169_HD/MNXHD_Movie_385679.jpg</image>
   </programme>
   <programme start="20260828175600 +0000" stop="20260828182900 +0000" channel="MoonbugKids.uk">
     <title lang="id">Digley &amp; Dazey</title>
@@ -18641,60 +18676,6 @@
   <programme start="20260831155800 +0000" stop="20260831175600 +0000" channel="MoonbugKids.uk">
     <title lang="id">Little Baby Bum: Lullabies</title>
   </programme>
-  <programme start="20260829003000 +0000" stop="20260829033000 +0000" channel="MoviesNow.in">
-    <title lang="en">Movie</title>
-    <desc lang="en">The movie name is yet to be announced by the channel.</desc>
-    <icon src="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/PROGRAM/LIVETV_PROGRAM_MOVIES_NOW_HD_362522_29AUG060000_29AUG090000/images/LOGO/MOVIESNOWHD_Movie_362522.png"/>
-    <image>https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/PROGRAM/LIVETV_PROGRAM_MOVIES_NOW_HD_362522_29AUG060000_29AUG090000/images/LANDSCAPE_169_HD/MOVIESNOWHD_Movie_362522.jpg</image>
-  </programme>
-  <programme start="20260829033000 +0000" stop="20260829063000 +0000" channel="MoviesNow.in">
-    <title lang="en">Movie</title>
-    <desc lang="en">The movie name is yet to be announced by the channel.</desc>
-    <icon src="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/PROGRAM/LIVETV_PROGRAM_MOVIES_NOW_HD_362522_29AUG090000_29AUG120000/images/LOGO/MOVIESNOWHD_Movie_362522.png"/>
-    <image>https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/PROGRAM/LIVETV_PROGRAM_MOVIES_NOW_HD_362522_29AUG090000_29AUG120000/images/LANDSCAPE_169_HD/MOVIESNOWHD_Movie_362522.jpg</image>
-  </programme>
-  <programme start="20260829063000 +0000" stop="20260829093000 +0000" channel="MoviesNow.in">
-    <title lang="en">Movie</title>
-    <desc lang="en">The movie name is yet to be announced by the channel.</desc>
-    <icon src="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/PROGRAM/LIVETV_PROGRAM_MOVIES_NOW_HD_362522_29AUG120000_29AUG150000/images/LOGO/MOVIESNOWHD_Movie_362522.png"/>
-    <image>https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/PROGRAM/LIVETV_PROGRAM_MOVIES_NOW_HD_362522_29AUG120000_29AUG150000/images/LANDSCAPE_169_HD/MOVIESNOWHD_Movie_362522.jpg</image>
-  </programme>
-  <programme start="20260829093000 +0000" stop="20260829123000 +0000" channel="MoviesNow.in">
-    <title lang="en">Movie</title>
-    <desc lang="en">The movie name is yet to be announced by the channel.</desc>
-    <icon src="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/PROGRAM/LIVETV_PROGRAM_MOVIES_NOW_HD_362522_29AUG150000_29AUG180000/images/LOGO/MOVIESNOWHD_Movie_362522.png"/>
-    <image>https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/PROGRAM/LIVETV_PROGRAM_MOVIES_NOW_HD_362522_29AUG150000_29AUG180000/images/LANDSCAPE_169_HD/MOVIESNOWHD_Movie_362522.jpg</image>
-  </programme>
-  <programme start="20260829123000 +0000" stop="20260829153000 +0000" channel="MoviesNow.in">
-    <title lang="en">Movie</title>
-    <desc lang="en">The movie name is yet to be announced by the channel.</desc>
-    <icon src="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/PROGRAM/LIVETV_PROGRAM_MOVIES_NOW_HD_362522_29AUG180000_29AUG210000/images/LOGO/MOVIESNOWHD_Movie_362522.png"/>
-    <image>https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/PROGRAM/LIVETV_PROGRAM_MOVIES_NOW_HD_362522_29AUG180000_29AUG210000/images/LANDSCAPE_169_HD/MOVIESNOWHD_Movie_362522.jpg</image>
-  </programme>
-  <programme start="20260829153000 +0000" stop="20260829202800 +0000" channel="MoviesNow.in">
-    <title lang="en">Movie</title>
-    <desc lang="en">The movie name is yet to be announced by the channel.</desc>
-    <icon src="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/PROGRAM/LIVETV_PROGRAM_MOVIES_NOW_HD_362522_29AUG210000_30AUG015800/images/LOGO/MOVIESNOWHD_Movie_362522.png"/>
-    <image>https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/PROGRAM/LIVETV_PROGRAM_MOVIES_NOW_HD_362522_29AUG210000_30AUG015800/images/LANDSCAPE_169_HD/MOVIESNOWHD_Movie_362522.jpg</image>
-  </programme>
-  <programme start="20260829202800 +0000" stop="20260829214500 +0000" channel="MoviesNow.in">
-    <title lang="en">Movie</title>
-    <desc lang="en">The movie name is yet to be announced by the channel.</desc>
-    <icon src="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/PROGRAM/LIVETV_PROGRAM_MOVIES_NOW_HD_362522_30AUG015800_30AUG031500/images/LOGO/MOVIESNOWHD_Movie_362522.png"/>
-    <image>https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/PROGRAM/LIVETV_PROGRAM_MOVIES_NOW_HD_362522_30AUG015800_30AUG031500/images/LANDSCAPE_169_HD/MOVIESNOWHD_Movie_362522.jpg</image>
-  </programme>
-  <programme start="20260829214500 +0000" stop="20260829220200 +0000" channel="MoviesNow.in">
-    <title lang="en">Movie</title>
-    <desc lang="en">Movie name is still to be announced by this channel.</desc>
-    <icon src="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/PROGRAM/LIVETV_PROGRAM_MOVIES_NOW_HD_362522_30AUG031500_30AUG033200/images/LOGO/MOVIESNOWHD_Movie_362522.png"/>
-    <image>https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/PROGRAM/LIVETV_PROGRAM_MOVIES_NOW_HD_362522_30AUG031500_30AUG033200/images/LANDSCAPE_169_HD/MOVIESNOWHD_Movie_362522.jpg</image>
-  </programme>
-  <programme start="20260829220200 +0000" stop="20260829224600 +0000" channel="MoviesNow.in">
-    <title lang="en">Movie</title>
-    <desc lang="en">The movie name is yet to be announced by the channel.</desc>
-    <icon src="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/PROGRAM/LIVETV_PROGRAM_MOVIES_NOW_HD_362522_30AUG033200_30AUG041600/images/LOGO/MOVIESNOWHD_Movie_362522.png"/>
-    <image>https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/PROGRAM/LIVETV_PROGRAM_MOVIES_NOW_HD_362522_30AUG033200_30AUG041600/images/LANDSCAPE_169_HD/MOVIESNOWHD_Movie_362522.jpg</image>
-  </programme>
   <programme start="20260829224600 +0000" stop="20260830003600 +0000" channel="MoviesNow.in">
     <title lang="en">Movie</title>
     <desc lang="en">The movie name is yet to be announced by the channel.</desc>
@@ -18706,12 +18687,6 @@
     <desc lang="en">The movie name is yet to be announced by the channel.</desc>
     <icon src="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/PROGRAM/LIVETV_PROGRAM_MOVIES_NOW_HD_362522_30AUG060600_30AUG080000/images/LOGO/MOVIESNOWHD_Movie_362522.png"/>
     <image>https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/PROGRAM/LIVETV_PROGRAM_MOVIES_NOW_HD_362522_30AUG060600_30AUG080000/images/LANDSCAPE_169_HD/MOVIESNOWHD_Movie_362522.jpg</image>
-  </programme>
-  <programme start="20260830023000 +0000" stop="20260830044800 +0000" channel="MoviesNow.in">
-    <title lang="en">Movie</title>
-    <desc lang="en">The movie name is yet to be announced by the channel.</desc>
-    <icon src="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/PROGRAM/LIVETV_PROGRAM_MOVIES_NOW_HD_362522_30AUG080000_30AUG101800/images/LOGO/MOVIESNOWHD_Movie_362522.png"/>
-    <image>https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/PROGRAM/LIVETV_PROGRAM_MOVIES_NOW_HD_362522_30AUG080000_30AUG101800/images/LANDSCAPE_169_HD/MOVIESNOWHD_Movie_362522.jpg</image>
   </programme>
   <programme start="20260830023000 +0000" stop="20260830044800 +0000" channel="MoviesNow.in">
     <title lang="en">Movie</title>
@@ -18785,17 +18760,17 @@
     <icon src="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/PROGRAM/LIVETV_PROGRAM_MOVIES_NOW_HD_362522_31AUG044400_31AUG062300/images/LOGO/MOVIESNOWHD_Movie_362522.png"/>
     <image>https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/PROGRAM/LIVETV_PROGRAM_MOVIES_NOW_HD_362522_31AUG044400_31AUG062300/images/LANDSCAPE_169_HD/MOVIESNOWHD_Movie_362522.jpg</image>
   </programme>
+  <programme start="20260830231400 +0000" stop="20260831005300 +0000" channel="MoviesNow.in">
+    <title lang="en">Movie</title>
+    <desc lang="en">The movie name is yet to be announced by the channel.</desc>
+    <icon src="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/PROGRAM/LIVETV_PROGRAM_MOVIES_NOW_HD_362522_31AUG044400_31AUG062300/images/LOGO/MOVIESNOWHD_Movie_362522.png"/>
+    <image>https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/PROGRAM/LIVETV_PROGRAM_MOVIES_NOW_HD_362522_31AUG044400_31AUG062300/images/LANDSCAPE_169_HD/MOVIESNOWHD_Movie_362522.jpg</image>
+  </programme>
   <programme start="20260831005300 +0000" stop="20260831031700 +0000" channel="MoviesNow.in">
     <title lang="en">Movie</title>
     <desc lang="en">The movie name is yet to be announced by the channel.</desc>
     <icon src="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/PROGRAM/LIVETV_PROGRAM_MOVIES_NOW_HD_362522_31AUG062300_31AUG084700/images/LOGO/MOVIESNOWHD_Movie_362522.png"/>
     <image>https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/PROGRAM/LIVETV_PROGRAM_MOVIES_NOW_HD_362522_31AUG062300_31AUG084700/images/LANDSCAPE_169_HD/MOVIESNOWHD_Movie_362522.jpg</image>
-  </programme>
-  <programme start="20260831031700 +0000" stop="20260831042800 +0000" channel="MoviesNow.in">
-    <title lang="en">Piranha 3-D</title>
-    <desc lang="en">Strangers unite to survive a prehistoric man-eating fish that was released after an underwater tremor.</desc>
-    <icon src="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/PROGRAM/LIVETV_PROGRAM_MOVIES_NOW_HD_1422938_31AUG084700_31AUG095800/images/LOGO/MOVIESNOWHD_Piranha3-D_1422938.png"/>
-    <image>https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/PROGRAM/LIVETV_PROGRAM_MOVIES_NOW_HD_1422938_31AUG084700_31AUG095800/images/LANDSCAPE_169_HD/MOVIESNOWHD_Piranha3-D_1422938.jpg</image>
   </programme>
   <programme start="20260831031700 +0000" stop="20260831042800 +0000" channel="MoviesNow.in">
     <title lang="en">Piranha 3-D</title>
@@ -18875,6 +18850,12 @@
     <icon src="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/PROGRAM/LIVETV_PROGRAM_MOVIES_NOW_HD_362522_01SEP041900_01SEP055500/images/LOGO/MOVIESNOWHD_Movie_362522.png"/>
     <image>https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/PROGRAM/LIVETV_PROGRAM_MOVIES_NOW_HD_362522_01SEP041900_01SEP055500/images/LANDSCAPE_169_HD/MOVIESNOWHD_Movie_362522.jpg</image>
   </programme>
+  <programme start="20260831224900 +0000" stop="20260901002500 +0000" channel="MoviesNow.in">
+    <title lang="en">Movie</title>
+    <desc lang="en">The movie name is yet to be announced by the channel.</desc>
+    <icon src="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/PROGRAM/LIVETV_PROGRAM_MOVIES_NOW_HD_362522_01SEP041900_01SEP055500/images/LOGO/MOVIESNOWHD_Movie_362522.png"/>
+    <image>https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/PROGRAM/LIVETV_PROGRAM_MOVIES_NOW_HD_362522_01SEP041900_01SEP055500/images/LANDSCAPE_169_HD/MOVIESNOWHD_Movie_362522.jpg</image>
+  </programme>
   <programme start="20260901002500 +0000" stop="20260901023100 +0000" channel="MoviesNow.in">
     <title lang="en">Movie</title>
     <desc lang="en">The movie name is yet to be announced by the channel.</desc>
@@ -18886,6 +18867,78 @@
     <desc lang="en">The movie name is yet to be announced by the channel.</desc>
     <icon src="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/PROGRAM/LIVETV_PROGRAM_MOVIES_NOW_HD_362522_01SEP080100_01SEP093100/images/LOGO/MOVIESNOWHD_Movie_362522.png"/>
     <image>https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/PROGRAM/LIVETV_PROGRAM_MOVIES_NOW_HD_362522_01SEP080100_01SEP093100/images/LANDSCAPE_169_HD/MOVIESNOWHD_Movie_362522.jpg</image>
+  </programme>
+  <programme start="20260901040100 +0000" stop="20260901053500 +0000" channel="MoviesNow.in">
+    <title lang="en">Movie</title>
+    <desc lang="en">The movie name is yet to be announced by the channel.</desc>
+    <icon src="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/PROGRAM/LIVETV_PROGRAM_MOVIES_NOW_HD_362522_01SEP093100_01SEP110500/images/LOGO/MOVIESNOWHD_Movie_362522.png"/>
+    <image>https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/PROGRAM/LIVETV_PROGRAM_MOVIES_NOW_HD_362522_01SEP093100_01SEP110500/images/LANDSCAPE_169_HD/MOVIESNOWHD_Movie_362522.jpg</image>
+  </programme>
+  <programme start="20260901053500 +0000" stop="20260901071300 +0000" channel="MoviesNow.in">
+    <title lang="en">Movie</title>
+    <desc lang="en">The movie name is yet to be announced by the channel.</desc>
+    <icon src="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/PROGRAM/LIVETV_PROGRAM_MOVIES_NOW_HD_362522_01SEP110500_01SEP124300/images/LOGO/MOVIESNOWHD_Movie_362522.png"/>
+    <image>https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/PROGRAM/LIVETV_PROGRAM_MOVIES_NOW_HD_362522_01SEP110500_01SEP124300/images/LANDSCAPE_169_HD/MOVIESNOWHD_Movie_362522.jpg</image>
+  </programme>
+  <programme start="20260901071300 +0000" stop="20260901090700 +0000" channel="MoviesNow.in">
+    <title lang="en">Movie</title>
+    <desc lang="en">The movie name is yet to be announced by the channel.</desc>
+    <icon src="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/PROGRAM/LIVETV_PROGRAM_MOVIES_NOW_HD_362522_01SEP124300_01SEP143700/images/LOGO/MOVIESNOWHD_Movie_362522.png"/>
+    <image>https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/PROGRAM/LIVETV_PROGRAM_MOVIES_NOW_HD_362522_01SEP124300_01SEP143700/images/LANDSCAPE_169_HD/MOVIESNOWHD_Movie_362522.jpg</image>
+  </programme>
+  <programme start="20260901090700 +0000" stop="20260901105600 +0000" channel="MoviesNow.in">
+    <title lang="en">Movie</title>
+    <desc lang="en">The movie name is yet to be announced by the channel.</desc>
+    <icon src="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/PROGRAM/LIVETV_PROGRAM_MOVIES_NOW_HD_362522_01SEP143700_01SEP162600/images/LOGO/MOVIESNOWHD_Movie_362522.png"/>
+    <image>https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/PROGRAM/LIVETV_PROGRAM_MOVIES_NOW_HD_362522_01SEP143700_01SEP162600/images/LANDSCAPE_169_HD/MOVIESNOWHD_Movie_362522.jpg</image>
+  </programme>
+  <programme start="20260901105600 +0000" stop="20260901132000 +0000" channel="MoviesNow.in">
+    <title lang="en">Movie</title>
+    <desc lang="en">The movie name is yet to be announced by the channel.</desc>
+    <icon src="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/PROGRAM/LIVETV_PROGRAM_MOVIES_NOW_HD_362522_01SEP162600_01SEP185000/images/LOGO/MOVIESNOWHD_Movie_362522.png"/>
+    <image>https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/PROGRAM/LIVETV_PROGRAM_MOVIES_NOW_HD_362522_01SEP162600_01SEP185000/images/LANDSCAPE_169_HD/MOVIESNOWHD_Movie_362522.jpg</image>
+  </programme>
+  <programme start="20260901132000 +0000" stop="20260901151500 +0000" channel="MoviesNow.in">
+    <title lang="en">Movie</title>
+    <desc lang="en">The movie name is yet to be announced by the channel.</desc>
+    <icon src="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/PROGRAM/LIVETV_PROGRAM_MOVIES_NOW_HD_362522_01SEP185000_01SEP204500/images/LOGO/MOVIESNOWHD_Movie_362522.png"/>
+    <image>https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/PROGRAM/LIVETV_PROGRAM_MOVIES_NOW_HD_362522_01SEP185000_01SEP204500/images/LANDSCAPE_169_HD/MOVIESNOWHD_Movie_362522.jpg</image>
+  </programme>
+  <programme start="20260901151500 +0000" stop="20260901171900 +0000" channel="MoviesNow.in">
+    <title lang="en">Movie</title>
+    <desc lang="en">The movie name is yet to be announced by the channel.</desc>
+    <icon src="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/PROGRAM/LIVETV_PROGRAM_MOVIES_NOW_HD_362522_01SEP204500_01SEP224900/images/LOGO/MOVIESNOWHD_Movie_362522.png"/>
+    <image>https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/PROGRAM/LIVETV_PROGRAM_MOVIES_NOW_HD_362522_01SEP204500_01SEP224900/images/LANDSCAPE_169_HD/MOVIESNOWHD_Movie_362522.jpg</image>
+  </programme>
+  <programme start="20260901171900 +0000" stop="20260901190000 +0000" channel="MoviesNow.in">
+    <title lang="en">Movie</title>
+    <desc lang="en">The movie name is yet to be announced by the channel.</desc>
+    <icon src="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/PROGRAM/LIVETV_PROGRAM_MOVIES_NOW_HD_362522_01SEP224900_02SEP003000/images/LOGO/MOVIESNOWHD_Movie_362522.png"/>
+    <image>https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/PROGRAM/LIVETV_PROGRAM_MOVIES_NOW_HD_362522_01SEP224900_02SEP003000/images/LANDSCAPE_169_HD/MOVIESNOWHD_Movie_362522.jpg</image>
+  </programme>
+  <programme start="20260901190000 +0000" stop="20260901203400 +0000" channel="MoviesNow.in">
+    <title lang="en">Movie</title>
+    <desc lang="en">The movie name is yet to be announced by the channel.</desc>
+    <icon src="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/PROGRAM/LIVETV_PROGRAM_MOVIES_NOW_HD_362522_02SEP003000_02SEP020400/images/LOGO/MOVIESNOWHD_Movie_362522.png"/>
+    <image>https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/PROGRAM/LIVETV_PROGRAM_MOVIES_NOW_HD_362522_02SEP003000_02SEP020400/images/LANDSCAPE_169_HD/MOVIESNOWHD_Movie_362522.jpg</image>
+  </programme>
+  <programme start="20260901203400 +0000" stop="20260901220500 +0000" channel="MoviesNow.in">
+    <title lang="en">Movie</title>
+    <desc lang="en">The movie name is yet to be announced by the channel.</desc>
+    <icon src="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/PROGRAM/LIVETV_PROGRAM_MOVIES_NOW_HD_362522_02SEP020400_02SEP033500/images/LOGO/MOVIESNOWHD_Movie_362522.png"/>
+    <image>https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/PROGRAM/LIVETV_PROGRAM_MOVIES_NOW_HD_362522_02SEP020400_02SEP033500/images/LANDSCAPE_169_HD/MOVIESNOWHD_Movie_362522.jpg</image>
+  </programme>
+  <programme start="20260901220500 +0000" stop="20260901221500 +0000" channel="MoviesNow.in">
+    <title lang="en">Movie</title>
+    <desc lang="en">The movie name is yet to be announced by the channel.</desc>
+    <icon src="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/PROGRAM/LIVETV_PROGRAM_MOVIES_NOW_HD_362522_02SEP033500_02SEP034500/images/LOGO/MOVIESNOWHD_Movie_362522.png"/>
+    <image>https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/PROGRAM/LIVETV_PROGRAM_MOVIES_NOW_HD_362522_02SEP033500_02SEP034500/images/LANDSCAPE_169_HD/MOVIESNOWHD_Movie_362522.jpg</image>
+  </programme>
+  <programme start="20260901221500 +0000" stop="20260901233800 +0000" channel="MoviesNow.in">
+    <title lang="en">Movie</title>
+    <desc lang="en">The movie name is yet to be announced by the channel.</desc>
+    <icon src="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/PROGRAM/LIVETV_PROGRAM_MOVIES_NOW_HD_362522_02SEP034500_02SEP050800/images/LOGO/MOVIESNOWHD_Movie_362522.png"/>
+    <image>https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/PROGRAM/LIVETV_PROGRAM_MOVIES_NOW_HD_362522_02SEP034500_02SEP050800/images/LANDSCAPE_169_HD/MOVIESNOWHD_Movie_362522.jpg</image>
   </programme>
   <programme start="20260828173000 +0000" stop="20260828190000 +0000" channel="MusicTV.id">
     <title lang="id">#IdoLyfe</title>
@@ -21028,6 +21081,48 @@
   <programme start="20260830160000 +0000" stop="20260830171500 +0000" channel="RCTI.id">
     <title lang="id">Cinta Dari Surga</title>
   </programme>
+  <programme start="20260830171500 +0000" stop="20260830183000 +0000" channel="RCTI.id">
+    <title lang="id">Sopir Eneng Dunia Akhirat</title>
+  </programme>
+  <programme start="20260830183000 +0000" stop="20260830190000 +0000" channel="RCTI.id">
+    <title lang="id">Asih Emang Yahud</title>
+  </programme>
+  <programme start="20260830190000 +0000" stop="20260830200000 +0000" channel="RCTI.id">
+    <title lang="id">Mega Film TV Malam</title>
+  </programme>
+  <programme start="20260830200000 +0000" stop="20260830221500 +0000" channel="RCTI.id">
+    <title lang="id">Preman Pensiun S8</title>
+  </programme>
+  <programme start="20260830221500 +0000" stop="20260830224500 +0000" channel="RCTI.id">
+    <title lang="id">Seputar iNews</title>
+  </programme>
+  <programme start="20260830224500 +0000" stop="20260831024500 +0000" channel="RCTI.id">
+    <title lang="id">Preman Pensiun Deui</title>
+  </programme>
+  <programme start="20260831024500 +0000" stop="20260831040000 +0000" channel="RCTI.id">
+    <title lang="id">Terlanjur Mencintaimu Arumi</title>
+  </programme>
+  <programme start="20260831040000 +0000" stop="20260831043000 +0000" channel="RCTI.id">
+    <title lang="id">Silet</title>
+  </programme>
+  <programme start="20260831043000 +0000" stop="20260831060000 +0000" channel="RCTI.id">
+    <title lang="id">Terikat Janji Selamanya</title>
+  </programme>
+  <programme start="20260831060000 +0000" stop="20260831103000 +0000" channel="RCTI.id">
+    <title lang="id">Ikatan Cinta Aldebaran &amp; Andin</title>
+  </programme>
+  <programme start="20260831103000 +0000" stop="20260831140000 +0000" channel="RCTI.id">
+    <title lang="id">ACL Two: PSB Vs MDI (L)</title>
+  </programme>
+  <programme start="20260831140000 +0000" stop="20260831151500 +0000" channel="RCTI.id">
+    <title lang="id">Terlanjur Mencintaimu</title>
+  </programme>
+  <programme start="20260831151500 +0000" stop="20260831163000 +0000" channel="RCTI.id">
+    <title lang="id">The CEO Who Chose Me Anyway</title>
+  </programme>
+  <programme start="20260831163000 +0000" stop="20260831171500 +0000" channel="RCTI.id">
+    <title lang="id">Cinta Dari Surga</title>
+  </programme>
   <programme start="20260830170000 +0000" stop="20260830173000 +0000" channel="Reformed21.id">
     <title lang="id">Reformed 21</title>
     <desc lang="id">Reformed 21 menghadirkan program TV yang berpusat pada injil dan teologia Reformed, selama 24 jam, setiap hari.</desc>
@@ -21657,185 +21752,165 @@
     <desc lang="en">Even after the execution of a demonic serial killer, murders matching his style continue.</desc>
     <icon src="http://ttpl.tmsimg.com/assets/p20470_v_h8_aq.jpg?lock=1280x720"/>
   </programme>
-  <programme start="20260829184400 +0000" stop="20260829202300 +0000" channel="RomedyNow.in">
-    <title lang="en">Movie</title>
-    <desc lang="en">Bringing the best in television.</desc>
-    <icon src="http://ttpl.tmsimg.com/assets/p809737_b_h8_bq.jpg?lock=1280x720"/>
+  <programme start="20260829195800 +0000" stop="20260829211900 +0000" channel="RomedyNow.in">
+    <title lang="en">Mune</title>
+    <desc lang="en">Mune, Glim and Sohone, three friends, work together to retrieve the sun from Necross.</desc>
+    <icon src="http://ttpl.tmsimg.com/assets/p11695589_v_h10_ah.jpg?lock=1280x720"/>
   </programme>
-  <programme start="20260829202300 +0000" stop="20260829215500 +0000" channel="RomedyNow.in">
-    <title lang="en">Movie</title>
-    <desc lang="en">Bringing the best in television.</desc>
-    <icon src="http://ttpl.tmsimg.com/assets/p809737_b_h8_bq.jpg?lock=1280x720"/>
+  <programme start="20260829211900 +0000" stop="20260829213000 +0000" channel="RomedyNow.in">
+    <title lang="en">Shaan-The Love Laugh Live Show</title>
+    <desc lang="en">The host invites prominent personalities and engages them in candid conversations. S03 E01.</desc>
+    <icon src="http://ttpl.tmsimg.com/assets/p25315755_b_h10_aa.jpg?lock=1280x720"/>
   </programme>
-  <programme start="20260829215500 +0000" stop="20260829222000 +0000" channel="RomedyNow.in">
-    <title lang="en">Hollywood on Set</title>
-    <desc lang="en">The filmmaking process is explored through unique insights and fascinating interviews.</desc>
-    <icon src="http://ttpl.tmsimg.com/assets/p724956_b_h10_ae.jpg?lock=1280x720"/>
+  <programme start="20260829213000 +0000" stop="20260829232300 +0000" channel="RomedyNow.in">
+    <title lang="en">Bridget Jones's Baby</title>
+    <desc lang="en">Bridget finds out that she is pregnant but is unsure about the identity of the father.</desc>
+    <icon src="http://ttpl.tmsimg.com/assets/p12230485_v_h8_ak.jpg?lock=1280x720"/>
   </programme>
-  <programme start="20260829222000 +0000" stop="20260829223700 +0000" channel="RomedyNow.in">
-    <title lang="en">DSC</title>
-    <desc lang="en">Talented directors delve into fascinating behind-the-scenes stories.</desc>
-    <icon src="http://ttpl.tmsimg.com/assets/p28586534_b_h8_aa.jpg?lock=1280x720"/>
+  <programme start="20260829232300 +0000" stop="20260830000500 +0000" channel="RomedyNow.in">
+    <title lang="en">Live-The Love Laugh Live Show-The Love Laugh Live Show</title>
+    <desc lang="en">The host invites prominent personalities and engages them in candid conversations.</desc>
+    <icon src="http://ttpl.tmsimg.com/assets/p25315340_b_h10_ab.jpg?lock=1280x720"/>
   </programme>
-  <programme start="20260829223700 +0000" stop="20260830001800 +0000" channel="RomedyNow.in">
-    <title lang="en">Movie</title>
-    <desc lang="en">Bringing the best in television.</desc>
-    <icon src="http://ttpl.tmsimg.com/assets/p809737_b_h8_bq.jpg?lock=1280x720"/>
+  <programme start="20260830000500 +0000" stop="20260830002000 +0000" channel="RomedyNow.in">
+    <title lang="en">Mallika Sherawat-The Love Laugh Live Show</title>
+    <desc lang="en">The host invites prominent personalities and engages them in candid conversations. S03.</desc>
+    <icon src="http://ttpl.tmsimg.com/assets/p25315755_b_h10_aa.jpg?lock=1280x720"/>
   </programme>
-  <programme start="20260830001800 +0000" stop="20260830014300 +0000" channel="RomedyNow.in">
-    <title lang="en">Movie</title>
-    <desc lang="en">Bringing the best in television.</desc>
-    <icon src="http://ttpl.tmsimg.com/assets/p809737_b_h8_bq.jpg?lock=1280x720"/>
+  <programme start="20260830002000 +0000" stop="20260830002700 +0000" channel="RomedyNow.in">
+    <title lang="en">Shaan-The Love Laugh Live Show</title>
+    <desc lang="en">The host invites prominent personalities and engages them in candid conversations. S03 E01.</desc>
+    <icon src="http://ttpl.tmsimg.com/assets/p25315755_b_h10_aa.jpg?lock=1280x720"/>
   </programme>
-  <programme start="20260830014300 +0000" stop="20260830033700 +0000" channel="RomedyNow.in">
-    <title lang="en">Movie</title>
-    <desc lang="en">Bringing the best in television.</desc>
-    <icon src="http://ttpl.tmsimg.com/assets/p809737_b_h8_bq.jpg?lock=1280x720"/>
+  <programme start="20260830002700 +0000" stop="20260830024300 +0000" channel="RomedyNow.in">
+    <title lang="en">Jerry Maguire</title>
+    <desc lang="en">A sports agent tries to get back on his feet with a disgruntled football player's help.</desc>
+    <icon src="http://ttpl.tmsimg.com/assets/p18815_v_h10_an.jpg?lock=1280x720"/>
   </programme>
-  <programme start="20260830033700 +0000" stop="20260830052400 +0000" channel="RomedyNow.in">
-    <title lang="en">Movie</title>
-    <desc lang="en">Bringing the best in television.</desc>
-    <icon src="http://ttpl.tmsimg.com/assets/p809737_b_h8_bq.jpg?lock=1280x720"/>
+  <programme start="20260830024300 +0000" stop="20260830045300 +0000" channel="RomedyNow.in">
+    <title lang="en">Love Actually</title>
+    <desc lang="en">Eight very different couples and their love lives intertwine just before Christmas in London.</desc>
+    <icon src="http://ttpl.tmsimg.com/assets/p32829_v_h8_aq.jpg?lock=1280x720"/>
   </programme>
-  <programme start="20260830052400 +0000" stop="20260830070800 +0000" channel="RomedyNow.in">
-    <title lang="en">Movie</title>
-    <desc lang="en">Bringing the best in television.</desc>
-    <icon src="http://ttpl.tmsimg.com/assets/p809737_b_h8_bq.jpg?lock=1280x720"/>
+  <programme start="20260830045300 +0000" stop="20260830065000 +0000" channel="RomedyNow.in">
+    <title lang="en">Miss Congeniality 2: Armed and Fabulous</title>
+    <desc lang="en">FBI agent Gracie Hart defies direct orders to save her kidnapped friends in Las Vegas.</desc>
+    <icon src="http://ttpl.tmsimg.com/assets/p35617_v_h10_ap.jpg?lock=1280x720"/>
   </programme>
-  <programme start="20260830070800 +0000" stop="20260830084000 +0000" channel="RomedyNow.in">
-    <title lang="en">Movie</title>
-    <desc lang="en">Bringing the best in television.</desc>
-    <icon src="http://ttpl.tmsimg.com/assets/p809737_b_h8_bq.jpg?lock=1280x720"/>
+  <programme start="20260830065000 +0000" stop="20260830084200 +0000" channel="RomedyNow.in">
+    <title lang="en">Miss Congeniality</title>
+    <desc lang="en">An FBI agent goes undercover as a beauty pageant contestant to stop a terrorist attack.</desc>
+    <icon src="http://ttpl.tmsimg.com/assets/p26773_v_h10_av.jpg?lock=1280x720"/>
   </programme>
-  <programme start="20260830084000 +0000" stop="20260830101100 +0000" channel="RomedyNow.in">
-    <title lang="en">Movie</title>
-    <desc lang="en">Bringing the best in television.</desc>
-    <icon src="http://ttpl.tmsimg.com/assets/p809737_b_h8_bq.jpg?lock=1280x720"/>
+  <programme start="20260830084200 +0000" stop="20260830101900 +0000" channel="RomedyNow.in">
+    <title lang="en">A Dog's Way Home</title>
+    <desc lang="en">Bella, a dog, embarks on an arduous journey to be reunited with her owner.</desc>
+    <icon src="http://ttpl.tmsimg.com/assets/p15484124_v_h8_ac.jpg?lock=1280x720"/>
   </programme>
-  <programme start="20260830101100 +0000" stop="20260830115000 +0000" channel="RomedyNow.in">
-    <title lang="en">Movie</title>
-    <desc lang="en">Bringing the best in television.</desc>
-    <icon src="http://ttpl.tmsimg.com/assets/p809737_b_h8_bq.jpg?lock=1280x720"/>
+  <programme start="20260830101900 +0000" stop="20260830114600 +0000" channel="RomedyNow.in">
+    <title lang="en">The Emoji Movie</title>
+    <desc lang="en">A smartphone emoji tries to get rid of his ability to show multiple expressions.</desc>
+    <icon src="http://ttpl.tmsimg.com/assets/p13635399_v_v13_ab.jpg?lock=1280x720"/>
   </programme>
-  <programme start="20260830115000 +0000" stop="20260830134400 +0000" channel="RomedyNow.in">
-    <title lang="en">Movie</title>
-    <desc lang="en">Bringing the best in television.</desc>
-    <icon src="http://ttpl.tmsimg.com/assets/p809737_b_h8_bq.jpg?lock=1280x720"/>
+  <programme start="20260830114600 +0000" stop="20260830134900 +0000" channel="RomedyNow.in">
+    <title lang="en">The Intern</title>
+    <desc lang="en">A retired widower seizes an opportunity to be a senior intern for a fashion site.</desc>
+    <icon src="http://ttpl.tmsimg.com/assets/p11550244_v_h8_bd.jpg?lock=1280x720"/>
   </programme>
-  <programme start="20260830134400 +0000" stop="20260830153000 +0000" channel="RomedyNow.in">
-    <title lang="en">Movie</title>
-    <desc lang="en">Bringing the best in television.</desc>
-    <icon src="http://ttpl.tmsimg.com/assets/p809737_b_h8_bq.jpg?lock=1280x720"/>
+  <programme start="20260830134900 +0000" stop="20260830153000 +0000" channel="RomedyNow.in">
+    <title lang="en">What to Expect When You're Expecting</title>
+    <desc lang="en">Five couples' lives are turned upside down by the challenges of impending parenthood.</desc>
+    <icon src="http://ttpl.tmsimg.com/assets/p8915852_v_h10_al.jpg?lock=1280x720"/>
   </programme>
-  <programme start="20260830153000 +0000" stop="20260830172900 +0000" channel="RomedyNow.in">
-    <title lang="en">Movie</title>
-    <desc lang="en">Bringing the best in television.</desc>
-    <icon src="http://ttpl.tmsimg.com/assets/p809737_b_h8_bq.jpg?lock=1280x720"/>
+  <programme start="20260830153000 +0000" stop="20260830171100 +0000" channel="RomedyNow.in">
+    <title lang="en">The Lake House</title>
+    <desc lang="en">Kate and Alex exchange love letters but are unaware that they lead lives two years apart.</desc>
+    <icon src="http://ttpl.tmsimg.com/assets/p160706_v_h10_ak.jpg?lock=1280x720"/>
   </programme>
-  <programme start="20260830172900 +0000" stop="20260830190700 +0000" channel="RomedyNow.in">
-    <title lang="en">Movie</title>
-    <desc lang="en">Bringing the best in television.</desc>
-    <icon src="http://ttpl.tmsimg.com/assets/p809737_b_h8_bq.jpg?lock=1280x720"/>
+  <programme start="20260830171100 +0000" stop="20260830192100 +0000" channel="RomedyNow.in">
+    <title lang="en">Sex and the City</title>
+    <desc lang="en">Big becomes nervous on his wedding day when Miranda tells him about marriage's reality.</desc>
+    <icon src="http://ttpl.tmsimg.com/assets/p173504_v_h10_aj.jpg?lock=1280x720"/>
   </programme>
-  <programme start="20260830190700 +0000" stop="20260830203100 +0000" channel="RomedyNow.in">
-    <title lang="en">Movie</title>
-    <desc lang="en">Bringing the best in television.</desc>
-    <icon src="http://ttpl.tmsimg.com/assets/p809737_b_h8_bq.jpg?lock=1280x720"/>
+  <programme start="20260830192100 +0000" stop="20260830210500 +0000" channel="RomedyNow.in">
+    <title lang="en">Miss You Already</title>
+    <desc lang="en">Milly and Jess's lives turn upside down when Milly gets diagnosed with breast cancer.</desc>
+    <icon src="http://ttpl.tmsimg.com/assets/p12091923_v_h10_ab.jpg?lock=1280x720"/>
   </programme>
-  <programme start="20260830203100 +0000" stop="20260830205600 +0000" channel="RomedyNow.in">
-    <title lang="en">Hollywood on Set</title>
-    <desc lang="en">The filmmaking process is explored through unique insights and fascinating interviews.</desc>
-    <icon src="http://ttpl.tmsimg.com/assets/p724956_b_h10_ae.jpg?lock=1280x720"/>
+  <programme start="20260830210500 +0000" stop="20260830221600 +0000" channel="RomedyNow.in">
+    <title lang="en">The Starving Games</title>
+    <desc lang="en">A group of contestants strive to survive in a wild game organised by President Snow.</desc>
+    <icon src="http://ttpl.tmsimg.com/assets/p10239070_v_h8_aa.jpg?lock=1280x720"/>
   </programme>
-  <programme start="20260830205600 +0000" stop="20260830212200 +0000" channel="RomedyNow.in">
-    <title lang="en">Hollywood on Set</title>
-    <desc lang="en">The filmmaking process is explored through unique insights and fascinating interviews.</desc>
-    <icon src="http://ttpl.tmsimg.com/assets/p724956_b_h10_ae.jpg?lock=1280x720"/>
+  <programme start="20260830221600 +0000" stop="20260830222600 +0000" channel="RomedyNow.in">
+    <title lang="en">Sonakshi Sinha-The Love Laugh Live Show</title>
+    <desc lang="en">The host invites prominent personalities and engages them in candid conversations. S03 E05.</desc>
+    <icon src="http://ttpl.tmsimg.com/assets/p25315755_b_h10_aa.jpg?lock=1280x720"/>
   </programme>
-  <programme start="20260830212200 +0000" stop="20260830213000 +0000" channel="RomedyNow.in">
-    <title lang="en">DSC</title>
-    <desc lang="en">Talented directors delve into fascinating behind-the-scenes stories.</desc>
-    <icon src="http://ttpl.tmsimg.com/assets/p28586534_b_h8_aa.jpg?lock=1280x720"/>
+  <programme start="20260830222600 +0000" stop="20260830223500 +0000" channel="RomedyNow.in">
+    <title lang="en">Shruti Hassan-The Love Laugh Live Show</title>
+    <desc lang="en">The host invites prominent personalities and engages them in candid conversations. S03 E04.</desc>
+    <icon src="http://ttpl.tmsimg.com/assets/p25315755_b_h10_aa.jpg?lock=1280x720"/>
   </programme>
-  <programme start="20260830213000 +0000" stop="20260830221100 +0000" channel="RomedyNow.in">
-    <title lang="en">DSC</title>
-    <desc lang="en">Talented directors delve into fascinating behind-the-scenes stories.</desc>
-    <icon src="http://ttpl.tmsimg.com/assets/p28586534_b_h8_aa.jpg?lock=1280x720"/>
+  <programme start="20260830223500 +0000" stop="20260830232000 +0000" channel="RomedyNow.in">
+    <title lang="en">Live-The Love Laugh Live Show-The Love Laugh Live Show</title>
+    <desc lang="en">The host invites prominent personalities and engages them in candid conversations.</desc>
+    <icon src="http://ttpl.tmsimg.com/assets/p25315340_b_h10_ab.jpg?lock=1280x720"/>
   </programme>
-  <programme start="20260830221100 +0000" stop="20260830224400 +0000" channel="RomedyNow.in">
-    <title lang="en">Stars!</title>
-    <desc lang="en">The host traces the journeys of various popular celebrities to stardom.</desc>
-    <icon src="http://ttpl.tmsimg.com/assets/p14525098_b_h10_ab.jpg?lock=1280x720"/>
+  <programme start="20260830232000 +0000" stop="20260831010000 +0000" channel="RomedyNow.in">
+    <title lang="en">Bridget Jones: The Edge of Reason</title>
+    <desc lang="en">Bridget gets uncomfortable in her relationship with Mark and dislikes his opinions.</desc>
+    <icon src="http://ttpl.tmsimg.com/assets/p35099_v_h8_aj.jpg?lock=1280x720"/>
   </programme>
-  <programme start="20260830224400 +0000" stop="20260830225700 +0000" channel="RomedyNow.in">
-    <title lang="en">DSC</title>
-    <desc lang="en">Talented directors delve into fascinating behind-the-scenes stories.</desc>
-    <icon src="http://ttpl.tmsimg.com/assets/p28586534_b_h8_aa.jpg?lock=1280x720"/>
+  <programme start="20260831010000 +0000" stop="20260831023500 +0000" channel="RomedyNow.in">
+    <title lang="en">What to Expect When You're Expecting</title>
+    <desc lang="en">Five couples' lives are turned upside down by the challenges of impending parenthood.</desc>
+    <icon src="http://ttpl.tmsimg.com/assets/p8915852_v_h10_al.jpg?lock=1280x720"/>
   </programme>
-  <programme start="20260830225700 +0000" stop="20260831002300 +0000" channel="RomedyNow.in">
-    <title lang="en">Movie</title>
-    <desc lang="en">Bringing the best in television.</desc>
-    <icon src="http://ttpl.tmsimg.com/assets/p809737_b_h8_bq.jpg?lock=1280x720"/>
+  <programme start="20260831023500 +0000" stop="20260831042500 +0000" channel="RomedyNow.in">
+    <title lang="en">Meet the Parents</title>
+    <desc lang="en">Greg ends up like a hamster on a wheel of misadventures in an attempt to charm his future in-laws.</desc>
+    <icon src="http://ttpl.tmsimg.com/assets/p26230_v_h8_aq.jpg?lock=1280x720"/>
   </programme>
-  <programme start="20260831002300 +0000" stop="20260831020100 +0000" channel="RomedyNow.in">
-    <title lang="en">Movie</title>
-    <desc lang="en">Bringing the best in television.</desc>
-    <icon src="http://ttpl.tmsimg.com/assets/p809737_b_h8_bq.jpg?lock=1280x720"/>
+  <programme start="20260831042500 +0000" stop="20260831060500 +0000" channel="RomedyNow.in">
+    <title lang="en">The Back-up Plan</title>
+    <desc lang="en">A single woman meets the man of her dreams the day she becomes pregnant.</desc>
+    <icon src="http://ttpl.tmsimg.com/assets/p7812551_v_h10_an.jpg?lock=1280x720"/>
   </programme>
-  <programme start="20260831020100 +0000" stop="20260831033200 +0000" channel="RomedyNow.in">
-    <title lang="en">Movie</title>
-    <desc lang="en">Bringing the best in television.</desc>
-    <icon src="http://ttpl.tmsimg.com/assets/p809737_b_h8_bq.jpg?lock=1280x720"/>
+  <programme start="20260831060500 +0000" stop="20260831074000 +0000" channel="RomedyNow.in">
+    <title lang="en">Bridget Jones's Diary</title>
+    <desc lang="en">A neurotic thirty-something woman resolves to take control of her life once and for all.</desc>
+    <icon src="http://ttpl.tmsimg.com/assets/p27484_v_h8_an.jpg?lock=1280x720"/>
   </programme>
-  <programme start="20260831033200 +0000" stop="20260831050700 +0000" channel="RomedyNow.in">
-    <title lang="en">Movie</title>
-    <desc lang="en">Bringing the best in television.</desc>
-    <icon src="http://ttpl.tmsimg.com/assets/p809737_b_h8_bq.jpg?lock=1280x720"/>
+  <programme start="20260831074000 +0000" stop="20260831091000 +0000" channel="RomedyNow.in">
+    <title lang="en">Laws of Attraction</title>
+    <desc lang="en">Two New York lawyers who often compete against each other fall in love and get married.</desc>
+    <icon src="http://ttpl.tmsimg.com/assets/p33407_v_h10_aa.jpg?lock=1280x720"/>
   </programme>
-  <programme start="20260831050700 +0000" stop="20260831065200 +0000" channel="RomedyNow.in">
-    <title lang="en">Movie</title>
-    <desc lang="en">Bringing the best in television.</desc>
-    <icon src="http://ttpl.tmsimg.com/assets/p809737_b_h8_bq.jpg?lock=1280x720"/>
+  <programme start="20260831091000 +0000" stop="20260831111500 +0000" channel="RomedyNow.in">
+    <title lang="en">What Women Want</title>
+    <desc lang="en">When a middle-aged man is gifted with the power to read women's mind, he outwits his boss.</desc>
+    <icon src="http://ttpl.tmsimg.com/assets/p26085_v_h8_ab.jpg?lock=1280x720"/>
   </programme>
-  <programme start="20260831065200 +0000" stop="20260831081000 +0000" channel="RomedyNow.in">
-    <title lang="en">Movie</title>
-    <desc lang="en">Bringing the best in television.</desc>
-    <icon src="http://ttpl.tmsimg.com/assets/p809737_b_h8_bq.jpg?lock=1280x720"/>
+  <programme start="20260831111500 +0000" stop="20260831124500 +0000" channel="RomedyNow.in">
+    <title lang="en">Captain Underpants: The First Epic Movie</title>
+    <desc lang="en">Pranksters George and Harold hypnotise Principal Krupp into becoming Captain Underpants.</desc>
+    <icon src="http://ttpl.tmsimg.com/assets/p12742429_v_h8_ad.jpg?lock=1280x720"/>
   </programme>
-  <programme start="20260831081000 +0000" stop="20260831094600 +0000" channel="RomedyNow.in">
-    <title lang="en">Movie</title>
-    <desc lang="en">Bringing the best in television.</desc>
-    <icon src="http://ttpl.tmsimg.com/assets/p809737_b_h8_bq.jpg?lock=1280x720"/>
+  <programme start="20260831124500 +0000" stop="20260831153000 +0000" channel="RomedyNow.in">
+    <title lang="en">Wicked</title>
+    <desc lang="en">Elphaba and Glinda's friendship faces challenges against the powerful Wizard of Oz.</desc>
+    <icon src="http://ttpl.tmsimg.com/assets/p18097005_v_h8_aq.jpg?lock=1280x720"/>
   </programme>
-  <programme start="20260831094600 +0000" stop="20260831110000 +0000" channel="RomedyNow.in">
-    <title lang="en">Movie</title>
-    <desc lang="en">Bringing the best in television.</desc>
-    <icon src="http://ttpl.tmsimg.com/assets/p809737_b_h8_bq.jpg?lock=1280x720"/>
+  <programme start="20260831153000 +0000" stop="20260831173500 +0000" channel="RomedyNow.in">
+    <title lang="en">P.S. I Love You</title>
+    <desc lang="en">A woman's life changes when she learns that her late husband has left her some messages.</desc>
+    <icon src="http://ttpl.tmsimg.com/assets/p170981_v_h10_ao.jpg?lock=1280x720"/>
   </programme>
-  <programme start="20260831110000 +0000" stop="20260831123100 +0000" channel="RomedyNow.in">
-    <title lang="en">Movie</title>
-    <desc lang="en">Bringing the best in television.</desc>
-    <icon src="http://ttpl.tmsimg.com/assets/p809737_b_h8_bq.jpg?lock=1280x720"/>
-  </programme>
-  <programme start="20260831123100 +0000" stop="20260831140200 +0000" channel="RomedyNow.in">
-    <title lang="en">Movie</title>
-    <desc lang="en">Bringing the best in television.</desc>
-    <icon src="http://ttpl.tmsimg.com/assets/p809737_b_h8_bq.jpg?lock=1280x720"/>
-  </programme>
-  <programme start="20260831140200 +0000" stop="20260831153000 +0000" channel="RomedyNow.in">
-    <title lang="en">Movie</title>
-    <desc lang="en">Bringing the best in television.</desc>
-    <icon src="http://ttpl.tmsimg.com/assets/p809737_b_h8_bq.jpg?lock=1280x720"/>
-  </programme>
-  <programme start="20260831153000 +0000" stop="20260831170700 +0000" channel="RomedyNow.in">
-    <title lang="en">Movie</title>
-    <desc lang="en">Bringing the best in television.</desc>
-    <icon src="http://ttpl.tmsimg.com/assets/p809737_b_h8_bq.jpg?lock=1280x720"/>
-  </programme>
-  <programme start="20260831170700 +0000" stop="20260831185400 +0000" channel="RomedyNow.in">
-    <title lang="en">Movie</title>
-    <desc lang="en">Bringing the best in television.</desc>
-    <icon src="http://ttpl.tmsimg.com/assets/p809737_b_h8_bq.jpg?lock=1280x720"/>
+  <programme start="20260831173500 +0000" stop="20260831192000 +0000" channel="RomedyNow.in">
+    <title lang="en">Mamma Mia!</title>
+    <desc lang="en">Sophie secretly invites three of her mother's former lovers to her upcoming wedding.</desc>
+    <icon src="http://ttpl.tmsimg.com/assets/p176344_v_h10_ac.jpg?lock=1280x720"/>
   </programme>
   <programme start="20260828184600 +0000" stop="20260828195600 +0000" channel="SCTV.id">
     <title lang="id">Cinta Datang Waktu Kamu Tidur</title>
@@ -23187,45 +23262,75 @@
     <desc lang="en">Steve Rogers becomes Captain America to bring down Red Skull and the HYDRA organisation.</desc>
     <icon src="http://ttpl.tmsimg.com/assets/p8205710_v_h8_an.jpg?lock=1280x720"/>
   </programme>
-  <programme start="20260829183000 +0000" stop="20260829213000 +0000" channel="StarMovies.in">
-    <title lang="en">Movie</title>
-    <desc lang="en">Bringing the best in television.</desc>
-    <icon src="http://ttpl.tmsimg.com/assets/p809737_b_h8_bq.jpg?lock=1280x720"/>
+  <programme start="20260829185800 +0000" stop="20260829205500 +0000" channel="StarMovies.in">
+    <title lang="en">Terminator: Dark Fate</title>
+    <desc lang="en">A cyborg must prevent the death of a woman fated to ensure the survival of the human race.</desc>
+    <icon src="http://ttpl.tmsimg.com/assets/p14592194_v_h8_ac.jpg?lock=1280x720"/>
   </programme>
-  <programme start="20260829213000 +0000" stop="20260830003000 +0000" channel="StarMovies.in">
-    <title lang="en">Movie</title>
-    <desc lang="en">Bringing the best in television.</desc>
-    <icon src="http://ttpl.tmsimg.com/assets/p809737_b_h8_bq.jpg?lock=1280x720"/>
+  <programme start="20260829205500 +0000" stop="20260829224600 +0000" channel="StarMovies.in">
+    <title lang="en">King Of Serpant</title>
+    <desc lang="en">A man's small village faces certain death unless he hunts and kills a giant python.</desc>
+    <icon src="http://ttpl.tmsimg.com/assets/p28586075_b_h10_ac.jpg?lock=1280x720"/>
   </programme>
-  <programme start="20260830003000 +0000" stop="20260830033000 +0000" channel="StarMovies.in">
-    <title lang="en">Movie</title>
+  <programme start="20260829224600 +0000" stop="20260830000900 +0000" channel="StarMovies.in">
+    <title lang="en">Filler</title>
     <desc lang="en">Bringing the best in television.</desc>
-    <icon src="http://ttpl.tmsimg.com/assets/p809737_b_h8_bq.jpg?lock=1280x720"/>
+    <icon src="http://ttpl.tmsimg.com/assets/p9162875_b_h8_ai.jpg?lock=1280x720"/>
   </programme>
-  <programme start="20260830033000 +0000" stop="20260830063000 +0000" channel="StarMovies.in">
-    <title lang="en">Movie</title>
-    <desc lang="en">Bringing the best in television.</desc>
-    <icon src="http://ttpl.tmsimg.com/assets/p809737_b_h8_bq.jpg?lock=1280x720"/>
+  <programme start="20260830000900 +0000" stop="20260830012900 +0000" channel="StarMovies.in">
+    <title lang="en">Kunlun Battle</title>
+    <desc lang="en">A Kunlun gatekeeper's son forms an alliance with a powerful man to avenge his father.</desc>
+    <icon src="http://ttpl.tmsimg.com/assets/p28633446_v_h10_aa.jpg?lock=1280x720"/>
   </programme>
-  <programme start="20260830063000 +0000" stop="20260830093000 +0000" channel="StarMovies.in">
-    <title lang="en">Movie</title>
-    <desc lang="en">Bringing the best in television.</desc>
-    <icon src="http://ttpl.tmsimg.com/assets/p809737_b_h8_bq.jpg?lock=1280x720"/>
+  <programme start="20260830012900 +0000" stop="20260830025800 +0000" channel="StarMovies.in">
+    <title lang="en">Detective Di Skeleton General</title>
+    <desc lang="en">When a village community is left reeling from serial killings, a renowned detective investigates.</desc>
+    <icon src="http://ttpl.tmsimg.com/assets/p24790955_b_h10_ac.jpg?lock=1280x720"/>
   </programme>
-  <programme start="20260830093000 +0000" stop="20260830123000 +0000" channel="StarMovies.in">
-    <title lang="en">Movie</title>
-    <desc lang="en">Bringing the best in television.</desc>
-    <icon src="http://ttpl.tmsimg.com/assets/p809737_b_h8_bq.jpg?lock=1280x720"/>
+  <programme start="20260830025800 +0000" stop="20260830044400 +0000" channel="StarMovies.in">
+    <title lang="en">Ice Age: The Meltdown</title>
+    <desc lang="en">A valley threatened by flooding forces Manny, Sid and Diego on a perilous journey.</desc>
+    <icon src="http://ttpl.tmsimg.com/assets/p159726_v_h10_ak.jpg?lock=1280x720"/>
   </programme>
-  <programme start="20260830123000 +0000" stop="20260830153000 +0000" channel="StarMovies.in">
-    <title lang="en">Movie</title>
-    <desc lang="en">Bringing the best in television.</desc>
-    <icon src="http://ttpl.tmsimg.com/assets/p809737_b_h8_bq.jpg?lock=1280x720"/>
+  <programme start="20260830044400 +0000" stop="20260830063000 +0000" channel="StarMovies.in">
+    <title lang="en">Percy Jackson: Sea of Monsters</title>
+    <desc lang="en">Percy Jackson and his friends try to find the Golden Fleece in the Sea of Monsters.</desc>
+    <icon src="http://ttpl.tmsimg.com/assets/p9756823_v_h8_bs.jpg?lock=1280x720"/>
   </programme>
-  <programme start="20260830153000 +0000" stop="20260830183000 +0000" channel="StarMovies.in">
-    <title lang="en">Movie</title>
-    <desc lang="en">Bringing the best in television.</desc>
-    <icon src="http://ttpl.tmsimg.com/assets/p809737_b_h8_bq.jpg?lock=1280x720"/>
+  <programme start="20260830063000 +0000" stop="20260830080900 +0000" channel="StarMovies.in">
+    <title lang="en">Father of the Bride</title>
+    <desc lang="en">George Banks, a family man, struggles to deal with his daughter's forthcoming wedding.</desc>
+    <icon src="http://ttpl.tmsimg.com/assets/p13625_v_h8_ao.jpg?lock=1280x720"/>
+  </programme>
+  <programme start="20260830080900 +0000" stop="20260830100500 +0000" channel="StarMovies.in">
+    <title lang="en">Turning Red</title>
+    <desc lang="en">A girl's life becomes extremely exciting after turning into a giant red panda.</desc>
+    <icon src="http://ttpl.tmsimg.com/assets/p21888567_v_h10_ab.jpg?lock=1280x720"/>
+  </programme>
+  <programme start="20260830100500 +0000" stop="20260830121300 +0000" channel="StarMovies.in">
+    <title lang="en">Maleficent: Mistress of Evil</title>
+    <desc lang="en">Maleficent and Aurora grow distant, unaware that a great danger lurks around the corner.</desc>
+    <icon src="http://ttpl.tmsimg.com/assets/p15728868_v_h8_ao.jpg?lock=1280x720"/>
+  </programme>
+  <programme start="20260830121300 +0000" stop="20260830134300 +0000" channel="StarMovies.in">
+    <title lang="en">Doctor Strange in the Multiverse of Madness</title>
+    <desc lang="en">As chaos ensues after the multiverse opens, Doctor Strange must face an unexpected foe.</desc>
+    <icon src="http://ttpl.tmsimg.com/assets/p19128463_v_h10_bc.jpg?lock=1280x720"/>
+  </programme>
+  <programme start="20260830134300 +0000" stop="20260830153000 +0000" channel="StarMovies.in">
+    <title lang="en">Anacondas: Trail of Blood</title>
+    <desc lang="en">Murdoch sends assassins to kill Amanda and obtain a serum that helps anacondas grow.</desc>
+    <icon src="http://ttpl.tmsimg.com/assets/p194857_v_h11_aa.jpg?lock=1280x720"/>
+  </programme>
+  <programme start="20260830153000 +0000" stop="20260830170600 +0000" channel="StarMovies.in">
+    <title lang="en">Cinderella</title>
+    <desc lang="en">A young woman lives with her abusive stepmother who treats her as the maid of the house.</desc>
+    <icon src="http://ttpl.tmsimg.com/assets/p10782342_v_h10_ad.jpg?lock=1280x720"/>
+  </programme>
+  <programme start="20260830170600 +0000" stop="20260830192400 +0000" channel="StarMovies.in">
+    <title lang="en">Turning Red</title>
+    <desc lang="en">A girl's life becomes extremely exciting after turning into a giant red panda.</desc>
+    <icon src="http://ttpl.tmsimg.com/assets/p21888567_v_h10_ab.jpg?lock=1280x720"/>
   </programme>
   <programme start="20260830183000 +0000" stop="20260830213000 +0000" channel="StarMovies.in">
     <title lang="en">Movie</title>
@@ -23347,85 +23452,80 @@
     <desc lang="en">A deranged recluse enslaves teenage siblings in her horrifying home.</desc>
     <icon src="http://ttpl.tmsimg.com/assets/p9642135_v_h10_ae.jpg?lock=1280x720"/>
   </programme>
-  <programme start="20260829184300 +0000" stop="20260829201100 +0000" channel="StarMoviesSelect.in">
-    <title lang="en">Movie</title>
-    <desc lang="en">Bringing the best in television.</desc>
-    <icon src="http://ttpl.tmsimg.com/assets/p809737_b_h8_bq.jpg?lock=1280x720"/>
+  <programme start="20260829190300 +0000" stop="20260829201900 +0000" channel="StarMoviesSelect.in">
+    <title lang="en">Mojin The Dragon Labyrinth</title>
+    <desc lang="en">When four adventurers go astray in Gulan County, they chase the truth behind a curse.</desc>
+    <icon src="http://ttpl.tmsimg.com/assets/p28585788_b_h10_ab.jpg?lock=1280x720"/>
   </programme>
-  <programme start="20260829201100 +0000" stop="20260829213400 +0000" channel="StarMoviesSelect.in">
-    <title lang="en">Movie</title>
-    <desc lang="en">Bringing the best in television.</desc>
-    <icon src="http://ttpl.tmsimg.com/assets/p809737_b_h8_bq.jpg?lock=1280x720"/>
+  <programme start="20260829201900 +0000" stop="20260829214600 +0000" channel="StarMoviesSelect.in">
+    <title lang="en">Gremlins</title>
+    <desc lang="en">When Billy forgets to follow three rules concerning his exotic pet, trouble ensues.</desc>
+    <icon src="http://ttpl.tmsimg.com/assets/p8660_v_h10_aa.jpg?lock=1280x720"/>
   </programme>
-  <programme start="20260829213400 +0000" stop="20260829215000 +0000" channel="StarMoviesSelect.in">
+  <programme start="20260829214600 +0000" stop="20260829231400 +0000" channel="StarMoviesSelect.in">
+    <title lang="en">Guardians The Superheroes</title>
+    <desc lang="en">A group of superheroes must assemble to defeat an evil scientist and his robot army.</desc>
+    <icon src="http://ttpl.tmsimg.com/assets/p28476973_v_h8_ab.jpg?lock=1280x720"/>
+  </programme>
+  <programme start="20260829231400 +0000" stop="20260829235700 +0000" channel="StarMoviesSelect.in">
     <title lang="en">Filler</title>
     <desc lang="en">Bringing the best in television.</desc>
-    <icon src="http://ttpl.tmsimg.com/assets/p28139681_b_h8_aa.jpg?lock=1280x720"/>
+    <icon src="http://ttpl.tmsimg.com/assets/p26697972_b_h8_aa.jpg?lock=1280x720"/>
   </programme>
-  <programme start="20260829215000 +0000" stop="20260829230100 +0000" channel="StarMoviesSelect.in">
-    <title lang="en">Movie</title>
-    <desc lang="en">Bringing the best in television.</desc>
-    <icon src="http://ttpl.tmsimg.com/assets/p809737_b_h8_bq.jpg?lock=1280x720"/>
+  <programme start="20260829235700 +0000" stop="20260830014200 +0000" channel="StarMoviesSelect.in">
+    <title lang="en">Journey to the West: The Demons Strike Back</title>
+    <desc lang="en">A monk and his disciples strive to fight various monsters during their journey.</desc>
+    <icon src="http://ttpl.tmsimg.com/assets/p13770970_v_h8_ab.jpg?lock=1280x720"/>
   </programme>
-  <programme start="20260829230100 +0000" stop="20260829234800 +0000" channel="StarMoviesSelect.in">
-    <title lang="en">Filler</title>
-    <desc lang="en">Bringing the best in television.</desc>
-    <icon src="http://ttpl.tmsimg.com/assets/p28139681_b_h8_aa.jpg?lock=1280x720"/>
+  <programme start="20260830014200 +0000" stop="20260830030500 +0000" channel="StarMoviesSelect.in">
+    <title lang="en">Darkroom</title>
+    <desc lang="en">Michelle accepts a role and confines her within a house with three deranged relatives.</desc>
+    <icon src="http://ttpl.tmsimg.com/assets/p10059222_v_h10_ac.jpg?lock=1280x720"/>
   </programme>
-  <programme start="20260829234800 +0000" stop="20260830010800 +0000" channel="StarMoviesSelect.in">
-    <title lang="en">Movie</title>
-    <desc lang="en">Bringing the best in television.</desc>
-    <icon src="http://ttpl.tmsimg.com/assets/p809737_b_h8_bq.jpg?lock=1280x720"/>
+  <programme start="20260830030500 +0000" stop="20260830043000 +0000" channel="StarMoviesSelect.in">
+    <title lang="en">Toy Story</title>
+    <desc lang="en">Andy's favourite toy, Woody, hatches a plan to eliminate his new toy, Buzz Lightyear.</desc>
+    <icon src="http://ttpl.tmsimg.com/assets/p17420_v_h10_ac.jpg?lock=1280x720"/>
   </programme>
-  <programme start="20260830010800 +0000" stop="20260830023500 +0000" channel="StarMoviesSelect.in">
-    <title lang="en">Movie</title>
-    <desc lang="en">Bringing the best in television.</desc>
-    <icon src="http://ttpl.tmsimg.com/assets/p809737_b_h8_bq.jpg?lock=1280x720"/>
+  <programme start="20260830043000 +0000" stop="20260830061700 +0000" channel="StarMoviesSelect.in">
+    <title lang="en">A Knight's War</title>
+    <desc lang="en">A courageous knight embarks on a perilous mission to save a woman's soul.</desc>
+    <icon src="http://ttpl.tmsimg.com/assets/p29263988_v_h8_af.jpg?lock=1280x720"/>
   </programme>
-  <programme start="20260830023500 +0000" stop="20260830042500 +0000" channel="StarMoviesSelect.in">
-    <title lang="en">Movie</title>
-    <desc lang="en">Bringing the best in television.</desc>
-    <icon src="http://ttpl.tmsimg.com/assets/p809737_b_h8_bq.jpg?lock=1280x720"/>
+  <programme start="20260830061700 +0000" stop="20260830083200 +0000" channel="StarMoviesSelect.in">
+    <title lang="en">Cruella</title>
+    <desc lang="en">Grifter Estella becomes vengeful Cruella after meeting a famous fashion designer.</desc>
+    <icon src="http://ttpl.tmsimg.com/assets/p18828861_v_h11_al.jpg?lock=1280x720"/>
   </programme>
-  <programme start="20260830042500 +0000" stop="20260830055300 +0000" channel="StarMoviesSelect.in">
-    <title lang="en">Movie</title>
-    <desc lang="en">Bringing the best in television.</desc>
-    <icon src="http://ttpl.tmsimg.com/assets/p809737_b_h8_bq.jpg?lock=1280x720"/>
+  <programme start="20260830083200 +0000" stop="20260830100000 +0000" channel="StarMoviesSelect.in">
+    <title lang="en">Bad Connection</title>
+    <desc lang="en">A downtrodden young waitress buys a stolen cell phone and discovers a snuff film on it.</desc>
+    <icon src="http://ttpl.tmsimg.com/assets/p28248762_v_h10_aa.jpg?lock=1280x720"/>
   </programme>
-  <programme start="20260830055300 +0000" stop="20260830072800 +0000" channel="StarMoviesSelect.in">
-    <title lang="en">Movie</title>
-    <desc lang="en">Bringing the best in television.</desc>
-    <icon src="http://ttpl.tmsimg.com/assets/p809737_b_h8_bq.jpg?lock=1280x720"/>
+  <programme start="20260830100000 +0000" stop="20260830114700 +0000" channel="StarMoviesSelect.in">
+    <title lang="en">A Haunting in Venice</title>
+    <desc lang="en">Hercule Poirot comes out of retirement to solve a murder that takes place during a seance.</desc>
+    <icon src="http://ttpl.tmsimg.com/assets/p24133539_v_h10_at.jpg?lock=1280x720"/>
   </programme>
-  <programme start="20260830072800 +0000" stop="20260830091300 +0000" channel="StarMoviesSelect.in">
-    <title lang="en">Movie</title>
-    <desc lang="en">Bringing the best in television.</desc>
-    <icon src="http://ttpl.tmsimg.com/assets/p809737_b_h8_bq.jpg?lock=1280x720"/>
+  <programme start="20260830114700 +0000" stop="20260830132700 +0000" channel="StarMoviesSelect.in">
+    <title lang="en">WALL-E</title>
+    <desc lang="en">When WALL-E falls in love with EVE, he impulsively follows her into outer space.</desc>
+    <icon src="http://ttpl.tmsimg.com/assets/p174374_v_h8_ae.jpg?lock=1280x720"/>
   </programme>
-  <programme start="20260830091300 +0000" stop="20260830113600 +0000" channel="StarMoviesSelect.in">
-    <title lang="en">Movie</title>
-    <desc lang="en">Bringing the best in television.</desc>
-    <icon src="http://ttpl.tmsimg.com/assets/p809737_b_h8_bq.jpg?lock=1280x720"/>
+  <programme start="20260830132700 +0000" stop="20260830153000 +0000" channel="StarMoviesSelect.in">
+    <title lang="en">Disney'S The Finest Hours</title>
+    <desc lang="en">When a powerful blizzard tears an oil tanker in half, Bernie sails to help.</desc>
+    <icon src="http://ttpl.tmsimg.com/assets/p11431313_v_h10_ae.jpg?lock=1280x720"/>
   </programme>
-  <programme start="20260830113600 +0000" stop="20260830131900 +0000" channel="StarMoviesSelect.in">
-    <title lang="en">Movie</title>
-    <desc lang="en">Bringing the best in television.</desc>
-    <icon src="http://ttpl.tmsimg.com/assets/p809737_b_h8_bq.jpg?lock=1280x720"/>
+  <programme start="20260830153000 +0000" stop="20260830180500 +0000" channel="StarMoviesSelect.in">
+    <title lang="en">Star Wars: The Last Jedi</title>
+    <desc lang="en">Rey seeks to learn the ways of the Jedi to help the Resistance fight the First Order.</desc>
+    <icon src="http://ttpl.tmsimg.com/assets/p11597936_v_h10_ap.jpg?lock=1280x720"/>
   </programme>
-  <programme start="20260830131900 +0000" stop="20260830153000 +0000" channel="StarMoviesSelect.in">
-    <title lang="en">Movie</title>
-    <desc lang="en">Bringing the best in television.</desc>
-    <icon src="http://ttpl.tmsimg.com/assets/p809737_b_h8_bq.jpg?lock=1280x720"/>
-  </programme>
-  <programme start="20260830153000 +0000" stop="20260830172100 +0000" channel="StarMoviesSelect.in">
-    <title lang="en">Movie</title>
-    <desc lang="en">Bringing the best in television.</desc>
-    <icon src="http://ttpl.tmsimg.com/assets/p809737_b_h8_bq.jpg?lock=1280x720"/>
-  </programme>
-  <programme start="20260830172100 +0000" stop="20260830191400 +0000" channel="StarMoviesSelect.in">
-    <title lang="en">Movie</title>
-    <desc lang="en">Bringing the best in television.</desc>
-    <icon src="http://ttpl.tmsimg.com/assets/p809737_b_h8_bq.jpg?lock=1280x720"/>
+  <programme start="20260830180500 +0000" stop="20260830193600 +0000" channel="StarMoviesSelect.in">
+    <title lang="en">F Plus</title>
+    <desc lang="en">A group of teenagers breaks into their middle school to alter their failing test grades.</desc>
+    <icon src="http://ttpl.tmsimg.com/assets/p27625786_v_h8_ab.jpg?lock=1280x720"/>
   </programme>
   <programme start="20260830191400 +0000" stop="20260830204700 +0000" channel="StarMoviesSelect.in">
     <title lang="en">Movie</title>
@@ -25681,129 +25781,163 @@
   <programme start="20260831150000 +0000" stop="20260831170000 +0000" channel="VisionPrime.id">
     <title lang="id">Srimulat: Hil Yang Mustahal</title>
   </programme>
-  <programme start="20260828155000 +0000" stop="20260828174000 +0000" channel="WarnerTV.id">
-    <title lang="id">The Wrong Man</title>
-    <desc lang="id">Drama kriminal tentang seorang pria yang dituduh melakukan kejahatan yang tak pernah dilakukannya, menyoroti ketegangan antara kebenaran dan keadilan.</desc>
+  <programme start="20260829154000 +0000" stop="20260829172500 +0000" channel="WarnerTV.id">
+    <title lang="id">The Invasion</title>
+    <desc lang="id">Seorang psikiater berjuang melindungi anaknya saat epidemi alien misterius menyerang dan mengubah perilaku manusia di bumi.</desc>
   </programme>
-  <programme start="20260828174000 +0000" stop="20260828182000 +0000" channel="WarnerTV.id">
+  <programme start="20260829172500 +0000" stop="20260829181500 +0000" channel="WarnerTV.id">
+    <title lang="id">Titans S2 - Eps. 4</title>
+    <desc lang="id">Setelah kekalahan Trigon, Dick Grayson mengumpulkan kembali tim Titans muda. Namun, masa lalu mereka kembali menghantui saat pembunuh bayaran berbahaya, Deathstroke, datang mengintai.</desc>
+    <episode-num system="xmltv_ns">1.3.0/1</episode-num>
+    <episode-num system="onscreen">S02E04</episode-num>
+  </programme>
+  <programme start="20260829181500 +0000" stop="20260829190500 +0000" channel="WarnerTV.id">
+    <title lang="id">Titans S2 - Eps. 5</title>
+    <desc lang="id">Setelah kekalahan Trigon, Dick Grayson mengumpulkan kembali tim Titans muda. Namun, masa lalu mereka kembali menghantui saat pembunuh bayaran berbahaya, Deathstroke, datang mengintai.</desc>
+    <episode-num system="xmltv_ns">1.4.0/1</episode-num>
+    <episode-num system="onscreen">S02E05</episode-num>
+  </programme>
+  <programme start="20260829190500 +0000" stop="20260829193000 +0000" channel="WarnerTV.id">
+    <title lang="id">Friends S8 - Eps. 17</title>
+    <desc lang="id">Kelompok enam sahabat menghadapi babak baru kehidupan saat Rachel hamil, memicu kesalahpahaman lucu serta romansa rumit di antara mereka di kota New York.</desc>
+    <episode-num system="xmltv_ns">7.16.0/1</episode-num>
+    <episode-num system="onscreen">S08E17</episode-num>
+  </programme>
+  <programme start="20260829193000 +0000" stop="20260829202000 +0000" channel="WarnerTV.id">
+    <title lang="id">World's Dumbest S15 - Eps. 6</title>
+    <desc lang="id">Program komedi yang menghadirkan cuplikan aksi konyol dan blunder lucu dari seluruh dunia, dikomentari secara jenaka oleh panel selebriti.</desc>
+    <episode-num system="xmltv_ns">14.5.0/1</episode-num>
+    <episode-num system="onscreen">S15E06</episode-num>
+  </programme>
+  <programme start="20260829202000 +0000" stop="20260829211000 +0000" channel="WarnerTV.id">
+    <title lang="id">World's Dumbest S15 - Eps. 7</title>
+    <desc lang="id">Program komedi yang menghadirkan cuplikan aksi konyol dan blunder lucu dari seluruh dunia, dikomentari secara jenaka oleh panel selebriti.</desc>
+    <episode-num system="xmltv_ns">14.6.0/1</episode-num>
+    <episode-num system="onscreen">S15E07</episode-num>
+  </programme>
+  <programme start="20260829211000 +0000" stop="20260829220000 +0000" channel="WarnerTV.id">
     <title lang="id">World's Dumbest S15 - Eps. 8</title>
     <desc lang="id">Program komedi yang menghadirkan cuplikan aksi konyol dan blunder lucu dari seluruh dunia, dikomentari secara jenaka oleh panel selebriti.</desc>
     <episode-num system="xmltv_ns">14.7.0/1</episode-num>
     <episode-num system="onscreen">S15E08</episode-num>
   </programme>
-  <programme start="20260828182000 +0000" stop="20260828184500 +0000" channel="WarnerTV.id">
-    <title lang="id">The Carbonaro Effect: Holiday Survival Guide</title>
-    <desc lang="id">Kumpulan trik terbaik Carbonaro diputar ulang dengan reaksi lucu dan komentar di balik layar yang mengungkap rahasia adegan.</desc>
+  <programme start="20260829220000 +0000" stop="20260829222500 +0000" channel="WarnerTV.id">
+    <title lang="id">Storage Hunters S5 - Eps. 1</title>
+    <desc lang="id">Para pemburu gudang mengincar jackpot di balik pintu yang terkunci, penuh barang misterius.</desc>
+    <episode-num system="xmltv_ns">4.0.0/1</episode-num>
+    <episode-num system="onscreen">S05E01</episode-num>
   </programme>
-  <programme start="20260828184500 +0000" stop="20260828191000 +0000" channel="WarnerTV.id">
-    <title lang="id">The Carbonaro Effect: Double Takes</title>
-    <desc lang="id">Pesulap Michael Carbonaro mengejutkan orang-orang dengan trik sulap tersembunyi dalam situasi sehari-hari, sambil merekam reaksi mereka dengan kamera tersembunyi.</desc>
+  <programme start="20260829222500 +0000" stop="20260829225000 +0000" channel="WarnerTV.id">
+    <title lang="id">Storage Hunters S5 - Eps. 2</title>
+    <desc lang="id">Para pemburu gudang mengincar jackpot di balik pintu yang terkunci, penuh barang misterius.</desc>
+    <episode-num system="xmltv_ns">4.1.0/1</episode-num>
+    <episode-num system="onscreen">S05E02</episode-num>
   </programme>
-  <programme start="20260828191000 +0000" stop="20260828200000 +0000" channel="WarnerTV.id">
-    <title lang="id">The Mentalist S6 - Eps. 19</title>
-    <desc lang="id">Patrick Jane semakin dekat dengan identitas Red John saat ia terus membantu CBI memecahkan kasus-kasus rumit.</desc>
-    <episode-num system="xmltv_ns">5.18.0/1</episode-num>
-    <episode-num system="onscreen">S06E19</episode-num>
+  <programme start="20260829225000 +0000" stop="20260829231500 +0000" channel="WarnerTV.id">
+    <title lang="id">Storage Hunters S5 - Eps. 3</title>
+    <desc lang="id">Para pemburu gudang mengincar jackpot di balik pintu yang terkunci, penuh barang misterius.</desc>
+    <episode-num system="xmltv_ns">4.2.0/1</episode-num>
+    <episode-num system="onscreen">S05E03</episode-num>
   </programme>
-  <programme start="20260828200000 +0000" stop="20260828205000 +0000" channel="WarnerTV.id">
-    <title lang="id">Dodgeball Thunderdome S1 - Eps. 9</title>
-    <desc lang="id">Kontestan bertarung di arena dodgeball raksasa penuh rintangan unik, menguji kelincahan dan strategi.</desc>
-    <episode-num system="xmltv_ns">0.8.0/1</episode-num>
-    <episode-num system="onscreen">S01E09</episode-num>
+  <programme start="20260829231500 +0000" stop="20260829234000 +0000" channel="WarnerTV.id">
+    <title lang="id">Storage Hunters S5 - Eps. 4</title>
+    <desc lang="id">Para pemburu gudang mengincar jackpot di balik pintu yang terkunci, penuh barang misterius.</desc>
+    <episode-num system="xmltv_ns">4.3.0/1</episode-num>
+    <episode-num system="onscreen">S05E04</episode-num>
   </programme>
-  <programme start="20260828205000 +0000" stop="20260828213500 +0000" channel="WarnerTV.id">
-    <title lang="id">World's Dumbest S15 - Eps. 8</title>
-    <desc lang="id">Program komedi yang menghadirkan cuplikan aksi konyol dan blunder lucu dari seluruh dunia, dikomentari secara jenaka oleh panel selebriti.</desc>
-    <episode-num system="xmltv_ns">14.7.0/1</episode-num>
-    <episode-num system="onscreen">S15E08</episode-num>
+  <programme start="20260829234000 +0000" stop="20260830000500 +0000" channel="WarnerTV.id">
+    <title lang="id">Impractical Jokers S5 - Eps. 13</title>
+    <desc lang="id">Empat sahabat saling memerintah melakukan aksi memalukan di depan umum, menciptakan momen tak terlupakan yang penuh tawa.</desc>
+    <episode-num system="xmltv_ns">4.12.0/1</episode-num>
+    <episode-num system="onscreen">S05E13</episode-num>
   </programme>
-  <programme start="20260828213500 +0000" stop="20260828220000 +0000" channel="WarnerTV.id">
+  <programme start="20260830000500 +0000" stop="20260830003000 +0000" channel="WarnerTV.id">
+    <title lang="id">Impractical Jokers S5 - Eps. 14</title>
+    <desc lang="id">Empat sahabat saling memerintah melakukan aksi memalukan di depan umum, menciptakan momen tak terlupakan yang penuh tawa.</desc>
+    <episode-num system="xmltv_ns">4.13.0/1</episode-num>
+    <episode-num system="onscreen">S05E14</episode-num>
+  </programme>
+  <programme start="20260830003000 +0000" stop="20260830005500 +0000" channel="WarnerTV.id">
+    <title lang="id">Impractical Jokers S5 - Eps. 15</title>
+    <desc lang="id">Empat sahabat saling memerintah melakukan aksi memalukan di depan umum, menciptakan momen tak terlupakan yang penuh tawa.</desc>
+    <episode-num system="xmltv_ns">4.14.0/1</episode-num>
+    <episode-num system="onscreen">S05E15</episode-num>
+  </programme>
+  <programme start="20260830005500 +0000" stop="20260830012000 +0000" channel="WarnerTV.id">
+    <title lang="id">Impractical Jokers S5 - Eps. 16</title>
+    <desc lang="id">Empat sahabat saling memerintah melakukan aksi memalukan di depan umum, menciptakan momen tak terlupakan yang penuh tawa.</desc>
+    <episode-num system="xmltv_ns">4.15.0/1</episode-num>
+    <episode-num system="onscreen">S05E16</episode-num>
+  </programme>
+  <programme start="20260830012000 +0000" stop="20260830014500 +0000" channel="WarnerTV.id">
     <title lang="id">Impractical Jokers S5 - Eps. 17</title>
     <desc lang="id">Empat sahabat saling memerintah melakukan aksi memalukan di depan umum, menciptakan momen tak terlupakan yang penuh tawa.</desc>
     <episode-num system="xmltv_ns">4.16.0/1</episode-num>
     <episode-num system="onscreen">S05E17</episode-num>
   </programme>
-  <programme start="20260828220000 +0000" stop="20260828225000 +0000" channel="WarnerTV.id">
-    <title lang="id">The Mentalist S6 - Eps. 15</title>
-    <desc lang="id">Patrick Jane semakin dekat dengan identitas Red John saat ia terus membantu CBI memecahkan kasus-kasus rumit.</desc>
-    <episode-num system="xmltv_ns">5.14.0/1</episode-num>
-    <episode-num system="onscreen">S06E15</episode-num>
-  </programme>
-  <programme start="20260828225000 +0000" stop="20260828234000 +0000" channel="WarnerTV.id">
-    <title lang="id">The Mentalist S6 - Eps. 16</title>
-    <desc lang="id">Patrick Jane semakin dekat dengan identitas Red John saat ia terus membantu CBI memecahkan kasus-kasus rumit.</desc>
-    <episode-num system="xmltv_ns">5.15.0/1</episode-num>
-    <episode-num system="onscreen">S06E16</episode-num>
-  </programme>
-  <programme start="20260828234000 +0000" stop="20260829003000 +0000" channel="WarnerTV.id">
-    <title lang="id">The Mentalist S6 - Eps. 17</title>
-    <desc lang="id">Patrick Jane semakin dekat dengan identitas Red John saat ia terus membantu CBI memecahkan kasus-kasus rumit.</desc>
-    <episode-num system="xmltv_ns">5.16.0/1</episode-num>
-    <episode-num system="onscreen">S06E17</episode-num>
-  </programme>
-  <programme start="20260829003000 +0000" stop="20260829012000 +0000" channel="WarnerTV.id">
-    <title lang="id">The Mentalist S6 - Eps. 18</title>
-    <desc lang="id">Patrick Jane semakin dekat dengan identitas Red John saat ia terus membantu CBI memecahkan kasus-kasus rumit.</desc>
-    <episode-num system="xmltv_ns">5.17.0/1</episode-num>
-    <episode-num system="onscreen">S06E18</episode-num>
-  </programme>
-  <programme start="20260829012000 +0000" stop="20260829020500 +0000" channel="WarnerTV.id">
-    <title lang="id">The Mentalist S6 - Eps. 19</title>
-    <desc lang="id">Patrick Jane semakin dekat dengan identitas Red John saat ia terus membantu CBI memecahkan kasus-kasus rumit.</desc>
-    <episode-num system="xmltv_ns">5.18.0/1</episode-num>
-    <episode-num system="onscreen">S06E19</episode-num>
-  </programme>
-  <programme start="20260829020500 +0000" stop="20260829023000 +0000" channel="WarnerTV.id">
+  <programme start="20260830014500 +0000" stop="20260830021000 +0000" channel="WarnerTV.id">
     <title lang="id">Friends S8 - Eps. 13</title>
     <desc lang="id">Kelompok enam sahabat menghadapi babak baru kehidupan saat Rachel hamil, memicu kesalahpahaman lucu serta romansa rumit di antara mereka di kota New York.</desc>
     <episode-num system="xmltv_ns">7.12.0/1</episode-num>
     <episode-num system="onscreen">S08E13</episode-num>
   </programme>
-  <programme start="20260829023000 +0000" stop="20260829045000 +0000" channel="WarnerTV.id">
-    <title lang="id">The Island</title>
-    <desc lang="id">Dua penghuni fasilitas steril menyadari bahwa hidup mereka adalah kebohongan dan melarikan diri dari konspirasi kloning.</desc>
+  <programme start="20260830021000 +0000" stop="20260830023500 +0000" channel="WarnerTV.id">
+    <title lang="id">The Big Bang Theory S7 - Eps. 10</title>
+    <desc lang="id">Kelompok ilmuwan jenius namun canggung secara sosial menghadapi dinamika hubungan asmara baru, karier ilmiah yang naik turun, serta pertemanan penuh komedi.</desc>
+    <episode-num system="xmltv_ns">6.9.0/1</episode-num>
+    <episode-num system="onscreen">S07E10</episode-num>
   </programme>
-  <programme start="20260829045000 +0000" stop="20260829074000 +0000" channel="WarnerTV.id">
-    <title lang="id">The New World</title>
-    <desc lang="id">Kisah epik benturan budaya dan romansa saat penjelajah Eropa pertama kali mendarat di Amerika dan bertemu suku asli benua itu.</desc>
+  <programme start="20260830023500 +0000" stop="20260830030000 +0000" channel="WarnerTV.id">
+    <title lang="id">The Big Bang Theory S7 - Eps. 11</title>
+    <desc lang="id">Kelompok ilmuwan jenius namun canggung secara sosial menghadapi dinamika hubungan asmara baru, karier ilmiah yang naik turun, serta pertemanan penuh komedi.</desc>
+    <episode-num system="xmltv_ns">6.10.0/1</episode-num>
+    <episode-num system="onscreen">S07E11</episode-num>
   </programme>
-  <programme start="20260829074000 +0000" stop="20260829080500 +0000" channel="WarnerTV.id">
-    <title lang="id">Friends S8 - Eps. 14</title>
-    <desc lang="id">Kelompok enam sahabat menghadapi babak baru kehidupan saat Rachel hamil, memicu kesalahpahaman lucu serta romansa rumit di antara mereka di kota New York.</desc>
-    <episode-num system="xmltv_ns">7.13.0/1</episode-num>
-    <episode-num system="onscreen">S08E14</episode-num>
+  <programme start="20260830030000 +0000" stop="20260830060000 +0000" channel="WarnerTV.id">
+    <title lang="id">The Batman</title>
+    <desc lang="id">Bruce Wayne menelusuri korupsi di Gotham saat mengejar Riddler, pembunuh berantai yang meninggalkan teka-teki sadis.</desc>
   </programme>
-  <programme start="20260829080500 +0000" stop="20260829083000 +0000" channel="WarnerTV.id">
-    <title lang="id">Friends S8 - Eps. 15</title>
-    <desc lang="id">Kelompok enam sahabat menghadapi babak baru kehidupan saat Rachel hamil, memicu kesalahpahaman lucu serta romansa rumit di antara mereka di kota New York.</desc>
-    <episode-num system="xmltv_ns">7.14.0/1</episode-num>
-    <episode-num system="onscreen">S08E15</episode-num>
+  <programme start="20260830060000 +0000" stop="20260830080000 +0000" channel="WarnerTV.id">
+    <title lang="id">Reminiscence</title>
+    <desc lang="id">Seorang penyelidik memori terobsesi mengungkap kebenaran di balik hilangnya wanita yang ia cintai.</desc>
   </programme>
-  <programme start="20260829083000 +0000" stop="20260829085500 +0000" channel="WarnerTV.id">
-    <title lang="id">Friends S8 - Eps. 16</title>
-    <desc lang="id">Kelompok enam sahabat menghadapi babak baru kehidupan saat Rachel hamil, memicu kesalahpahaman lucu serta romansa rumit di antara mereka di kota New York.</desc>
-    <episode-num system="xmltv_ns">7.15.0/1</episode-num>
-    <episode-num system="onscreen">S08E16</episode-num>
+  <programme start="20260830080000 +0000" stop="20260830082500 +0000" channel="WarnerTV.id">
+    <title lang="id">The Big Bang Theory S7 - Eps. 12</title>
+    <desc lang="id">Kelompok ilmuwan jenius namun canggung secara sosial menghadapi dinamika hubungan asmara baru, karier ilmiah yang naik turun, serta pertemanan penuh komedi.</desc>
+    <episode-num system="xmltv_ns">6.11.0/1</episode-num>
+    <episode-num system="onscreen">S07E12</episode-num>
   </programme>
-  <programme start="20260829085500 +0000" stop="20260829111500 +0000" channel="WarnerTV.id">
-    <title lang="id">Jersey Boys</title>
-    <desc lang="id">Pasang surut perjalanan empat pemuda dari lingkungan jalanan yang bersatu membentuk grup musik ikonik era 1960-an, menghadapi konflik internal dan ketenaran.</desc>
+  <programme start="20260830082500 +0000" stop="20260830085000 +0000" channel="WarnerTV.id">
+    <title lang="id">The Big Bang Theory S7 - Eps. 13</title>
+    <desc lang="id">Kelompok ilmuwan jenius namun canggung secara sosial menghadapi dinamika hubungan asmara baru, karier ilmiah yang naik turun, serta pertemanan penuh komedi.</desc>
+    <episode-num system="xmltv_ns">6.12.0/1</episode-num>
+    <episode-num system="onscreen">S07E13</episode-num>
   </programme>
-  <programme start="20260829111500 +0000" stop="20260829130000 +0000" channel="WarnerTV.id">
-    <title lang="id">Vacation</title>
-    <desc lang="id">Rusty Griswold membawa keluarganya melakukan perjalanan darat demi mempererat hubungan, namun rencana itu berubah menjadi bencana konyol.</desc>
+  <programme start="20260830085000 +0000" stop="20260830091500 +0000" channel="WarnerTV.id">
+    <title lang="id">The Big Bang Theory S7 - Eps. 14</title>
+    <desc lang="id">Kelompok ilmuwan jenius namun canggung secara sosial menghadapi dinamika hubungan asmara baru, karier ilmiah yang naik turun, serta pertemanan penuh komedi.</desc>
+    <episode-num system="xmltv_ns">6.13.0/1</episode-num>
+    <episode-num system="onscreen">S07E14</episode-num>
   </programme>
-  <programme start="20260829130000 +0000" stop="20260829154000 +0000" channel="WarnerTV.id">
-    <title lang="id">In The Heights</title>
-    <desc lang="id">Kehidupan warga komunitas imigran di New York yang penuh dinamika, mengejar impian besar, cinta, dan mempertahankan jati diri melalui musik dan tarian jalanan.</desc>
+  <programme start="20260830091500 +0000" stop="20260830105000 +0000" channel="WarnerTV.id">
+    <title lang="id">Into The Storm</title>
+    <desc lang="id">Sekelompok pemburu badai terjebak di tengah tornado dahsyat yang menghancurkan seisi kota.</desc>
   </programme>
-  <programme start="20260829154000 +0000" stop="20260829172500 +0000" channel="WarnerTV.id">
-    <title lang="id">The Invasion</title>
-    <desc lang="id">Seorang psikiater berjuang melindungi anaknya saat epidemi alien misterius menyerang dan mengubah perilaku manusia di bumi.</desc>
+  <programme start="20260830105000 +0000" stop="20260830130000 +0000" channel="WarnerTV.id">
+    <title lang="id">Godzilla</title>
+    <desc lang="id">Monster raksasa bangkit dari laut, membawa kehancuran dan memaksa manusia berjuang demi eksistensi.</desc>
   </programme>
-  <programme start="20260829154000 +0000" stop="20260829172500 +0000" channel="WarnerTV.id">
-    <title lang="id">The Invasion</title>
-    <desc lang="id">Seorang psikiater berjuang melindungi anaknya saat epidemi alien misterius menyerang dan mengubah perilaku manusia di bumi.</desc>
+  <programme start="20260830130000 +0000" stop="20260830154000 +0000" channel="WarnerTV.id">
+    <title lang="id">Tenet</title>
+    <desc lang="id">Seorang agen rahasia berjuang mencegah Perang Dunia III menggunakan teknologi manipulasi waktu "inversi", di mana ia harus bergerak melintasi aliran waktu yang berlawanan demi menyelamatkan dunia.</desc>
+  </programme>
+  <programme start="20260830154000 +0000" stop="20260830175000 +0000" channel="WarnerTV.id">
+    <title lang="id">Joker (2019)</title>
+    <desc lang="id">Kisah kelam Arthur Fleck, komedian gagal yang berubah menjadi ikon kriminalitas di kota Gotham.</desc>
+  </programme>
+  <programme start="20260830154000 +0000" stop="20260830175000 +0000" channel="WarnerTV.id">
+    <title lang="id">Joker (2019)</title>
+    <desc lang="id">Kisah kelam Arthur Fleck, komedian gagal yang berubah menjadi ikon kriminalitas di kota Gotham.</desc>
   </programme>
   <programme start="20260828170000 +0000" stop="20260828200000 +0000" channel="ZeeBioskop.id">
     <title lang="id">Karan Arjun</title>
